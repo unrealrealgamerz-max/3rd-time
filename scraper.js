@@ -3,6 +3,7 @@ const https = require('https');
 
 // This is an open, public RSS feed of freshly updated indie and arcade games
 const FEED_URL = 'https://itch.io/games/newest.xml'; 
+const FEED_URL = 'https://fapnation.com/games/newest.xml'; 
 const JSON_FILE = 'games.json';
 
 // Simple helper to download the text data from the game feed
