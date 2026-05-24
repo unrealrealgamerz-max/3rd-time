@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LustArcade | Premium Adult Hub</title>
+    <style>
+        :root { --main-bg: #0b0c10; --card-bg: #1f2833; --accent: #ff4757; --text: #c5c6c7; }
+        body { background-color: var(--main-bg); color: var(--text); font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; }
+        
+        /* Navigation */
+        header { background-color: #151a21; padding: 15px 4%; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--accent); }
+        .logo { font-size: 26px; font-weight: bold; color: var(--accent); text-transform: uppercase; text-decoration: none; }
+        .nav-links a { color: white; text-decoration: none; margin-left: 20px; font-weight: 600; }
+        .nav-links a:hover { color: var(--accent); }
+
+        /* Main Portal Layout */
+        .portal { display: flex; max-width: 1400px; margin: 30px auto; padding: 0 20px; gap: 25px; }
+        
+        /* Sidebar Filter System */
+        .sidebar { width: 250px; background: #151a21; padding: 20px; border-radius: 8px; border: 1px solid #2f3542; height: fit-content; }
+        .sidebar h3 { margin-top: 0; border-bottom: 1px solid #2f3542; padding-bottom: 10px; color: white; }
+        .filter-grp { margin-bottom: 20px; }
+        .filter-grp label { display: block; margin: 8px 0; cursor: pointer; font-size: 14px; }
+
+        /* Content Area */
+        .main-content { flex: 1; }
+        .game-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; }
+
+        /* Lewdzone/Fapnation Styled Game Card */
+        .card { background-color: var(--card-bg); border-radius: 6px; overflow: hidden; border: 1px solid #2a3543; transition: all 0.2s; position: relative; }
+        .card:hover { transform: translateY(-4px); border-color: var(--accent); box-shadow: 0 5px 15px rgba(255, 71, 87, 0.2); }
+        .thumb { width: 100%; height: 160px; background-color: #151a21; display: flex; align-items: center; justify-content: center; font-size: 14px; color: #666; }
+        .info { padding: 12px; }
+        .title { font-size: 16px; margin: 0 0 8px 0; color: white; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .meta { display: flex; justify-content: space-between; font-size: 12px; margin-bottom: 12px; }
+        .tag { background: #111; padding: 2px 6px; border-radius: 4px; color: var(--accent); font-weight: bold; }
+        .version { color: #888; }
+        .dl-link { display: block; text-align: center; background: var(--accent); color: white; padding: 8px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px; }
+        .dl-link:hover { background: #ff6b81; }
+
+        /* Premium Ad Blocks */
+        .ad-strip { background: #151a21; border: 1px dashed var(--accent); padding: 12px; text-align: center; color: var(--accent); margin-bottom: 25px; font-weight: bold; border-radius: 6px; font-size: 13px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <a href="#" class="logo">LustArcade</a>
+        <div class="nav-links">
+            <a href="#">Games</a>
+            <a href="#">Animations</a>
+            <a href="#">Trending</a>
+        </div>
+    </header>
+
+    <div class="portal">
+        <div class="sidebar">
+            <h3>Categories</h3>
+            <div class="filter-grp">
+                <label><input type="checkbox"> Visual Novel</label>
+                <label><input type="checkbox"> 3D Sandbox</label>
+                <label><input type="checkbox"> RPG / Text Based</label>
+                <label><input type="checkbox"> NSFW Animations</label>
+            </div>
+            <h3>Platform</h3>
+            <div class="filter-grp">
+                <label><input type="checkbox"> Windows PC</label>
+                <label><input type="checkbox"> Android APK</label>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="ad-strip">[ JUICYADS / EXOCLICK BANNER PLACEHOLDER ]</div>
+
+            <div class="game-grid" id="game-container">
+                </div>
+        </div>
+    </div>
+
+    <script>
+        // 1. Tell JavaScript to look for the games.json file
+        fetch('games.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Could not load games.json file");
+                }
+                return response.json();
+            })
+            .then(gamesData => {
+                const container = document.getElementById('game-container');
+                
+                // 2. Loop through every game entry inside the JSON file
+                gamesData.forEach(game => {
+                    // Create a container for the individual card
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    
+                    // 3. Drop in your exact HTML template layout, filling in the variables
+                    card.innerHTML = `
+                        <div class="thumb">IMAGE PREVIEW</div>
+                        <div class="info">
+                            <div class="meta">
+                                <span class="tag">${game.tag}</span>
+                                <span class="version">${game.version}</span>
+                            </div>
+                            <h4 class="title">${game.title}</h4>
+                            <a href="${game.downloadUrl}" target="_blank" class="dl-link">Download Game</a>
+                        </div>
+                    `;
+                    
+                    // 4. Inject this newly built card into the grid layout
+                    container.appendChild(card);
+                });
+            })
+            .catch(error => {
+                console.error("Error fetching or processing the game data:", error);
+                document.getElementById('game-container').innerHTML = `<p style="color: red;">Failed to load games layout. Check browser console details.</p>`;
+            });
+    </script>
+
+</body>
+</html>
