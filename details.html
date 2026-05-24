@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Loading… — LustArcade</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Nunito:wght@400;600&display=swap" rel="stylesheet"/>
+<style>
+  /* ── RESET & VARIABLES ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #0d0d12;
+    --surface:   #15151f;
+    --surface2:  #1c1c2a;
+    --border:    #2a2a3d;
+    --accent:    #e8305a;
+    --accent2:   #ff6b35;
+    --gold:      #f4c430;
+    --green:     #22c55e;
+    --text:      #e2e2ef;
+    --muted:     #6e6e90;
+    --tag-bg:    #1e1e30;
+    --font-head: 'Rajdhani', sans-serif;
+    --font-body: 'Nunito', sans-serif;
+    --radius:    10px;
+    --content-w: 960px;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    font-size: 14px;
+    min-height: 100vh;
+  }
+
+  /* ── HEADER ── */
+  header {
+    background: var(--surface);
+    border-bottom: 2px solid var(--accent);
+    position: sticky; top: 0; z-index: 100;
+    padding: 0 24px;
+    display: flex; align-items: center; gap: 16px;
+    height: 58px;
+    box-shadow: 0 4px 24px rgba(232,48,90,.15);
+  }
+  .logo {
+    font-family: var(--font-head);
+    font-size: 1.7rem; font-weight: 700; letter-spacing: 1px;
+    color: var(--text); text-decoration: none;
+  }
+  .logo span { color: var(--accent); }
+  .back-btn {
+    display: flex; align-items: center; gap: 6px;
+    color: var(--muted); text-decoration: none;
+    font-size: 13px; font-weight: 600;
+    padding: 6px 12px; border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface2);
+    transition: color .2s, border-color .2s;
+    margin-left: auto;
+  }
+  .back-btn:hover { color: var(--text); border-color: var(--accent); }
+
+  /* ── HERO BACKDROP ── */
+  .hero-backdrop {
+    position: relative;
+    width: 100%;
+    height: 320px;
+    overflow: hidden;
+    background: #0a0a0f;
+  }
+  .hero-backdrop img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    filter: blur(6px) brightness(.35);
+    transform: scale(1.05);
+    display: block;
+  }
+  .hero-overlay {
+    position: absolute; inset: 0;
+    background: linear-gradient(to bottom, rgba(13,13,18,.3) 0%, rgba(13,13,18,1) 100%);
+  }
+
+  /* ── PAGE CONTENT ── */
+  .page-wrap {
+    max-width: var(--content-w);
+    margin: 0 auto;
+    padding: 0 20px 60px;
+  }
+
+  /* ── GAME HEADER CARD ── */
+  .game-header {
+    display: flex;
+    gap: 24px;
+    margin-top: -90px;
+    position: relative;
+    z-index: 2;
+    align-items: flex-end;
+  }
+  .game-cover {
+    width: 200px;
+    min-width: 200px;
+    aspect-ratio: 16/9;
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 2px solid var(--border);
+    box-shadow: 0 8px 32px rgba(0,0,0,.6);
+    background: var(--surface);
+    flex-shrink: 0;
+  }
+  .game-cover img {
+    width: 100%; height: 100%;
+    object-fit: cover; display: block;
+  }
+  .game-header-info {
+    flex: 1;
+    padding-bottom: 4px;
+  }
+  .game-title {
+    font-family: var(--font-head);
+    font-size: clamp(1.6rem, 3.5vw, 2.6rem);
+    font-weight: 700;
+    line-height: 1.1;
+    text-shadow: 0 2px 12px rgba(0,0,0,.7);
+  }
+  .game-sub {
+    margin-top: 6px;
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    font-size: 13px; color: var(--muted);
+  }
+  .game-sub .dev { color: var(--accent2); font-weight: 600; }
+  .pill {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 11px; color: var(--text);
+    font-family: var(--font-head); font-weight: 600;
+    letter-spacing: .4px;
+  }
+  .pill.ongoing  { border-color: var(--accent); color: var(--accent); }
+  .pill.completed { border-color: var(--green); color: var(--green); }
+
+  /* ── STARS ── */
+  .rating-row {
+    display: flex; align-items: center; gap: 8px;
+    margin-top: 8px; font-size: 13px;
+  }
+  .stars { color: var(--gold); font-size: 16px; letter-spacing: 1px; }
+  .rating-num { font-weight: 700; color: var(--gold); }
+  .rating-votes { color: var(--muted); font-size: 12px; }
+
+  /* ── META GRID ── */
+  .meta-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 10px;
+    margin: 24px 0;
+  }
+  .meta-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 14px;
+  }
+  .meta-item .label {
+    font-size: 10px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .8px;
+    margin-bottom: 4px;
+  }
+  .meta-item .value {
+    font-family: var(--font-head);
+    font-size: 1rem; font-weight: 700;
+    color: var(--text);
+  }
+
+  /* ── TAGS ── */
+  .tags-row {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    margin-bottom: 24px;
+  }
+  .tag {
+    background: var(--tag-bg);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 11px;
+    padding: 4px 12px; border-radius: 20px;
+    cursor: default;
+    transition: background .15s, color .15s;
+  }
+  .tag:hover { background: var(--surface2); color: var(--text); }
+
+  /* ── SECTION HEADINGS ── */
+  .sec-head {
+    font-family: var(--font-head);
+    font-size: 1.15rem; font-weight: 700;
+    color: var(--text);
+    margin-bottom: 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .sec-icon { color: var(--accent); }
+
+  /* ── DESCRIPTION ── */
+  .description {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    line-height: 1.75;
+    color: #c4c4dc;
+    white-space: pre-line;
+    margin-bottom: 28px;
+  }
+
+  /* ── SCREENSHOT GALLERY ── */
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 10px;
+    margin-bottom: 28px;
+  }
+  .gallery-item {
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--border);
+    cursor: pointer;
+    position: relative;
+    aspect-ratio: 16/9;
+    background: var(--surface);
+  }
+  .gallery-item img {
+    width: 100%; height: 100%;
+    object-fit: cover; display: block;
+    transition: transform .35s ease, filter .35s ease;
+  }
+  .gallery-item:hover img { transform: scale(1.05); filter: brightness(1.1); }
+  .gallery-item::after {
+    content: '🔍';
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px;
+    background: rgba(0,0,0,.45);
+    opacity: 0; transition: opacity .25s;
+  }
+  .gallery-item:hover::after { opacity: 1; }
+
+  /* ── LIGHTBOX ── */
+  .lightbox {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.92);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 1000;
+    opacity: 0; pointer-events: none;
+    transition: opacity .25s;
+  }
+  .lightbox.active { opacity: 1; pointer-events: all; }
+  .lightbox img {
+    max-width: 90vw; max-height: 85vh;
+    border-radius: var(--radius);
+    border: 2px solid var(--border);
+    box-shadow: 0 20px 80px rgba(0,0,0,.8);
+  }
+  .lightbox-close {
+    position: fixed; top: 20px; right: 24px;
+    font-size: 28px; cursor: pointer; color: #fff;
+    background: none; border: none; line-height: 1;
+  }
+
+  /* ── CHANGELOG ── */
+  .changelog {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    color: #c4c4dc;
+    font-size: 13px;
+    line-height: 1.8;
+    white-space: pre-line;
+    margin-bottom: 28px;
+  }
+
+  /* ── SYSTEM REQUIREMENTS ── */
+  .sys-req {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    margin-bottom: 28px;
+  }
+  .sys-req ul { list-style: none; display: flex; flex-direction: column; gap: 6px; }
+  .sys-req li {
+    color: var(--muted); font-size: 13px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .sys-req li::before { content: '▸'; color: var(--accent); flex-shrink: 0; }
+
+  /* ── DOWNLOAD SECTION ── */
+  .download-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 32px;
+  }
+  .download-tabs {
+    display: flex; border-bottom: 1px solid var(--border);
+  }
+  .dl-tab {
+    padding: 10px 20px;
+    background: none; border: none;
+    color: var(--muted); cursor: pointer;
+    font-family: var(--font-head); font-size: .95rem; font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: color .2s, border-color .2s;
+    margin-bottom: -1px;
+  }
+  .dl-tab.active { color: var(--text); border-bottom-color: var(--accent); }
+
+  .download-links-list {
+    padding: 16px;
+    display: flex; flex-direction: column; gap: 10px;
+  }
+  .dl-link {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 16px;
+    text-decoration: none; color: var(--text);
+    transition: border-color .2s, box-shadow .2s;
+  }
+  .dl-link:hover { border-color: var(--accent); box-shadow: 0 4px 16px rgba(232,48,90,.15); }
+  .dl-host { font-family: var(--font-head); font-size: 1rem; font-weight: 700; }
+  .dl-platform {
+    background: var(--tag-bg);
+    border: 1px solid var(--border);
+    padding: 3px 10px; border-radius: 4px;
+    font-size: 11px; color: var(--muted);
+  }
+  .dl-btn {
+    display: flex; align-items: center; gap: 6px;
+    background: var(--accent);
+    color: #fff;
+    padding: 7px 16px; border-radius: 6px;
+    font-family: var(--font-head); font-size: .95rem; font-weight: 700;
+    white-space: nowrap;
+    transition: background .2s;
+  }
+  .dl-link:hover .dl-btn { background: #c72048; }
+
+  .dl-note {
+    padding: 10px 16px 14px;
+    color: var(--muted); font-size: 11px;
+    border-top: 1px solid var(--border);
+  }
+
+  /* ── LOADING / ERROR STATE ── */
+  .state-wrap {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    min-height: 60vh; gap: 12px; color: var(--muted); text-align: center;
+  }
+  .state-wrap h2 { font-family: var(--font-head); font-size: 1.6rem; color: var(--text); }
+  .spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 640px) {
+    header { padding: 0 14px; }
+    .page-wrap { padding: 0 12px 40px; }
+    .game-header { flex-direction: column; align-items: flex-start; margin-top: -60px; }
+    .game-cover { width: 140px; min-width: 140px; }
+    .hero-backdrop { height: 200px; }
+    .gallery { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <a href="index.html" class="logo">Lust<span>Arcade</span></a>
+  <a href="javascript:history.back()" class="back-btn">
+    <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M19 12H5m7-7-7 7 7 7"/></svg>
+    Back
+  </a>
+</header>
+
+<!-- DYNAMIC CONTENT MOUNT POINT -->
+<div id="app">
+  <div class="state-wrap">
+    <div class="spinner"></div>
+    <p>Loading game data…</p>
+  </div>
+</div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-close" id="lightboxClose" aria-label="Close">✕</button>
+  <img id="lightboxImg" src="" alt="Screenshot"/>
+</div>
+
+<script>
+/* ════════════════════════════════════════
+   LustArcade — details.js (inline)
+   ════════════════════════════════════════ */
+
+const app = document.getElementById('app');
+
+// ── HELPERS ──────────────────────────────
+function qs(sel, ctx = document) { return ctx.querySelector(sel); }
+
+function stars(rating = 0) {
+  const r = Math.round(rating);
+  let s = '';
+  for (let i = 1; i <= 5; i++) s += i <= r ? '★' : '☆';
+  return s;
+}
+
+function metaItem(label, value) {
+  return `<div class="meta-item"><div class="label">${label}</div><div class="value">${value || '—'}</div></div>`;
+}
+
+// ── RENDER PAGE ───────────────────────────
+function renderGame(g) {
+  const cover = g.cover || 'https://via.placeholder.com/800x450/15151f/6e6e90?text=No+Cover';
+  const statusClass = (g.status || '').toLowerCase();
+  const tags = (g.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+  const screenshots = (g.screenshots || []);
+  const dlLinks = (g.download_links || []);
+  const changelog = (g.changelog || '').trim();
+  const description = (g.description || 'No description available.').trim();
+
+  // Update page title
+  document.title = `${g.title || 'Game'} — LustArcade`;
+
+  app.innerHTML = `
+    <!-- HERO BACKDROP -->
+    <div class="hero-backdrop">
+      <img src="${screenshots[0] || cover}" alt="backdrop"
+           onerror="this.src='https://via.placeholder.com/1200x320/0a0a0f/111?text='"/>
+      <div class="hero-overlay"></div>
+    </div>
+
+    <div class="page-wrap">
+
+      <!-- GAME HEADER -->
+      <div class="game-header">
+        <div class="game-cover">
+          <img src="${cover}" alt="${g.title}"
+               onerror="this.src='https://via.placeholder.com/400x225/15151f/6e6e90?text=No+Image'"/>
+        </div>
+        <div class="game-header-info">
+          <h1 class="game-title">${g.title || 'Untitled'}</h1>
+          <div class="game-sub">
+            <span>by <span class="dev">${g.developer || 'Unknown'}</span></span>
+            <span class="pill ${statusClass}">${g.status || 'Unknown'}</span>
+            <span class="pill">${g.version || ''}</span>
+            <span class="pill">${g.engine || 'Unknown Engine'}</span>
+          </div>
+          <div class="rating-row">
+            <span class="stars">${stars(g.rating)}</span>
+            <span class="rating-num">${(g.rating || 0).toFixed(2)}</span>
+            <span class="rating-votes">(${g.votes || 0} votes)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- META GRID -->
+      <div class="meta-grid">
+        ${metaItem('Release Date', g.release_date)}
+        ${metaItem('File Size', g.file_size)}
+        ${metaItem('Engine', g.engine)}
+        ${metaItem('Censorship', g.censorship)}
+        ${metaItem('Version', g.version)}
+        ${metaItem('Total Views', g.views)}
+      </div>
+
+      <!-- TAGS -->
+      ${tags ? `<div class="tags-row">${tags}</div>` : ''}
+
+      <!-- DESCRIPTION -->
+      <h2 class="sec-head"><span class="sec-icon">📖</span> Description</h2>
+      <div class="description">${description}</div>
+
+      <!-- SCREENSHOTS -->
+      ${screenshots.length > 0 ? `
+        <h2 class="sec-head"><span class="sec-icon">🖼</span> Screenshots</h2>
+        <div class="gallery" id="gallery">
+          ${screenshots.map((src, i) => `
+            <div class="gallery-item" data-src="${src}" data-index="${i}">
+              <img src="${src}" alt="Screenshot ${i + 1}" loading="lazy"
+                   onerror="this.src='https://via.placeholder.com/800x450/15151f/6e6e90?text=Screenshot'"/>
+            </div>`).join('')}
+        </div>` : ''}
+
+      <!-- CHANGELOG -->
+      ${changelog ? `
+        <h2 class="sec-head"><span class="sec-icon">🔥</span> What's New in ${g.version}?</h2>
+        <div class="changelog">${changelog}</div>` : ''}
+
+      <!-- SYSTEM REQUIREMENTS -->
+      <h2 class="sec-head"><span class="sec-icon">🖥</span> System Requirements</h2>
+      <div class="sys-req">
+        <ul>
+          <li>Dual Core Pentium or equivalent Processor</li>
+          <li>Intel HD 2000 or equivalent Graphics</li>
+          <li>${g.file_size || 'N/A'} of free disk space (recommended to have twice as much)</li>
+          <li>Windows 7/8/10/11 (64-bit recommended)</li>
+        </ul>
+      </div>
+
+      <!-- HOW TO INSTALL -->
+      <h2 class="sec-head"><span class="sec-icon">⚙</span> How to Install</h2>
+      <div class="sys-req" style="margin-bottom:28px">
+        <ul>
+          <li>Download the file from one of the links below</li>
+          <li>Extract the archive using WinRAR or 7-Zip</li>
+          <li>Run the executable inside the extracted folder</li>
+        </ul>
+      </div>
+
+      <!-- DOWNLOAD -->
+      <h2 class="sec-head"><span class="sec-icon">⬇</span> Download Links</h2>
+      <div class="download-box">
+        <div class="download-tabs">
+          <button class="dl-tab active">Community Links</button>
+          <button class="dl-tab">Official Links</button>
+        </div>
+        <div class="download-links-list">
+          ${dlLinks.length > 0 ? dlLinks.map(link => `
+            <a class="dl-link" href="${link.url || '#'}" target="_blank" rel="noopener noreferrer">
+              <div>
+                <div class="dl-host">${link.host || 'Unknown'}</div>
+                <span class="dl-platform">🖥 ${link.platform || 'Windows'}</span>
+              </div>
+              <span class="dl-btn">
+                <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M12 5v14m7-7-7 7-7-7"/></svg>
+                Download
+              </span>
+            </a>`).join('') : `<p style="color:var(--muted);padding:10px 0">No download links available.</p>`}
+        </div>
+        <div class="dl-note">
+          ⚠ We index links from trusted file-sharing hosts. We do not host files ourselves.
+          Report broken links in the comment section.
+        </div>
+      </div>
+
+    </div><!-- /page-wrap -->
+  `;
+
+  // ── GALLERY LIGHTBOX ──
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightboxImg');
+  const lbClose = document.getElementById('lightboxClose');
+
+  document.querySelectorAll('.gallery-item').forEach(el => {
+    el.addEventListener('click', () => {
+      lightboxImg.src = el.dataset.src;
+      lightbox.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    });
+  });
+
+  function closeLightbox() {
+    lightbox.classList.remove('active');
+    document.body.style.overflow = '';
+    setTimeout(() => { lightboxImg.src = ''; }, 300);
+  }
+
+  lbClose.addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', e => { if (e.target === lightbox) closeLightbox(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+
+  // ── DOWNLOAD TABS ──
+  const tabs = document.querySelectorAll('.dl-tab');
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      // Future: swap between official/community link sets
+    });
+  });
+}
+
+// ── SHOW ERROR ────────────────────────────
+function renderError(msg) {
+  app.innerHTML = `
+    <div class="state-wrap">
+      <h2>⚠ Game Not Found</h2>
+      <p>${msg}</p>
+      <a href="index.html" style="color:var(--accent);margin-top:12px;font-weight:600;">← Back to Games</a>
+    </div>`;
+}
+
+// ── INIT ──────────────────────────────────
+async function init() {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+
+  if (!id) {
+    renderError('No game ID specified in the URL.');
+    return;
+  }
+
+  try {
+    const res = await fetch('games.json');
+    if (!res.ok) throw new Error('Could not load games.json');
+    const games = await res.json();
+
+    const game = games.find(g => g.id === decodeURIComponent(id));
+    if (!game) {
+      renderError(`No game found with id "<strong>${id}</strong>".`);
+      return;
+    }
+
+    renderGame(game);
+  } catch (err) {
+    renderError(err.message);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
