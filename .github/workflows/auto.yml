@@ -2,7 +2,7 @@ name: 2-Hour Content Auto-Refresh
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Wakes up automatically every 2 hours
+    - cron: '1 */0 * * *' # Wakes up automatically every 2 hours
   workflow_dispatch: # Gives you a manual button to test it immediately
 
 jobs:
