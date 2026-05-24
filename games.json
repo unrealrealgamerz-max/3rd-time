@@ -1,24 +1,28 @@
 [
   {
-    "title": "Warlock of Lust",
-    "version": "v5.7",
-    "category": "3D Game",
+    "title": "College Life Uncensored",
+    "version": "v0.8.2",
+    "category": "Visual Novel",
     "engine": "Ren'Py",
-    "views": "33.5K",
+    "views": "142.5K",
     "date": "24 May, 2026",
-    "tags": ["3D Game", "Animated", "Harem"],
+    "tags": ["Visual Novel", "Animated", "Harem"],
+    "platforms": ["Windows PC", "Android APK"],
+    "description": "Navigate your way through difficult campus exams, dramatic relationships, and choices that impact your path completely. Meet unique characters and unlock premium animated arcs directly.",
     "image_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop",
-    "download_url": "https://itch.io"
+    "download_url": "https://mega.nz"
   },
   {
-    "title": "Heroine Rumble 2",
-    "version": "v0.38.1",
-    "category": "Visual Novel",
+    "title": "City of Desires",
+    "version": "v1.0 Final",
+    "category": "3D Game",
     "engine": "Unity",
-    "views": "70.1K",
-    "date": "22 May, 2026",
-    "tags": ["Visual Novel", "Animated", "MILF"],
+    "views": "89.1K",
+    "date": "23 May, 2026",
+    "tags": ["3D Game", "Animated", "MILF"],
+    "platforms": ["Windows PC"],
+    "description": "Build an absolute underworld empire across the glowing metropolis. Manage tactical assets, negotiate structural deals, and secure alliances with premium side story options.",
     "image_url": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop",
-    "download_url": "https://itch.io"
+    "download_url": "https://mediafire.com"
   }
 ]
