@@ -1,4 +1,4 @@
-name: 12-Hour Content Auto-Refresh
+name: 2-Hour Content Auto-Refresh
 
 on:
   schedule:
