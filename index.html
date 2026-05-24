@@ -3,121 +3,380 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LustArcade | Premium Adult Hub</title>
+    <title>LustArcade | Premium Adult Gaming Hub</title>
     <style>
-        :root { --main-bg: #0b0c10; --card-bg: #1f2833; --accent: #ff4757; --text: #c5c6c7; }
-        body { background-color: var(--main-bg); color: var(--text); font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; }
-        
-        /* Navigation */
-        header { background-color: #151a21; padding: 15px 4%; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--accent); }
-        .logo { font-size: 26px; font-weight: bold; color: var(--accent); text-transform: uppercase; text-decoration: none; }
-        .nav-links a { color: white; text-decoration: none; margin-left: 20px; font-weight: 600; }
-        .nav-links a:hover { color: var(--accent); }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
 
-        /* Main Portal Layout */
-        .portal { display: flex; max-width: 1400px; margin: 30px auto; padding: 0 20px; gap: 25px; }
-        
-        /* Sidebar Filter System */
-        .sidebar { width: 250px; background: #151a21; padding: 20px; border-radius: 8px; border: 1px solid #2f3542; height: fit-content; }
-        .sidebar h3 { margin-top: 0; border-bottom: 1px solid #2f3542; padding-bottom: 10px; color: white; }
-        .filter-grp { margin-bottom: 20px; }
-        .filter-grp label { display: block; margin: 8px 0; cursor: pointer; font-size: 14px; }
+        body {
+            background-color: #0b0c10;
+            color: #c5c6c7;
+        }
+
+        /* Header / Navbar */
+        header {
+            background-color: #1f2833;
+            border-bottom: 2px solid #ff4a5a;
+            padding: 15px 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            color: #ff4a5a;
+            font-size: 28px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-decoration: none;
+        }
+
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin-left: 20px;
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #ff4a5a;
+        }
+
+        /* Main Layout Layout */
+        .container {
+            display: flex;
+            padding: 30px 5%;
+            gap: 30px;
+        }
+
+        /* Sidebar Filters */
+        .sidebar {
+            flex: 1;
+            background-color: #151a21;
+            border-radius: 8px;
+            padding: 20px;
+            max-width: 300px;
+            height: fit-content;
+            border: 1px solid #24303f;
+        }
+
+        .sidebar h2 {
+            color: #ffffff;
+            font-size: 20px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #24303f;
+            padding-bottom: 8px;
+        }
+
+        .filter-group {
+            margin-bottom: 25px;
+        }
+
+        .filter-group h3 {
+            color: #ff4a5a;
+            font-size: 14px;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            letter-spacing: 1px;
+        }
+
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            cursor: pointer;
+            font-size: 14px;
+            user-select: none;
+        }
+
+        .checkbox-label input {
+            margin-right: 10px;
+            accent-color: #ff4a5a;
+            transform: scale(1.2);
+        }
 
         /* Content Area */
-        .main-content { flex: 1; }
-        .game-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; }
+        .main-content {
+            flex: 3;
+        }
 
-        /* Lewdzone/Fapnation Styled Game Card */
-        .card { background-color: var(--card-bg); border-radius: 6px; overflow: hidden; border: 1px solid #2a3543; transition: all 0.2s; position: relative; }
-        .card:hover { transform: translateY(-4px); border-color: var(--accent); box-shadow: 0 5px 15px rgba(255, 71, 87, 0.2); }
-        .thumb { width: 100%; height: 160px; background-color: #151a21; display: flex; align-items: center; justify-content: center; font-size: 14px; color: #666; }
-        .info { padding: 12px; }
-        .title { font-size: 16px; margin: 0 0 8px 0; color: white; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        .meta { display: flex; justify-content: space-between; font-size: 12px; margin-bottom: 12px; }
-        .tag { background: #111; padding: 2px 6px; border-radius: 4px; color: var(--accent); font-weight: bold; }
-        .version { color: #888; }
-        .dl-link { display: block; text-align: center; background: var(--accent); color: white; padding: 8px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px; }
-        .dl-link:hover { background: #ff6b81; }
+        .section-title {
+            color: #ffffff;
+            font-size: 24px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
 
-        /* Premium Ad Blocks */
-        .ad-strip { background: #151a21; border: 1px dashed var(--accent); padding: 12px; text-align: center; color: var(--accent); margin-bottom: 25px; font-weight: bold; border-radius: 6px; font-size: 13px; }
+        .section-title::before {
+            content: '';
+            display: inline-block;
+            width: 5px;
+            height: 24px;
+            background-color: #ff4a5a;
+            border-radius: 2px;
+        }
+
+        /* Grid Layout matching LewdZone */
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        /* Advanced Game Cards */
+        .game-card {
+            background-color: #151a21;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid #24303f;
+            transition: transform 0.3s, border-color 0.3s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .game-card:hover {
+            transform: translateY(-5px);
+            border-color: #ff4a5a;
+        }
+
+        .image-container {
+            position: relative;
+            width: 100%;
+            height: 180px;
+            background-color: #0b0c10;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .badges-top {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .badge {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .badge-engine { background-color: #24303f; color: #fff; }
+        .badge-version { background-color: rgba(0, 0, 0, 0.75); color: #ff4a5a; border: 1px solid #ff4a5a; }
+
+        .game-info {
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+
+        .game-title {
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            text-decoration: none;
+        }
+
+        .game-title:hover {
+            color: #ff4a5a;
+        }
+
+        .game-meta {
+            font-size: 12px;
+            color: #858585;
+            margin-bottom: 12px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .tags-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-bottom: 15px;
+        }
+
+        .tag-pill {
+            background-color: #1f2833;
+            color: #c5c6c7;
+            font-size: 11px;
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+
+        .download-button {
+            display: block;
+            text-align: center;
+            background-color: #ff4a5a;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 14px;
+            margin-top: auto;
+            transition: background-color 0.3s;
+        }
+
+        .download-button:hover {
+            background-color: #e03443;
+        }
+
+        /* Responsive Mobile Layout */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            .sidebar {
+                max-width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
 
     <header>
         <a href="#" class="logo">LustArcade</a>
-        <div class="nav-links">
+        <nav>
             <a href="#">Games</a>
             <a href="#">Animations</a>
             <a href="#">Trending</a>
-        </div>
+        </nav>
     </header>
 
-    <div class="portal">
-        <div class="sidebar">
-            <h3>Categories</h3>
-            <div class="filter-grp">
-                <label><input type="checkbox"> Visual Novel</label>
-                <label><input type="checkbox"> 3D Sandbox</label>
-                <label><input type="checkbox"> RPG / Text Based</label>
-                <label><input type="checkbox"> NSFW Animations</label>
+    <div class="container">
+        <aside class="sidebar">
+            <h2>Filters</h2>
+            
+            <div class="filter-group">
+                <h3>Category / Tags</h3>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Visual Novel"> Visual Novel</label>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="3D Game"> 3D Game</label>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Animated"> Animated</label>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="RPG"> RPG</label>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="MILF"> MILF</label>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Incest"> Incest</label>
+                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Harem"> Harem</label>
             </div>
-            <h3>Platform</h3>
-            <div class="filter-grp">
-                <label><input type="checkbox"> Windows PC</label>
-                <label><input type="checkbox"> Android APK</label>
+
+            <div class="filter-group">
+                <h3>Platform</h3>
+                <label class="checkbox-label"><input type="checkbox" class="platform-filter" value="Windows PC"> Windows PC</label>
+                <label class="checkbox-label"><input type="checkbox" class="platform-filter" value="Android APK"> Android APK</label>
             </div>
-        </div>
+        </aside>
 
-        <div class="main-content">
-            <div class="ad-strip">[ JUICYADS / EXOCLICK BANNER PLACEHOLDER ]</div>
-
-            <div class="game-grid" id="game-container">
+        <main class="main-content">
+            <h2 class="section-title" id="display-title">All Adult Games</h2>
+            <div class="games-grid" id="games-container">
                 </div>
-        </div>
+        </main>
     </div>
 
     <script>
-        // 1. Tell JavaScript to look for the games.json file
-        fetch('games.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error("Could not load games.json file");
-                }
-                return response.json();
-            })
-            .then(gamesData => {
-                const container = document.getElementById('game-container');
-                
-                // 2. Loop through every game entry inside the JSON file
-                gamesData.forEach(game => {
-                    // Create a container for the individual card
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    
-                    // 3. Drop in your exact HTML template layout, filling in the variables
-                    card.innerHTML = `
-                        <div class="thumb">IMAGE PREVIEW</div>
-                        <div class="info">
-                            <div class="meta">
-                                <span class="tag">${game.tag}</span>
-                                <span class="version">${game.version}</span>
-                            </div>
-                            <h4 class="title">${game.title}</h4>
-                            <a href="${game.downloadUrl}" target="_blank" class="dl-link">Download Game</a>
-                        </div>
-                    `;
-                    
-                    // 4. Inject this newly built card into the grid layout
-                    container.appendChild(card);
-                });
-            })
-            .catch(error => {
-                console.error("Error fetching or processing the game data:", error);
-                document.getElementById('game-container').innerHTML = `<p style="color: red;">Failed to load games layout. Check browser console details.</p>`;
-            });
-    </script>
+        let allGames = [];
 
+        // Fetch updates from your automated database
+        async function fetchGamesDatabase() {
+            try {
+                const response = await fetch('./games.json');
+                allGames = await response.json();
+                renderGamesList(allGames);
+            } catch (error) {
+                console.error("Database connection failed:", error);
+            }
+        }
+
+        // Logic engine to build and filter cards matching selected choices
+        function renderGamesList(gamesToDisplay) {
+            const container = document.getElementById('games-container');
+            container.innerHTML = '';
+
+            if(gamesToDisplay.length === 0) {
+                container.innerHTML = '<p style="color: #858585; padding: 20px;">No matches found. Try checking other filter boxes.</p>';
+                return;
+            }
+
+            gamesToDisplay.forEach(game => {
+                // Generates tags layout strings inside your card matrix
+                const tagsHTML = game.tags ? game.tags.map(t => `<span class="tag-pill">${t}</span>`).join('') : '';
+                
+                container.innerHTML += `
+                    <div class="game-card">
+                        <div class="image-container" style="background-image: url('${game.image_url || 'https://via.placeholder.com/300x180?text=LustArcade'}')">
+                            <div class="badges-top">
+                                <span class="badge badge-engine">${game.engine || 'Unity'}</span>
+                                <span class="badge badge-version">${game.version || 'v1.0'}</span>
+                            </div>
+                        </div>
+                        <div class="game-info">
+                            <a href="${game.download_url}" class="game-title">${game.title}</a>
+                            <div class="game-meta">
+                                <span>👁️ ${game.views || '1.2K'} views</span>
+                                <span>📅 ${game.date || 'Today'}</span>
+                            </div>
+                            <div class="tags-list">
+                                ${tagsHTML || `<span class="tag-pill">${game.category || 'Game'}</span>`}
+                            </div>
+                            <a href="${game.download_url}" target="_blank" class="download-button">Download Game</a>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+
+        // Monitors filter checks to calculate user matching criteria
+        function applyFilters() {
+            // Find every checked tag box
+            const selectedCategories = Array.from(document.querySelectorAll('.category-filter:checked')).map(cb => cb.value);
+            const selectedPlatforms = Array.from(document.querySelectorAll('.platform-filter:checked')).map(cb => cb.value);
+
+            let filteredResults = allGames;
+
+            // If categories are selected, filter items matching at least one selection
+            if (selectedCategories.length > 0) {
+                filteredResults = filteredResults.filter(game => {
+                    const gameCategory = game.category || '';
+                    const gameTags = game.tags || [];
+                    return selectedCategories.includes(gameCategory) || gameTags.some(t => selectedCategories.includes(t));
+                });
+            }
+
+            // Apply platform criteria filtering cascading layout matrix updates
+            if (selectedPlatforms.length > 0) {
+                filteredResults = filteredResults.filter(game => {
+                    const platforms = game.platforms || ['Windows PC'];
+                    return platforms.some(p => selectedPlatforms.includes(p));
+                });
+            }
+
+            renderGamesList(filteredResults);
+        }
+
+        // Add change detection listeners on checking elements matrix
+        document.querySelectorAll('.category-filter, .platform-filter').forEach(checkbox => {
+            checkbox.addEventListener('change', applyFilters);
+        });
+
+        // Initialize script logic
+        window.onload = fetchGamesDatabase;
+    </script>
 </body>
 </html>
