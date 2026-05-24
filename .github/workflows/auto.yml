@@ -1,0 +1,29 @@
+name: 12-Hour Content Auto-Refresh
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Wakes up automatically every 12 hours
+  workflow_dispatch: # Gives you a manual button to test it immediately
+
+jobs:
+  run-updater:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository files
+        uses: actions/checkout@v4
+
+      - name: Load Node.js environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Scraper Script
+        run: node scraper.js
+
+      - name: Push new updates to Cloudflare
+        run: |
+          git config --global user.name "LustArcadeBot"
+          git config --global user.email "bot@lustarcade.com"
+          git add games.json
+          git commit -m "Automated game catalog update" || exit 0
+          git push
