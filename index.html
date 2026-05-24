@@ -37,6 +37,7 @@
             text-transform: uppercase;
             letter-spacing: 2px;
             text-decoration: none;
+            cursor: pointer;
         }
 
         nav a {
@@ -51,7 +52,7 @@
             color: #ff4a5a;
         }
 
-        /* Main Layout Layout */
+        /* Layout Structure */
         .container {
             display: flex;
             padding: 30px 5%;
@@ -95,7 +96,6 @@
             margin-bottom: 10px;
             cursor: pointer;
             font-size: 14px;
-            user-select: none;
         }
 
         .checkbox-label input {
@@ -104,7 +104,7 @@
             transform: scale(1.2);
         }
 
-        /* Content Area */
+        /* Main Content Grid */
         .main-content {
             flex: 3;
         }
@@ -127,14 +127,13 @@
             border-radius: 2px;
         }
 
-        /* Grid Layout matching LewdZone */
         .games-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             gap: 25px;
         }
 
-        /* Advanced Game Cards */
+        /* Game Cards Layout */
         .game-card {
             background-color: #151a21;
             border-radius: 8px;
@@ -143,6 +142,7 @@
             transition: transform 0.3s, border-color 0.3s;
             display: flex;
             flex-direction: column;
+            cursor: pointer;
         }
 
         .game-card:hover {
@@ -191,11 +191,6 @@
             font-size: 18px;
             font-weight: 600;
             margin-bottom: 8px;
-            text-decoration: none;
-        }
-
-        .game-title:hover {
-            color: #ff4a5a;
         }
 
         .game-meta {
@@ -221,41 +216,171 @@
             border-radius: 3px;
         }
 
-        .download-button {
+        .view-button {
             display: block;
             text-align: center;
             background-color: #ff4a5a;
             color: #ffffff;
-            text-decoration: none;
             padding: 10px;
             border-radius: 5px;
             font-weight: bold;
             font-size: 14px;
             margin-top: auto;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        /* Premium Inside-the-Web Dedicated Detail Page Overlay */
+        .game-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(11, 12, 16, 0.95);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 20px;
+        }
+
+        .modal-content {
+            background-color: #151a21;
+            border: 1px solid #ff4a5a;
+            border-radius: 12px;
+            max-width: 850px;
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            box-shadow: 0 0 30px rgba(255, 74, 90, 0.2);
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            color: #ffffff;
+            font-size: 35px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 1010;
+            transition: color 0.3s;
+        }
+
+        .close-modal:hover {
+            color: #ff4a5a;
+        }
+
+        .modal-hero {
+            width: 100%;
+            height: 350px;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .modal-hero::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 150px;
+            background: linear-gradient(transparent, #151a21);
+        }
+
+        .modal-body {
+            padding: 30px;
+        }
+
+        .modal-title {
+            color: #ffffff;
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .modal-meta-row {
+            display: flex;
+            gap: 20px;
+            color: #858585;
+            font-size: 14px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #24303f;
+            padding-bottom: 15px;
+        }
+
+        .modal-description {
+            line-height: 1.6;
+            margin-bottom: 25px;
+            font-size: 15px;
+        }
+
+        .download-box {
+            background-color: #1f2833;
+            border-radius: 8px;
+            padding: 20px;
+            border: 1px solid #24303f;
+        }
+
+        .download-box h4 {
+            color: #ffffff;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+
+        .download-links-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .download-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #151a21;
+            padding: 12px 20px;
+            border-radius: 5px;
+            border-left: 4px solid #ff4a5a;
+        }
+
+        .platform-name {
+            font-weight: 600;
+            color: #ffffff;
+        }
+
+        .actual-download-btn {
+            background-color: #ff4a5a;
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 13px;
             transition: background-color 0.3s;
         }
 
-        .download-button:hover {
+        .actual-download-btn:hover {
             background-color: #e03443;
         }
 
-        /* Responsive Mobile Layout */
         @media (max-width: 768px) {
-            .container {
-                flex-direction: column;
-            }
-            .sidebar {
-                max-width: 100%;
-            }
+            .container { flex-direction: column; }
+            .sidebar { max-width: 100%; }
+            .modal-hero { height: 200px; }
         }
     </style>
 </head>
 <body>
 
     <header>
-        <a href="#" class="logo">LustArcade</a>
+        <a href="#" class="logo" onclick="resetFilters()">LustArcade</a>
         <nav>
-            <a href="#">Games</a>
+            <a href="#" onclick="resetFilters()">Games</a>
             <a href="#">Animations</a>
             <a href="#">Trending</a>
         </nav>
@@ -272,7 +397,6 @@
                 <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Animated"> Animated</label>
                 <label class="checkbox-label"><input type="checkbox" class="category-filter" value="RPG"> RPG</label>
                 <label class="checkbox-label"><input type="checkbox" class="category-filter" value="MILF"> MILF</label>
-                <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Incest"> Incest</label>
                 <label class="checkbox-label"><input type="checkbox" class="category-filter" value="Harem"> Harem</label>
             </div>
 
@@ -284,73 +408,129 @@
         </aside>
 
         <main class="main-content">
-            <h2 class="section-title" id="display-title">All Adult Games</h2>
+            <h2 class="section-title">All Adult Games</h2>
             <div class="games-grid" id="games-container">
                 </div>
         </main>
     </div>
 
+    <div class="game-modal" id="details-modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeGameDetails()">&times;</span>
+            <div class="modal-hero" id="modal-hero-bg"></div>
+            <div class="modal-body">
+                <h3 class="modal-title" id="modal-game-title">Game Title</h3>
+                <div class="modal-meta-row">
+                    <span id="modal-engine">Engine: Unity</span>
+                    <span id="modal-version">Version: v1.0</span>
+                    <span id="modal-views">👁️ 1.2K views</span>
+                    <span id="modal-date">📅 Today</span>
+                </div>
+                <div class="modal-description" id="modal-desc">
+                    No overview details supplied for this item structure database entry.
+                </div>
+                <div class="download-box">
+                    <h4>Available Download Mirrors</h4>
+                    <div class="download-links-grid" id="modal-downloads-container">
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         let allGames = [];
 
-        // Fetch updates from your automated database
         async function fetchGamesDatabase() {
             try {
                 const response = await fetch('./games.json');
                 allGames = await response.json();
-                renderGamesList(allGames);
+                renderGamesGrid(allGames);
             } catch (error) {
-                console.error("Database connection failed:", error);
+                console.error("Database parsing connection failure:", error);
             }
         }
 
-        // Logic engine to build and filter cards matching selected choices
-        function renderGamesList(gamesToDisplay) {
+        function renderGamesGrid(gamesToDisplay) {
             const container = document.getElementById('games-container');
             container.innerHTML = '';
 
             if(gamesToDisplay.length === 0) {
-                container.innerHTML = '<p style="color: #858585; padding: 20px;">No matches found. Try checking other filter boxes.</p>';
+                container.innerHTML = '<p style="color: #858585; padding: 20px;">No exact structural tag parameters matched.</p>';
                 return;
             }
 
-            gamesToDisplay.forEach(game => {
-                // Generates tags layout strings inside your card matrix
-                const tagsHTML = game.tags ? game.tags.map(t => `<span class="tag-pill">${t}</span>`).join('') : '';
+            gamesToDisplay.forEach((game, index) => {
+                const tagsHTML = game.tags ? game.tags.map(t => `<span class="tag-pill">${t}</span>`).join('') : `<span class="tag-pill">${game.category || 'Game'}</span>`;
                 
                 container.innerHTML += `
-                    <div class="game-card">
+                    <div class="game-card" onclick="openGameDetails(${index})">
                         <div class="image-container" style="background-image: url('${game.image_url || 'https://via.placeholder.com/300x180?text=LustArcade'}')">
                             <div class="badges-top">
-                                <span class="badge badge-engine">${game.engine || 'Unity'}</span>
+                                <span class="badge badge-engine">${game.engine || 'Ren\'Py'}</span>
                                 <span class="badge badge-version">${game.version || 'v1.0'}</span>
                             </div>
                         </div>
                         <div class="game-info">
-                            <a href="${game.download_url}" class="game-title">${game.title}</a>
+                            <div class="game-title">${game.title}</div>
                             <div class="game-meta">
-                                <span>👁️ ${game.views || '1.2K'} views</span>
-                                <span>📅 ${game.date || 'Today'}</span>
+                                <span>👁️ ${game.views || '4.5K'} views</span>
+                                <span>📅 ${game.date || 'Recent'}</span>
                             </div>
                             <div class="tags-list">
-                                ${tagsHTML || `<span class="tag-pill">${game.category || 'Game'}</span>`}
+                                ${tagsHTML}
                             </div>
-                            <a href="${game.download_url}" target="_blank" class="download-button">Download Game</a>
+                            <button class="view-button">View Game Details</button>
                         </div>
                     </div>
                 `;
             });
         }
 
-        // Monitors filter checks to calculate user matching criteria
+        // Dedicated Internal Route Execution Logic Engine 
+        function openGameDetails(index) {
+            const game = allGames[index];
+            if(!game) return;
+
+            document.getElementById('modal-hero-bg').style.backgroundImage = `url('${game.image_url || ''}')`;
+            document.getElementById('modal-game-title').innerText = game.title;
+            document.getElementById('modal-engine').innerText = `Engine: ${game.engine || 'Ren\'Py'}`;
+            document.getElementById('modal-version').innerText = `Version: ${game.version || 'v1.0'}`;
+            document.getElementById('modal-views').innerText = `👁️ ${game.views || '4.5K'} views`;
+            document.getElementById('modal-date').innerText = `📅 ${game.date || 'Recent'}`;
+            
+            // Custom detail presentation fallback text
+            document.getElementById('modal-desc').innerText = game.description || `Welcome to ${game.title}! Click below to securely download the package mirror assets directly onto your native gaming platform. Safe and scanned files optimized for quick distribution paths.`;
+
+            // Build structural download routes matrix inside your web page environment
+            const downContainer = document.getElementById('modal-downloads-container');
+            const targetPlatforms = game.platforms || ['Windows PC', 'Android APK'];
+            downContainer.innerHTML = '';
+
+            targetPlatforms.forEach(platform => {
+                downContainer.innerHTML += `
+                    <div class="download-row">
+                        <span class="platform-name">🚀 Direct Download for ${platform}</span>
+                        <a href="${game.download_url || '#'}" target="_blank" class="actual-download-btn">Mirror Link</a>
+                    </div>
+                `;
+            });
+
+            document.getElementById('details-modal').style.display = 'flex';
+            document.body.style.overflow = 'hidden'; // freezes main scrollbar background
+        }
+
+        function closeGameDetails() {
+            document.getElementById('details-modal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+
         function applyFilters() {
-            // Find every checked tag box
             const selectedCategories = Array.from(document.querySelectorAll('.category-filter:checked')).map(cb => cb.value);
             const selectedPlatforms = Array.from(document.querySelectorAll('.platform-filter:checked')).map(cb => cb.value);
 
             let filteredResults = allGames;
 
-            // If categories are selected, filter items matching at least one selection
             if (selectedCategories.length > 0) {
                 filteredResults = filteredResults.filter(game => {
                     const gameCategory = game.category || '';
@@ -359,23 +539,25 @@
                 });
             }
 
-            // Apply platform criteria filtering cascading layout matrix updates
             if (selectedPlatforms.length > 0) {
                 filteredResults = filteredResults.filter(game => {
-                    const platforms = game.platforms || ['Windows PC'];
+                    const platforms = game.platforms || ['Windows PC', 'Android APK'];
                     return platforms.some(p => selectedPlatforms.includes(p));
                 });
             }
 
-            renderGamesList(filteredResults);
+            renderGamesGrid(filteredResults);
         }
 
-        // Add change detection listeners on checking elements matrix
+        function resetFilters() {
+            document.querySelectorAll('.category-filter, .platform-filter').forEach(cb => cb.checked = false);
+            renderGamesGrid(allGames);
+        }
+
         document.querySelectorAll('.category-filter, .platform-filter').forEach(checkbox => {
             checkbox.addEventListener('change', applyFilters);
         });
 
-        // Initialize script logic
         window.onload = fetchGamesDatabase;
     </script>
 </body>
