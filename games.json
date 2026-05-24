@@ -1,37 +1,24 @@
 [
   {
-    "title": "るいす.exe　デモ版 [Free] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://furutsuki.itch.io/ruisu-exe-demo"
+    "title": "Warlock of Lust",
+    "version": "v5.7",
+    "category": "3D Game",
+    "engine": "Ren'Py",
+    "views": "33.5K",
+    "date": "24 May, 2026",
+    "tags": ["3D Game", "Animated", "Harem"],
+    "image_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop",
+    "download_url": "https://itch.io"
   },
   {
-    "title": "I hardly know&#039;er - Poker Idler Prototype [Free] [Other]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://chatex.itch.io/i-hardly-knower-poker-idler"
-  },
-  {
-    "title": "Gorilla Rush Horror [Free] [Android]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://liminal-studios-official.itch.io/gorilla-rush-horror"
-  },
-  {
-    "title": "Corujinha Bem [Free]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://working-lemon.itch.io/corujinha-bem"
-  },
-  {
-    "title": "Printer Panic [Free]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://thebigmayo.itch.io/printer-panic"
+    "title": "Heroine Rumble 2",
+    "version": "v0.38.1",
+    "category": "Visual Novel",
+    "engine": "Unity",
+    "views": "70.1K",
+    "date": "22 May, 2026",
+    "tags": ["Visual Novel", "Animated", "MILF"],
+    "image_url": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop",
+    "download_url": "https://itch.io"
   }
 ]
