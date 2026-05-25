@@ -1,5 +1,40 @@
 [
   {
+    "title": "RocketBoost [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chris-ll91.itch.io/rocketboost"
+  },
+  {
+    "title": "Return of Theseus [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kaimune.itch.io/return-of-theseus"
+  },
+  {
+    "title": "Mouse House [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://henrynova.itch.io/mouse-house"
+  },
+  {
+    "title": "Halfway to Dark [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pilgrim81.itch.io/connection"
+  },
+  {
+    "title": "Tubby Protocol (MULTIPLAYER) [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://laservr1.itch.io/tubby-protocol"
+  },
+  {
     "id": "warlock-of-lust",
     "title": "Warlock of Lust",
     "version": "v5.7",
@@ -18,12 +53,29 @@
       "https://picsum.photos/seed/warlust2/800/450",
       "https://picsum.photos/seed/warlust3/800/450"
     ],
-    "tags": ["3D Game", "3DCG", "Anal Sex", "Animated", "BDSM", "Combat", "Corruption", "Cosplay"],
+    "tags": [
+      "3D Game",
+      "3DCG",
+      "Anal Sex",
+      "Animated",
+      "BDSM",
+      "Combat",
+      "Corruption",
+      "Cosplay"
+    ],
     "description": "You play a role of a young prince who was ousted by his mother and is now in exile. It is up to you to seduce your allies, corrupt your enemies and regain control of your throne. You will take a role as a champion of the Goddess of Lust to take control of the kingdom.\n\nGame has an RPG and management elements – you gain skills while you must also develop your castle as a base of operations. Game includes a real time combat system where you must summon minions to tank your foes while you cast spells to either kill, or enslave them.",
     "changelog": "Refugee camp expanded. New buildings are now available – farm, tailor shop, bakery, kitchen, onsen and tavern.\nSettlers now visit public places, like tavern and onsen.\nRefugees now include elves with different body type.\nAll items are now unlocked.",
     "download_links": [
-      { "host": "Fileknot", "url": "#", "platform": "Windows" },
-      { "host": "Transfaze", "url": "#", "platform": "Windows" }
+      {
+        "host": "Fileknot",
+        "url": "#",
+        "platform": "Windows"
+      },
+      {
+        "host": "Transfaze",
+        "url": "#",
+        "platform": "Windows"
+      }
     ]
   },
   {
@@ -44,11 +96,24 @@
       "https://picsum.photos/seed/heroine2a/800/450",
       "https://picsum.photos/seed/heroine2b/800/450"
     ],
-    "tags": ["3D Game", "3DCG", "Ahegao", "Anal Sex", "Animated", "BDSM", "Big Ass", "Big Tits"],
+    "tags": [
+      "3D Game",
+      "3DCG",
+      "Ahegao",
+      "Anal Sex",
+      "Animated",
+      "BDSM",
+      "Big Ass",
+      "Big Tits"
+    ],
     "description": "Immerse yourself in the heart-pounding world of Heroine Rumble 2, an exhilarating versus battle game that will awaken your primal instincts. Prepare to engage in thrilling combat as you customize your characters and battle your way to victory.",
     "changelog": "New stage added. New outfits and customization options.",
     "download_links": [
-      { "host": "Mega", "url": "#", "platform": "Windows" }
+      {
+        "host": "Mega",
+        "url": "#",
+        "platform": "Windows"
+      }
     ]
   },
   {
@@ -69,12 +134,29 @@
       "https://picsum.photos/seed/interroga/800/450",
       "https://picsum.photos/seed/interrogb/800/450"
     ],
-    "tags": ["3D Game", "Ahegao", "Anal Sex", "Animated", "Big Ass", "Big Tits", "Corruption", "Female Domination"],
+    "tags": [
+      "3D Game",
+      "Ahegao",
+      "Anal Sex",
+      "Animated",
+      "Big Ass",
+      "Big Tits",
+      "Corruption",
+      "Female Domination"
+    ],
     "description": "Interrogation's Edge is an Interrogative Visual Novel where you use unique interrogation techniques to extract the truth from suspects and find new leads for your case.",
     "changelog": "New case added. Improved interrogation mechanics.",
     "download_links": [
-      { "host": "Fileknot", "url": "#", "platform": "Windows" },
-      { "host": "Fileknot", "url": "#", "platform": "Mac" }
+      {
+        "host": "Fileknot",
+        "url": "#",
+        "platform": "Windows"
+      },
+      {
+        "host": "Fileknot",
+        "url": "#",
+        "platform": "Mac"
+      }
     ]
   }
 ]
