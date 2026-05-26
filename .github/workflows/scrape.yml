@@ -1,7 +1,7 @@
 name: 🎮 Auto-Scrape Games
 
 on:
-  # ── Run every 2 hours automatically ──────────────────────
+  # ── Run every 4 hours automatically ──────────────────────
   schedule:
     - cron: "0 */4 * * *"
 
