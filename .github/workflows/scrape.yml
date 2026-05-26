@@ -3,7 +3,7 @@ name: 🎮 Auto-Scrape Games
 on:
   # ── Run every 2 hours automatically ──────────────────────
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
 
   # ── Also allow manual trigger from GitHub Actions tab ────
   workflow_dispatch:
