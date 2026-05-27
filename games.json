@@ -1,5 +1,40 @@
 [
   {
+    "title": "Die In the Jack [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://capybaraenjoyer.itch.io/die-in-the-jack"
+  },
+  {
+    "title": "Fish Escape [Free] [Action] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://illiamoha.itch.io/fish-escape"
+  },
+  {
+    "title": "Anniversary Ruined [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://missclickkz.itch.io/anniversary-ruined"
+  },
+  {
+    "title": "MyLittleCity [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gduck1606.itch.io/mylittlecity"
+  },
+  {
+    "title": "Zombie PeHis [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://exada.itch.io/zombie-pehis"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
