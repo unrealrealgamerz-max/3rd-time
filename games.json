@@ -1,5 +1,40 @@
 [
   {
+    "title": "Clockheart [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://balkanramgames.itch.io/clockheart"
+  },
+  {
+    "title": "Flashed [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://maryburak0.itch.io/flashed"
+  },
+  {
+    "title": "Latte Land Coffee Shop Tycoon [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gladiatortr.itch.io/latte-land-tycoon"
+  },
+  {
+    "title": "Colony of the Forsaken [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://build-and-dominate.itch.io/colony-of-the-forsaken"
+  },
+  {
+    "title": "Dead Stop - No Vacancy [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://camel101.itch.io/dead-stop-no-vacancy"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
