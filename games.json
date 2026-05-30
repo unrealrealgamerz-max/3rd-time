@@ -1,5 +1,40 @@
 [
   {
+    "title": "Werewolf the Apocalypse - Part 2 [$4.99] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bluedragonaimusic.itch.io/werewolf-the-apocalypse-2"
+  },
+  {
+    "title": "FPS Enhanced Template [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://belfork.itch.io/fps-enhanced-template"
+  },
+  {
+    "title": "Sniper Showdown [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dexalune.itch.io/sniper-showdown"
+  },
+  {
+    "title": "Incredibox Template nyakobfbcx [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nyakobfbcx.itch.io/incredibox-template-nyakobfbcx"
+  },
+  {
+    "title": "HappyCity [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://biancamachino.itch.io/happycity"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
