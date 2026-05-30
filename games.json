@@ -1,5 +1,40 @@
 [
   {
+    "title": "Space Guardian [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oradusoma.itch.io/space-guardian"
+  },
+  {
+    "title": "Endless Trials [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://denmonty.itch.io/endless-trials"
+  },
+  {
+    "title": "Ballon Punch [Free] [Adventure] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://babeko.itch.io/ballon-punch"
+  },
+  {
+    "title": "Data Dive [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://babeko.itch.io/data-dive"
+  },
+  {
+    "title": "Magneto&#039;s Rainbow [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://babeko.itch.io/magnetos-rainbow"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
