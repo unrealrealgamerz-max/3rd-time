@@ -1,5 +1,40 @@
 [
   {
+    "title": "ふわもこサバイバル [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://natsume0207.itch.io/fuwamoko"
+  },
+  {
+    "title": "Angry Cats [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://robocode-pb.itch.io/angry-cats"
+  },
+  {
+    "title": "ArcaneBound Demo [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://asardial.itch.io/arcanebound"
+  },
+  {
+    "title": "Slot or Not [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://noaheqxixz.itch.io/slot-or-not"
+  },
+  {
+    "title": "Planet Life [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ravenouskiwi.itch.io/planet-life"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
