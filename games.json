@@ -1,5 +1,40 @@
 [
   {
+    "title": "FLUX [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zhanyona.itch.io/flux"
+  },
+  {
+    "title": "Alistair White and the Rose [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cordii.itch.io/alistair-white-and-the-rose"
+  },
+  {
+    "title": "Low Cortisol Roads [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://takahacker.itch.io/low-cortisol-roads"
+  },
+  {
+    "title": "Galactic Survivor [Free] [Platformer] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rea-kurti.itch.io/survivor"
+  },
+  {
+    "title": "Stellar Escape [Free] [Platformer] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://efjeniamasho.itch.io/stellar-escape"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
