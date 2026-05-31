@@ -1,5 +1,40 @@
 [
   {
+    "title": "Follow your path [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://adrien-fontaine.itch.io/follow-your-path"
+  },
+  {
+    "title": "Их история [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ogurchik3228.itch.io/their-story"
+  },
+  {
+    "title": "SpeedCar [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://danishautist.itch.io/speedcar"
+  },
+  {
+    "title": "Pixels of the Past: Armello Edition [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://discobatz.itch.io/pixels-of-the-past-armello-edition"
+  },
+  {
+    "title": "Billidetkunst opgave [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kalo-h.itch.io/billidetkunst-opgave"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
