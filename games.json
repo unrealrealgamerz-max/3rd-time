@@ -1,5 +1,40 @@
 [
   {
+    "title": "Endetta [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moistsierra.itch.io/endetta"
+  },
+  {
+    "title": "Knightfall: Through the Rift [$5.00] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rhinochoc.itch.io/knightfall-through-the-rift"
+  },
+  {
+    "title": "Zen Slice Edge [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://greenlvrgames.itch.io/zse"
+  },
+  {
+    "title": "NULL CHARGE [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lav3000.itch.io/null-charge"
+  },
+  {
+    "title": "Planet Liberator [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://voidtick.itch.io/planet-liberator"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
