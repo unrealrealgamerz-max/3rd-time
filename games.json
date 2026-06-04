@@ -1,5 +1,40 @@
 [
   {
+    "title": "Fishermon [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alloutgames.itch.io/fishermon"
+  },
+  {
+    "title": "Heaven Run [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jpvds.itch.io/heaven-run"
+  },
+  {
+    "title": "Coin collector [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://consta34.itch.io/coin-collector"
+  },
+  {
+    "title": "Waffles [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://noctrinee.itch.io/waffles"
+  },
+  {
+    "title": "FFX Runner - DergRemake [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://teffyderg.itch.io/ffx-runner-dergremake"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
