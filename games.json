@@ -1,5 +1,40 @@
 [
   {
+    "title": "Your Bank [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nrnzztl.itch.io/your-bank"
+  },
+  {
+    "title": "--=O O=-- [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://briefer666.itch.io/oo"
+  },
+  {
+    "title": "SAVENDASH! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://datmike7.itch.io/savendash"
+  },
+  {
+    "title": "Mulan&#039;s Heartvest [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nrnzztl.itch.io/mulans-heartvest"
+  },
+  {
+    "title": "Rhythm to the End [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sins-ray.itch.io/rhythm-to-the-end"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
