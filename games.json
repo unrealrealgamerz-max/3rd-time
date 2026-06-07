@@ -1,5 +1,40 @@
 [
   {
+    "title": "Beast Brawl [Free] [Fighting] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gokoi1234k.itch.io/beast-brawl"
+  },
+  {
+    "title": "Space Bizzare Adventure [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://johanpramudito.itch.io/space-bizzare-adventure"
+  },
+  {
+    "title": "Misha [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thanursan.itch.io/misha"
+  },
+  {
+    "title": "Find an EXIT [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://y4ngx.itch.io/find-an-exit"
+  },
+  {
+    "title": "Hexachain [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pleasinglyamateur.itch.io/hexachain"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
