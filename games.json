@@ -1,5 +1,40 @@
 [
   {
+    "title": "DINO RUN [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stitchin.itch.io/dino-run"
+  },
+  {
+    "title": "Cold Duty [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://telli-studio.itch.io/cold-duty"
+  },
+  {
+    "title": "Bank Break Slots [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://emeraldcoastgames.itch.io/poker-slots"
+  },
+  {
+    "title": "Illusion Crown [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://enteo.itch.io/illusion-crown"
+  },
+  {
+    "title": "Rooftop Rampage [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://diegzz.itch.io/rooftop-rampage"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
