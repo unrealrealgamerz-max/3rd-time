@@ -1,5 +1,40 @@
 [
   {
+    "title": "Standard Human Pizza Demo [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bricchi-games.itch.io/standard-human-pizza-demo"
+  },
+  {
+    "title": "Olympic Quizzes [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rodrigo-c.itch.io/olympic-quizzes"
+  },
+  {
+    "title": "The Wicked Land of Oz [Free] [Fighting] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://asgeirr-art.itch.io/the-wicked-land-of-oz"
+  },
+  {
+    "title": "door stuck alchemy proof of concept [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://theolomeubraga.itch.io/door-stuck-alchemy-proof-of-concept"
+  },
+  {
+    "title": "PONG [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://the-52.itch.io/pong"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
