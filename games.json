@@ -1,5 +1,40 @@
 [
   {
+    "title": "Catch the Garbage [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://labiest.itch.io/catch-the-garbage"
+  },
+  {
+    "title": "Tintoria [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anaqtc.itch.io/tintoria"
+  },
+  {
+    "title": "Serve Or Die [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://deadtapestudio.itch.io/serve-or-die"
+  },
+  {
+    "title": "High Card War [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joly-studios.itch.io/high-card-war"
+  },
+  {
+    "title": "VEÑ̷̯̋̐ͩ͢͜ † IAM̨̡̜͚̺̠͇͍̹̬͈͙̰͖̀̂̇̅̉̃̊̾̽ͦ̋̃̓ͬ́͘̕̕̕͝͞ [Free] [Survival] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://allmerr.itch.io/veniam"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
