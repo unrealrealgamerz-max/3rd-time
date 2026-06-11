@@ -1,5 +1,40 @@
 [
   {
+    "title": "Roundel [Free] [Other] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bionicnecromancer.itch.io/roundel"
+  },
+  {
+    "title": "Go Left [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://axolotldude54.itch.io/go-left"
+  },
+  {
+    "title": "Fabulous Flying Frog Festival [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orangeheartcreative.itch.io/fabulous-flying-frog-festival"
+  },
+  {
+    "title": "Swipe [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moutonapps.itch.io/swipe"
+  },
+  {
+    "title": "Fog of the Dead – 3D Zombie Survival [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moutonapps.itch.io/zombie-survival"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
