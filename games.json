@@ -1,5 +1,40 @@
 [
   {
+    "title": "Die Krise übernimmt [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://p3ngui.itch.io/die-krise-bernimmt"
+  },
+  {
+    "title": "Conway&#039;s Conquerors [Free] [Strategy] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://terriblecrow.itch.io/conways-conquerors"
+  },
+  {
+    "title": "WENDER v2 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://colba.itch.io/wender-v2"
+  },
+  {
+    "title": "DIGGER Remastered [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dibbeke.itch.io/digger-remastered"
+  },
+  {
+    "title": "26_Underwater Age [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://game-worlds-camp.itch.io/underwater-age"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
