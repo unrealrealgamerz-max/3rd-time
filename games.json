@@ -1,5 +1,40 @@
 [
   {
+    "title": "PC SOCCER NES [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://foko-games.itch.io/pc-soccer-nes"
+  },
+  {
+    "title": "The Skeleton Maze Remake [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://a-crazy-fr-guy.itch.io/the-skeleton-maze-remake"
+  },
+  {
+    "title": "Jolly and Whimsy (Thai Ver.) [Free] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mondaymocha.itch.io/jollyandwhimsy-th"
+  },
+  {
+    "title": "ジョリーとウィムジーさん [Free] [Visual Novel] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mondaymocha.itch.io/jollyandwhimsy-jp"
+  },
+  {
+    "title": "Jolly and Whimsy [Free] [Visual Novel] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mondaymocha.itch.io/jollyandwhimsy"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
