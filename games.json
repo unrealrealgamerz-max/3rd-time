@@ -1,5 +1,40 @@
 [
   {
+    "title": "Olympus [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://akacooh.itch.io/olympus"
+  },
+  {
+    "title": "The Last Ticket [Free] [Shooter] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://capnsockless.itch.io/the-final-ticket"
+  },
+  {
+    "title": "How I Bloomed [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bloomdevs.itch.io/how-i-bloomed"
+  },
+  {
+    "title": "Es bleibe Licht! [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spartaswar.itch.io/es-bleibe-licht"
+  },
+  {
+    "title": "The Heart of Mother Earth [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://noamoa.itch.io/the-heart-of-mother-earth"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
