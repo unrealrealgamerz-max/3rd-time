@@ -1,5 +1,40 @@
 [
   {
+    "title": "都道府県を射撃 [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arigatou-109.itch.io/todoufuken-shot"
+  },
+  {
+    "title": "Space Rock Survior [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lmmeight.itch.io/space-rock-survior"
+  },
+  {
+    "title": "Booster idle [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shadow-gt.itch.io/booster-idle"
+  },
+  {
+    "title": "Fantasy Shopkeeper (Showcase) [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sinkingshipgames.itch.io/fantasyshopkeeperproto"
+  },
+  {
+    "title": "Floors [$2.00] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jukidaruma.itch.io/floors"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
