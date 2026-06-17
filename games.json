@@ -1,5 +1,40 @@
 [
   {
+    "title": "Eden [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://better-gaming.itch.io/eden"
+  },
+  {
+    "title": "Wheel of Fortune [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://black-hope.itch.io/wheel-of-fortune"
+  },
+  {
+    "title": "[NEW] Proze&#039;s Monolith (v0.02) [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ashabea.itch.io/prozes-monolith-v002"
+  },
+  {
+    "title": "Detona [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://black-hope.itch.io/detona"
+  },
+  {
+    "title": "The Catacombs [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://immasam.itch.io/the-catacombs"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
