@@ -1,5 +1,40 @@
 [
   {
+    "title": "Best gallery [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dominator-gc.itch.io/best-gallery"
+  },
+  {
+    "title": "Be Nice To Your Cat [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://budoh.itch.io/benicetoyourcat"
+  },
+  {
+    "title": "Кузница Кликер [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rol0s.itch.io/forgeclicker"
+  },
+  {
+    "title": "Party Of Corpses [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nikolayevsk.itch.io/party-of-corpses"
+  },
+  {
+    "title": "True North [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arlucgames.itch.io/true-north"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
