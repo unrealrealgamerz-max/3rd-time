@@ -1,5 +1,40 @@
 [
   {
+    "title": "Crystal Age [Free] [Adventure] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://skel-studio.itch.io/crystal-age"
+  },
+  {
+    "title": "Two Knights Enter a Dungeon [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kafieldev.itch.io/two-knights-enter-a-dungeon"
+  },
+  {
+    "title": "TORGMAN Adventures Pt.2 DEMO [Free] [Platformer] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://torg-gaming-expo.itch.io/torgman-adventures-pt2-demo"
+  },
+  {
+    "title": "The Final Dream [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://iceveilstudios.itch.io/the-final-dream"
+  },
+  {
+    "title": "Etans brainrot nightmare ( code 1 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://etangth24.itch.io/etans-brainrot-nightmare-code-1"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
