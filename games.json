@@ -1,5 +1,40 @@
 [
   {
+    "title": "HellPit [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ugnius-aleksiejus.itch.io/hellpit"
+  },
+  {
+    "title": "AI Lockdown - Level 2 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://softsheep.itch.io/ai-lockdown-level-2"
+  },
+  {
+    "title": "BEAST KEEPER [$2.99] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ashimo-games.itch.io/beast-keeper"
+  },
+  {
+    "title": "Hop &amp; Dash [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://andrews-cool-games.itch.io/hop-dash"
+  },
+  {
+    "title": "Carp Diem [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kibibi.itch.io/carp-diem"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
