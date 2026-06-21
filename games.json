@@ -1,5 +1,40 @@
 [
   {
+    "title": "Quickscope Arena [Free] [Fighting] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://playerlabs.itch.io/quickscope-arena"
+  },
+  {
+    "title": "Flingy.io [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spin4team4096.itch.io/flingyio"
+  },
+  {
+    "title": "Qama [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jacob-engelhardt.itch.io/qama"
+  },
+  {
+    "title": "Sisters [Free] [Interactive Fiction] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://teabaggie.itch.io/sisters"
+  },
+  {
+    "title": "The Ship Remembers [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://divine950.itch.io/the-ship-remembers"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
