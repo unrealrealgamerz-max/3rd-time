@@ -1,5 +1,40 @@
 [
   {
+    "title": "Godless Sails [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tuile.itch.io/godless-sails"
+  },
+  {
+    "title": "Blait [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://netik-dev.itch.io/blait"
+  },
+  {
+    "title": "Grilled Poppycock [Free] [Adventure] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://netik-dev.itch.io/grilled-poppycock"
+  },
+  {
+    "title": "Tres Patitas [Free] [Other] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://valentine-dev.itch.io/tres-patitas"
+  },
+  {
+    "title": "The Lunar Conspiracy [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jasonyell.itch.io/the-lunar-conspiracy"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
