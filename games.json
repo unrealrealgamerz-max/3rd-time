@@ -1,5 +1,40 @@
 [
   {
+    "title": "horrorfoot [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zeynep-ay.itch.io/hoorroorfoot"
+  },
+  {
+    "title": "Jet Engine(3D Turbowarp Sonic Engine) [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crystalized-dev.itch.io/jet-engine3d-turbowarp-sonic-engine"
+  },
+  {
+    "title": "Krazy Kart [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrbluesky656.itch.io/krazy-kart"
+  },
+  {
+    "title": "Generic Idle Platformer Game (GIPG) [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://levthelion.itch.io/generic-idle-platformer-game"
+  },
+  {
+    "title": "Verdigris：锈苔 [Free] [Visual Novel] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chessia.itch.io/verdigris-story"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
