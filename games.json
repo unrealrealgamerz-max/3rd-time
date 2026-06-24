@@ -1,5 +1,40 @@
 [
   {
+    "title": "Flutter [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fydmyster.itch.io/flutter"
+  },
+  {
+    "title": "Snake Pro [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rafaelavendanorangel.itch.io/snake-pro"
+  },
+  {
+    "title": "Idle Isekai Mining Demo [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bitvillain.itch.io/idle-isekai-mining"
+  },
+  {
+    "title": "Tales from the Dark Manor [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://working-penguins-games.itch.io/tales-from-the-dark-manor"
+  },
+  {
+    "title": "Gongffelof [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inarsy.itch.io/gongffelof"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
