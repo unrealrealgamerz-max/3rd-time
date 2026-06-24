@@ -1,5 +1,40 @@
 [
   {
+    "title": "Crash Buggy [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://timmarkin.itch.io/crash-buggy"
+  },
+  {
+    "title": "Claw Tycoon [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://timmarkin.itch.io/claw-tycoon"
+  },
+  {
+    "title": "Shipwreck Scrub [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://timmarkin.itch.io/shipwreck-scrub"
+  },
+  {
+    "title": "Merge Diner [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://timmarkin.itch.io/merge-diner"
+  },
+  {
+    "title": "Beast Bazaar [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://timmarkin.itch.io/beast-bazaar"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
