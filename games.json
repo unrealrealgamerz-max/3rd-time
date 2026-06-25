@@ -1,5 +1,40 @@
 [
   {
+    "title": "Do You Chair? [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rc-soda5.itch.io/do-you-chair"
+  },
+  {
+    "title": "UNPAID INTERN [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fritzofallfails.itch.io/unpaid-intern"
+  },
+  {
+    "title": "WEATHERED [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://supsiep.itch.io/weathered"
+  },
+  {
+    "title": "GHOUSTden&#039;s Spin To Win Game [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ghoustden.itch.io/ghoustdens-spin-to-win-game"
+  },
+  {
+    "title": "GEN-SPINNER [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thebarddd.itch.io/gen-spinner"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
