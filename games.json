@@ -1,5 +1,40 @@
 [
   {
+    "title": "Top Spin [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tapesclub.itch.io/top-spin"
+  },
+  {
+    "title": "Click To Spin [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mastersword11.itch.io/click-to-spin"
+  },
+  {
+    "title": "Furrball Adventure [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gitshiton.itch.io/furrball-adventure"
+  },
+  {
+    "title": "Rotund World [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ngoeman.itch.io/rotundworld"
+  },
+  {
+    "title": "Gobby Robs a Bank [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pugify.itch.io/gobby"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
