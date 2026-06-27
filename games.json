@@ -1,5 +1,40 @@
 [
   {
+    "title": "New Weapon [Free] [Shooter] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://matyball5.itch.io/new-weapon"
+  },
+  {
+    "title": "Simple Sudoku [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kurokamori.itch.io/simple-sudoku"
+  },
+  {
+    "title": "The Red and Rum on the Sailing Wheel [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://adriangc.itch.io/the-red-and-rum-on-the-sailing-wheel"
+  },
+  {
+    "title": "_ΩMEGA_POINT [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cathroon.itch.io/omega-point"
+  },
+  {
+    "title": "SALOON [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://destriernikh.itch.io/saloon"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
