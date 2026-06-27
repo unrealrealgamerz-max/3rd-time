@@ -1,5 +1,40 @@
 [
   {
+    "title": "snake arena [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://denethavi.itch.io/snake-arena"
+  },
+  {
+    "title": "Thief [Free] [Adventure] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xie-games.itch.io/thief"
+  },
+  {
+    "title": "I died of heatstoke [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pogal.itch.io/i-died-of-heatstoke"
+  },
+  {
+    "title": "Bungle [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lostudios.itch.io/bungle"
+  },
+  {
+    "title": "A Sweet Embrace [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joshuaronayne.itch.io/a-sweet-embrace"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
