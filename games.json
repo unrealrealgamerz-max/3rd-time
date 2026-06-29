@@ -1,5 +1,40 @@
 [
   {
+    "title": "1206 NF [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://michigan-modding.itch.io/1206-nf"
+  },
+  {
+    "title": "Fullmetal Acremist [$2.99] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yurileearts.itch.io/fullmetal-acremist"
+  },
+  {
+    "title": "Tiny Hero, and a Giant Sword [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://flyber.itch.io/tiny-hero-and-a-giant-sword"
+  },
+  {
+    "title": "Mask Forge [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://codifik.itch.io/mask-forge"
+  },
+  {
+    "title": "Propeller Pal [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lbj3midec.itch.io/propeller-pal"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
