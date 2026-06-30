@@ -1,5 +1,40 @@
 [
   {
+    "title": "Platform Brawlers [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fyrekn.itch.io/platform-brawlers"
+  },
+  {
+    "title": "Wings Of A Butterfly [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yonatmiz.itch.io/wings-of-a-butterfly"
+  },
+  {
+    "title": "My Boyfriend is a Ghost Demon from Hell?!? [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://soggywater321.itch.io/my-boyfriend-is-a-ghost-demon-from-hell"
+  },
+  {
+    "title": "V-Scroll Transition DEMO made with NES Maker (V-Scroll Metroidvania module in development) [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://m8si.itch.io/v-scroll-transition-for-nes-maker"
+  },
+  {
+    "title": "Twig&#039;s Adventure 64 [$1.99] [Platformer] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kurigamedev.itch.io/twigs-adventure-64"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
