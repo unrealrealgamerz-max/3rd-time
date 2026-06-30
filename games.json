@@ -1,5 +1,40 @@
 [
   {
+    "title": "Coin Sort Increment [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://merrysl.itch.io/csi"
+  },
+  {
+    "title": "Recollections of Soup [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chariot-rider.itch.io/recollections-of-soup"
+  },
+  {
+    "title": "Battleship - Beta [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gian-maria01.itch.io/battleship"
+  },
+  {
+    "title": "Dice and Thighs Club [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chillfrank.itch.io/dice-and-thighs-club"
+  },
+  {
+    "title": "Apex Tag [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://glowgt.itch.io/apex-tag"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
