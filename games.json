@@ -1,5 +1,40 @@
 [
   {
+    "title": "Been Tower [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shit-games-studio.itch.io/been-tower"
+  },
+  {
+    "title": "Foxheart Wing - Return to the Skies [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jweststudios.itch.io/foxheart-wing"
+  },
+  {
+    "title": "Mailo [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elreyes-code.itch.io/mailo"
+  },
+  {
+    "title": "Mourning Brew [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sloaney.itch.io/mourning-brew"
+  },
+  {
+    "title": "TWIN Hotel, Spa, and More [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
