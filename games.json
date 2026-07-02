@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ghost Taggers [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mintyvr1.itch.io/ghost-taggers"
+  },
+  {
+    "title": "Elemental Vanguard [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://onetjme.itch.io/elemental-vanguard"
+  },
+  {
+    "title": "Humans Can Fly [$1.00] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://viral-vector.itch.io/humans-can-fly"
+  },
+  {
+    "title": "Inner Light (Wav) [$1.00] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://temclaughlin.itch.io/inner-light-wav"
+  },
+  {
+    "title": "Croc Hunter [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lukey3d.itch.io/croc-hunter"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
