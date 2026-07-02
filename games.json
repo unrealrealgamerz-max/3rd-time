@@ -1,5 +1,40 @@
 [
   {
+    "title": "Slime game [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://memelko.itch.io/slime-game"
+  },
+  {
+    "title": "RUN2D [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ahmedhalloul.itch.io/run2d"
+  },
+  {
+    "title": "Den of Chance [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lunchucks.itch.io/den-of-chance"
+  },
+  {
+    "title": "Find the number [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ttt1203.itch.io/find-the-number"
+  },
+  {
+    "title": "√3 / SquareRootOfThree [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://iam3aldi.itch.io/3"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
