@@ -1,5 +1,40 @@
 [
   {
+    "title": "LAIKA [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nite-child.itch.io/laika"
+  },
+  {
+    "title": "RoboGranny VR [Free] [Adventure] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chomp-18alt.itch.io/robogranny-vr"
+  },
+  {
+    "title": "Davey [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://audrrrrrrrey.itch.io/davey"
+  },
+  {
+    "title": "Racing Carrear-Beta 0.0.1 restricted access [$1,000.00] [Racing] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lifegamesworld.itch.io/racing-carrear"
+  },
+  {
+    "title": "Quiet Proof [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sevngames.itch.io/quiet-proof"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
