@@ -1,5 +1,40 @@
 [
   {
+    "title": "Snake City [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://blue-pigeon-studios.itch.io/snake-city"
+  },
+  {
+    "title": "Just a Commute [$1.00] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oymal.itch.io/just-a-commute"
+  },
+  {
+    "title": "Gayon the Little Crayon [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kevjohngames.itch.io/gayon-the-little-crayon"
+  },
+  {
+    "title": "Platofmer - Marko Prugovečki [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hu-iz-vi.itch.io/marko"
+  },
+  {
+    "title": "Escape The Lady [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prateeshn.itch.io/escape-the-lady"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
