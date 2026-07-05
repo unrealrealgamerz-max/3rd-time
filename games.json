@@ -1,5 +1,40 @@
 [
   {
+    "title": "Charly García Run 2 [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://marianemarin.itch.io/charly-garcia-run-2"
+  },
+  {
+    "title": "Gravity Grooows [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://karelisho.itch.io/gravity-grooows"
+  },
+  {
+    "title": "Colinear Space [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cathematical.itch.io/colinear-space"
+  },
+  {
+    "title": "Summer Tagg [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://repentdev.itch.io/summer-tagg"
+  },
+  {
+    "title": "Jikan Peril: Chronoshift (Demo) [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crashton-powerstone.itch.io/jikan-peril-chronoshift"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
