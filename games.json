@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pack a punch [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://porfamatenme.itch.io/pack-a-punch"
+  },
+  {
+    "title": "Spuder [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cont1nue.itch.io/spuder"
+  },
+  {
+    "title": "UglyRockets [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://khamari-creations.itch.io/uglyrockets"
+  },
+  {
+    "title": "Cicada [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cardigan-cowboy.itch.io/cicada"
+  },
+  {
+    "title": "Clinical Loop [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vonark.itch.io/clinical-loop"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
