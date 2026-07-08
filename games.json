@@ -1,5 +1,40 @@
 [
   {
+    "title": "한림고교일기 [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tissuex.itch.io/hrimdiary"
+  },
+  {
+    "title": "city_html [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rebell-echo.itch.io/city-html"
+  },
+  {
+    "title": "Geometry Crash 4.0 [Free] [Educational] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://deltavery.itch.io/geometry-crash-40"
+  },
+  {
+    "title": "Space Explorer [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://st4v07.itch.io/space-explorer"
+  },
+  {
+    "title": "narcoempireweb [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://delyei.itch.io/narcoempireweb"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
