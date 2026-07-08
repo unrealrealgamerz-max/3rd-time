@@ -1,5 +1,40 @@
 [
   {
+    "title": "Bhop [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cont1nue.itch.io/bhop"
+  },
+  {
+    "title": "Totally Normal Meat Co. [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yetkintmn.itch.io/totally-normal-meat-co"
+  },
+  {
+    "title": "Flappy Ronaldo [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://akdenizli-kartal.itch.io/flappy-ronaldo"
+  },
+  {
+    "title": "devbox — The Maintenance Toolkit [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://reptylestudios.itch.io/devbox"
+  },
+  {
+    "title": "ninja-climb [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://metaworldos.itch.io/ninja-climb"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
