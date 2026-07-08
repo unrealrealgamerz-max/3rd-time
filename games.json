@@ -1,5 +1,40 @@
 [
   {
+    "title": "Keep it Clean [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://abbydoorknob.itch.io/keep-it-clean"
+  },
+  {
+    "title": "Rescue Dog [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://namalgo.itch.io/rescue-dog"
+  },
+  {
+    "title": "Gravity Shift [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ryancoder.itch.io/gravity-shift"
+  },
+  {
+    "title": "Survival RPG - OpenGenie Demo [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://legojazz.itch.io/survival-rpg-opengenie-demo"
+  },
+  {
+    "title": "No Checkpoint [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://imzeth.itch.io/no-checkpoint"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
