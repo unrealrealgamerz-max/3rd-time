@@ -1,5 +1,40 @@
 [
   {
+    "title": "Mushrun [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://huboo.itch.io/mushrun"
+  },
+  {
+    "title": "Chase Game [Free] [Action] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nwish.itch.io/chase-game"
+  },
+  {
+    "title": "Sky Wings [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orilix.itch.io/sky-wings"
+  },
+  {
+    "title": "SCRAPPED [Free] [Action] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://office-serval.itch.io/scrapped"
+  },
+  {
+    "title": "Trash Talk [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yoavf8.itch.io/trash-talk"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
