@@ -1,5 +1,40 @@
 [
   {
+    "title": "バトルボートレーサー 〜栄光のモンキーターン〜 [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cracon-st.itch.io/battle-boat-racer"
+  },
+  {
+    "title": "Estación [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://baltasarq.itch.io/estacion"
+  },
+  {
+    "title": "queen of the kitsunes [Free] [Visual Novel] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kproject166.itch.io/queen-of-the-kitsunes"
+  },
+  {
+    "title": "Bouncy Cube [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fhbm.itch.io/bouncy-cube"
+  },
+  {
+    "title": "idk what this is [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://miagaming.itch.io/bullshit"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
