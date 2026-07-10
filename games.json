@@ -1,5 +1,40 @@
 [
   {
+    "title": "Give mart some friends! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lory-issilly.itch.io/give-mart-some-friends"
+  },
+  {
+    "title": "Brimstone [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nalabs.itch.io/brimstone"
+  },
+  {
+    "title": "Minecave [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chaozz.itch.io/minecave"
+  },
+  {
+    "title": "Vocaloid Clicker [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sp728.itch.io/vocaloid-clicker"
+  },
+  {
+    "title": "Zombie Labyrinth [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oxo-ateliers.itch.io/zombie-labyrinth"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
