@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tobygotchi [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kautchau-legal.itch.io/tobygotchi"
+  },
+  {
+    "title": "Geeked Tag [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vexythedev.itch.io/geeked-tag"
+  },
+  {
+    "title": "鬼対月 oni vs tsuki [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sasasasaya-official.itch.io/oni-vs-tsuki"
+  },
+  {
+    "title": "Calefaction [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://boopkins1.itch.io/calefaction"
+  },
+  {
+    "title": "Player VS Blocks [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://raidenworkd.itch.io/player-vs-blocks"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
