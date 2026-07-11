@@ -1,5 +1,40 @@
 [
   {
+    "title": "Save the Gimbos! [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://danideco.itch.io/save-the-gimbos"
+  },
+  {
+    "title": "Torre Zen [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://guidefight.itch.io/torre-zen"
+  },
+  {
+    "title": "Gladia [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cinnamatsu.itch.io/gladia"
+  },
+  {
+    "title": "Aster Academy Desktop Pets [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://unknown180272.itch.io/aster-academy-desktop-pets"
+  },
+  {
+    "title": "The Banana Splits Error [Free] [Survival] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://googly-eyes-interactive.itch.io/the-banana-splits-error"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
