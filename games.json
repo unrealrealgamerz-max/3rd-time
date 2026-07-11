@@ -1,5 +1,40 @@
 [
   {
+    "title": "project.zip [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spillinmegourd.itch.io/projectzip"
+  },
+  {
+    "title": "Desert Planet Golf - WEB/C64 [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jonazdk.itch.io/desert-planet-golf"
+  },
+  {
+    "title": "Zero-Day Defender: Firewall Breach [$1.00] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roguefox37.itch.io/zero-day-defender-firewall-breach"
+  },
+  {
+    "title": "ことばタッチ [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kadekaru-shokai.itch.io/kotoba"
+  },
+  {
+    "title": "ChronoSoul [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gandeldalf.itch.io/chronosoul"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
