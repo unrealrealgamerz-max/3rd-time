@@ -1,5 +1,40 @@
 [
   {
+    "title": "Build a House with Blocks [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rallyredstar14.itch.io/build-a-house-with-blocks"
+  },
+  {
+    "title": "Highbatch [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joeyloey.itch.io/highbatch"
+  },
+  {
+    "title": "VssSnake [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://robloxi-dev.itch.io/vsssnake"
+  },
+  {
+    "title": "Nerdy Armagedon² [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jabon4424.itch.io/nerdyarmagedon"
+  },
+  {
+    "title": "Sub Dash [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oldmanraisinbrand.itch.io/sub-dash"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
