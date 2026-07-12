@@ -1,5 +1,40 @@
 [
   {
+    "title": "Red or Blue [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vatroslav.itch.io/red-or-blue"
+  },
+  {
+    "title": "Meebee&#039;s Honeycomb [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://voidboywannabe.itch.io/meebees-honeycomb"
+  },
+  {
+    "title": "Break and Attack! [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jbehnken.itch.io/break-and-attack"
+  },
+  {
+    "title": "face man [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aburami-gito.itch.io/face-man"
+  },
+  {
+    "title": "Gas station night [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://minedems.itch.io/gas-station-night"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
