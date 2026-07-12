@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pangram [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mattyglee.itch.io/pangram"
+  },
+  {
+    "title": "HELLION DEFENSE PROTOCOL [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://solarixus.itch.io/cradlegrave"
+  },
+  {
+    "title": "BoxBox [$4.50] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hardhatdev.itch.io/boxbox"
+  },
+  {
+    "title": "Cross My Heart [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://blukulele.itch.io/cross-my-heart"
+  },
+  {
+    "title": "Imperium [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://meta-legend.itch.io/imperium"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
