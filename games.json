@@ -1,5 +1,40 @@
 [
   {
+    "title": "ITSWORKINGTIME [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hielo802.itch.io/itsworkingtime"
+  },
+  {
+    "title": "The Bond Of Time [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nosleepluchiano.itch.io/the-bond-of-time"
+  },
+  {
+    "title": "underGROWTH [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://greenvegetations.itch.io/undergrowth"
+  },
+  {
+    "title": "Lofi-Drift [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hggamer.itch.io/lofi-drift"
+  },
+  {
+    "title": "Word King [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://edamame-makers.itch.io/word-king"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
