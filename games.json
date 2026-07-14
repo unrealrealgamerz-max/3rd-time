@@ -1,5 +1,40 @@
 [
   {
+    "title": "MOB45 [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://onplayer.itch.io/mob45"
+  },
+  {
+    "title": "Survivor Arena [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tamim1a.itch.io/survivor-arena"
+  },
+  {
+    "title": "Deep Draw [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://adammorris.itch.io/deep-draw"
+  },
+  {
+    "title": "Fighting Friends [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://austinsisland.itch.io/fighting-friends"
+  },
+  {
+    "title": "NIXUS TAGGERS [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tctlight.itch.io/nixus-taggers"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
