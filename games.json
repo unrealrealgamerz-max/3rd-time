@@ -1,5 +1,40 @@
 [
   {
+    "title": "Elf Roguelike [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://apotatoprogrammer.itch.io/elf-roguelike"
+  },
+  {
+    "title": "Echo Summer [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xibuxkoax.itch.io/echo-summer"
+  },
+  {
+    "title": "Telepore [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://krefikk.itch.io/telepore"
+  },
+  {
+    "title": "Pachi Pachi Boss! Cuphead [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mateosgg.itch.io/pachi-pachi-cuphead"
+  },
+  {
+    "title": "SPRUNKI Full body template [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://incrediblyannoying.itch.io/sprunki-full-body-template"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
