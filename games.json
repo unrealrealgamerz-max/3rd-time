@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sunnyside World [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crimsun-studios.itch.io/sunnysideworld"
+  },
+  {
+    "title": "Fantasy Hero Academia - The Beginning [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://curiouser-kate.itch.io/fantasy-hero-academia-the-beginning"
+  },
+  {
+    "title": "3 Souls [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nextgeniumgamedev.itch.io/3-souls"
+  },
+  {
+    "title": "Pong [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://drdinnerbone.itch.io/pong"
+  },
+  {
+    "title": "wordflow v2 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ohm5656.itch.io/wordflow-v2"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
