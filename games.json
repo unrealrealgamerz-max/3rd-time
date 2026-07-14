@@ -1,5 +1,40 @@
 [
   {
+    "title": "Numberle [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hyperr64.itch.io/numberle"
+  },
+  {
+    "title": "One Inch Billiam [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://puppet-npc.itch.io/one-inch-billiam"
+  },
+  {
+    "title": "Edge Of Fate [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bahadir1.itch.io/edge-of-fate"
+  },
+  {
+    "title": "Zip Zap Zap [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ivaro7.itch.io/zip-zap"
+  },
+  {
+    "title": "Sunset Resort [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stickedout.itch.io/sunset-resort"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
