@@ -1,5 +1,40 @@
 [
   {
+    "title": "Room 67 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://geskawary234.itch.io/room-67"
+  },
+  {
+    "title": "That&#039;s a Lot of FROGS [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://not-a-school-account.itch.io/thats-a-lot-of-frogs"
+  },
+  {
+    "title": "She Finds Divine Seashells (Plus) [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://glaciergames.itch.io/she-finds-divine-seashells-plus"
+  },
+  {
+    "title": "B (for the brainless gamejam) [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aerialite-bar.itch.io/b"
+  },
+  {
+    "title": "Browser Prototype/ATARI 2600 [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://matteo-trevisan.itch.io/browser-prototypeatari-2600"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
