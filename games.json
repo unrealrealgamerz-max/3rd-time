@@ -1,5 +1,40 @@
 [
   {
+    "title": "Dream World [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shadow05striker.itch.io/dreamworld"
+  },
+  {
+    "title": "Spirits of Baciu DEMO [Free] [Puzzle] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hornslevelup.itch.io/spirits-of-baciu"
+  },
+  {
+    "title": "The Last Arena [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kozvax-studio.itch.io/the-last-arena"
+  },
+  {
+    "title": "ORBIT [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lizardevelopment.itch.io/orbit"
+  },
+  {
+    "title": "DARKSTAR [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vip-vitalizaa.itch.io/darkstar"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
