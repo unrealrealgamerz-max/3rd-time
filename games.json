@@ -1,5 +1,40 @@
 [
   {
+    "title": "Little Submarine [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://superfoxlab.itch.io/ls"
+  },
+  {
+    "title": "Big Iron [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jack-turps.itch.io/big-iron"
+  },
+  {
+    "title": "TINTA [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://enrico-games.itch.io/tinta"
+  },
+  {
+    "title": "Downtown Madness [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dent-coder.itch.io/midtownmadness"
+  },
+  {
+    "title": "PROJ_2 [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://everywhereno.itch.io/proj-2"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
