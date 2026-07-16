@@ -1,5 +1,40 @@
 [
   {
+    "title": "Slimery [Free] [Platformer] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://circuitrino.itch.io/slimery"
+  },
+  {
+    "title": "Iron Meridian [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lateafcoffee.itch.io/iron-meridian"
+  },
+  {
+    "title": "Squash [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://faultyn.itch.io/squash"
+  },
+  {
+    "title": "DuckGame [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://holographicmd.itch.io/duckgame"
+  },
+  {
+    "title": "Untitled Rage Game [Free] [Puzzle] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sfg545.itch.io/untitled-rage-game"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
