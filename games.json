@@ -1,5 +1,40 @@
 [
   {
+    "title": "Nebbia [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ranko-s-service.itch.io/nebbia"
+  },
+  {
+    "title": "Tiny Bros [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://leokm02.itch.io/tiny-bros"
+  },
+  {
+    "title": "Protect: Sega Genesis game [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://protect007.itch.io/protect-sega-genesis-game"
+  },
+  {
+    "title": "Idle Torrent [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jahdev.itch.io/idle-torrent"
+  },
+  {
+    "title": "REDLINE: Breakneck [Free] [Racing] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://plotfatherpublishing.itch.io/redline-breakneck"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
