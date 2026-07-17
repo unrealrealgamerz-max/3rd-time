@@ -1,5 +1,40 @@
 [
   {
+    "title": "ant colony [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://garfish09.itch.io/ant-colony"
+  },
+  {
+    "title": "ヤミヨロズ・アーカイブ [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://linkscape.itch.io/yamiarctcg"
+  },
+  {
+    "title": "Scarlet Requiem [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://syawqy.itch.io/scarlet-requiem"
+  },
+  {
+    "title": "Hatch&#039;n&#039;Wall Demo [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fromontgaming.itch.io/hatchnwall-demo"
+  },
+  {
+    "title": "VR Archery - Defending Olympus [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://august-weijers.itch.io/vr-archery-defending-olympus"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
