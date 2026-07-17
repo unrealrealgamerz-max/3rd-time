@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tres En Raya 2 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ro-nom.itch.io/tres-en-raya-2"
+  },
+  {
+    "title": "Flappy Bird (Unity rebuild) [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://deraxus.itch.io/flappy-bird-unity-rebuild"
+  },
+  {
+    "title": "trace/ALTER [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crazah.itch.io/tracealter"
+  },
+  {
+    "title": "Haunted House [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://abgamesstudios.itch.io/haunted-house"
+  },
+  {
+    "title": "2D Shooter Tutorial [Free] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://al0neplanet.itch.io/2d-shooter-tutorial"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
