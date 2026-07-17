@@ -1,5 +1,40 @@
 [
   {
+    "title": "Poor Little Flower [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stephenwilliammacapilit.itch.io/poor-little-flower"
+  },
+  {
+    "title": "Scenic (Demo) [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inbluegames.itch.io/scenic-demo"
+  },
+  {
+    "title": "Ushanka Horror [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://abdel13.itch.io/ushanka-horror"
+  },
+  {
+    "title": "Iron Lung RTX [Free] [Survival] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neenaw.itch.io/iron-lung-rtx"
+  },
+  {
+    "title": "Shifting Wilds [$5.00] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://afitotunka.itch.io/shifting-wilds"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
