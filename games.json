@@ -1,5 +1,40 @@
 [
   {
+    "title": "Project: Casey [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wardrobehummus.itch.io/project-casey"
+  },
+  {
+    "title": "Voyage of the Marigold [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://andrewstephens.itch.io/voyage-of-the-marigold"
+  },
+  {
+    "title": "Once Upon a Time in Generica [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrprizz.itch.io/once-upon-a-time-in-generica"
+  },
+  {
+    "title": "Sound Chase [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://severalherr.itch.io/sound"
+  },
+  {
+    "title": "Ember Ephemeral [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jepezz.itch.io/ember-ephemeral"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
