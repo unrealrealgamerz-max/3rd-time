@@ -1,5 +1,40 @@
 [
   {
+    "title": "Des blocs et des canons [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spouirk.itch.io/des-blocs-et-des-canons"
+  },
+  {
+    "title": "Not Really Accurate World 1 Bosses (Mega Man Maker) [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charlie-the-randomer.itch.io/not-really-accurate-world-1-bosses-mega-man-maker"
+  },
+  {
+    "title": "Hungry Asteroids [Free] [Shooter] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pietderbaer.itch.io/hungryasteroids"
+  },
+  {
+    "title": "TpopDown pc [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://icy-coffee.itch.io/topdownpc"
+  },
+  {
+    "title": "Wake Up - Sleep Paralysis Sim [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://puner420.itch.io/sleep-paralysis-sim"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
