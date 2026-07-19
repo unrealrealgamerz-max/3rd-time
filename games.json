@@ -1,5 +1,40 @@
 [
   {
+    "title": "Project S.C.A.L.E. [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://themadpixel.itch.io/project-scale"
+  },
+  {
+    "title": "FitToEscape [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dysonmark.itch.io/fittoescape"
+  },
+  {
+    "title": "[JAM] Scale Forest Defense [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://systemk.itch.io/scale-forest-defense"
+  },
+  {
+    "title": "Sokoscale [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://paul1379.itch.io/sokoscale"
+  },
+  {
+    "title": "HSIG - Hazardous Slime is Growing [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crowtouch.itch.io/hsig"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
