@@ -1,5 +1,40 @@
 [
   {
+    "title": "CosmoQuest [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goobs-games.itch.io/cosmo-quest"
+  },
+  {
+    "title": "FS 26 BUDYNKI MAPA US [$30.00]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://modsfsmobile.itch.io/fs-26-budynki-mapa-us"
+  },
+  {
+    "title": "Arcade Manager [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://notarvis.itch.io/arcade-manager"
+  },
+  {
+    "title": "Scalebound [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vayzdev.itch.io/scalebound"
+  },
+  {
+    "title": "Puzzleverse [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lukplays.itch.io/puzzleverse"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
