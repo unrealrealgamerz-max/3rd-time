@@ -1,5 +1,40 @@
 [
   {
+    "title": "Darkness Falls: Signals [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alda-aha.itch.io/darkness-falls-signals"
+  },
+  {
+    "title": "Abyss Sprint [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kubmej.itch.io/abyss-sprint"
+  },
+  {
+    "title": "Who is the impostor [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://freddy-santiago.itch.io/who-is-the-impostor"
+  },
+  {
+    "title": "Міні-книга «ЧОМУ ЦЕ МОЖЛИВО» [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neonvoidstudio.itch.io/chomy-ce-mozlivo"
+  },
+  {
+    "title": "SUBTERMARIO [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bringbendo.itch.io/subtermario"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
