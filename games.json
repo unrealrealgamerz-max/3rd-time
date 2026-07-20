@@ -1,5 +1,40 @@
 [
   {
+    "title": "FS 26 CLAAS PACK [$10.00]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://modsfsmobile.itch.io/fs-26-claas-pack"
+  },
+  {
+    "title": "Password Defense [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shangrilacreate.itch.io/password-defense"
+  },
+  {
+    "title": "Porklike (ZX Spectrum) [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hairyviking.itch.io/porklike-zx-spectrum"
+  },
+  {
+    "title": "Hunting-Void Incursion [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tageiris.itch.io/hunting-void-incursion"
+  },
+  {
+    "title": "FloppyQuiz [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moosepod.itch.io/floppyquiz"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
