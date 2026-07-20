@@ -1,5 +1,40 @@
 [
   {
+    "title": "LABRYSIA [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hypertelex.itch.io/labrysia"
+  },
+  {
+    "title": "Emily Is Dead.exe-On Developing free Version [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://supertonic3030.itch.io/emily-is-deadexe-on-developing-free-version"
+  },
+  {
+    "title": "NeoGoat-Pro-Light-0.3 [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orangebreaker.itch.io/neogoat-pro-light-03"
+  },
+  {
+    "title": "Parantsite [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lloydgarmadon123.itch.io/parantsite"
+  },
+  {
+    "title": "Blaster Thrasher [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://someguyonline56.itch.io/blaster-thrasher"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
