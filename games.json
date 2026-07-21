@@ -1,5 +1,40 @@
 [
   {
+    "title": "Boxed In [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://awesomeonpurpose.itch.io/boxed-in"
+  },
+  {
+    "title": "DEAD INTERNET [Free] [Visual Novel] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cowboy-cat-productions.itch.io/dead-internet"
+  },
+  {
+    "title": "Asteroid Blitz [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://atomogame-studio.itch.io/asteroid-blitz"
+  },
+  {
+    "title": "CRAZY CHIMP CHAOS [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://funk3e.itch.io/crazychimpchaos"
+  },
+  {
+    "title": "Froggy Goes Boating [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://featherboy.itch.io/froggy-goes-boating"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
