@@ -1,5 +1,40 @@
 [
   {
+    "title": "project: gamedev [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zmilan24.itch.io/project-gamedev"
+  },
+  {
+    "title": "Wasteland Royale - Browser Battle Royale [Free] [Shooter] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sauron125.itch.io/wasteland-royale"
+  },
+  {
+    "title": "FloorZero [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://juice-f.itch.io/floorzero"
+  },
+  {
+    "title": "¡Basta Ya! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://headphone-taco.itch.io/bastaya"
+  },
+  {
+    "title": "Adeolinda [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ruipedro37.itch.io/projeto"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
