@@ -1,5 +1,40 @@
 [
   {
+    "title": "a duck game [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://uarthuur.itch.io/a-duck-game"
+  },
+  {
+    "title": "Block Puzzle? Block Puzzle! 2 [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spinfoam-games.itch.io/block-puzzle-block-puzzle-2"
+  },
+  {
+    "title": "ARPG Demo [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yosi-roze.itch.io/arpg-demo"
+  },
+  {
+    "title": "Crawlbound [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://veih.itch.io/crawlbound"
+  },
+  {
+    "title": "Fisxhball Vendor Simulator [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goatedloser.itch.io/fisxhball-vendor-simulator"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
