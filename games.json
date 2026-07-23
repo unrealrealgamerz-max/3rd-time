@@ -1,5 +1,40 @@
 [
   {
+    "title": "Million Clicks [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wayfarergames.itch.io/million-clicks"
+  },
+  {
+    "title": "The Pickpocket [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mathis-wagner.itch.io/the-pickpocket"
+  },
+  {
+    "title": "La leyenda del superjuevesverso [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://swadow2048.itch.io/superjuevesverso"
+  },
+  {
+    "title": "Cat Mail Co [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://violetofficial.itch.io/cat-mail-co"
+  },
+  {
+    "title": "[Walkthrough]The One Chapter 4 [$3.99]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coolpeng.itch.io/walkthroughthe-one-chapter-4"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
