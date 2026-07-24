@@ -1,5 +1,40 @@
 [
   {
+    "title": "Toy Soccer Cup [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mavillar.itch.io/toy-soccer-cup"
+  },
+  {
+    "title": "BuriedOdds Demo [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elidan-drakion.itch.io/buriedoddsdemo"
+  },
+  {
+    "title": "Monkes Paradise [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://averyomo.itch.io/monkes-paradise"
+  },
+  {
+    "title": "Type-Start [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shadowblaxter.itch.io/type-start"
+  },
+  {
+    "title": "Island Harvest [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://caramazula.itch.io/island-harvest"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
