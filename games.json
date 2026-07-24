@@ -1,5 +1,40 @@
 [
   {
+    "title": "Down Count [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orangeloafcat.itch.io/down-count"
+  },
+  {
+    "title": "Circle Platformer [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://baggierkarma40.itch.io/circle-platformer"
+  },
+  {
+    "title": "Wandrian RPG [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fiddenseyn.itch.io/wandrian-rpg"
+  },
+  {
+    "title": "La Trochita-2026 [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://amancay-gonzalez.itch.io/la-trochita-2026"
+  },
+  {
+    "title": "ARDF - Acid Reflux Defense Force [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thetokendiceguy.itch.io/ardf"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
