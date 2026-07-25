@@ -1,5 +1,40 @@
 [
   {
+    "title": "Vox Election [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aaacoadm.itch.io/vox-election"
+  },
+  {
+    "title": "DRILL AT IT! [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://seanblond.itch.io/drill-at-it"
+  },
+  {
+    "title": "Number Dash [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nekodot.itch.io/number-dash"
+  },
+  {
+    "title": "Shoot! [Free] [Rhythm] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sunny-foxes.itch.io/shoot"
+  },
+  {
+    "title": "ENVOL [$3.00] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gameflow7.itch.io/envol"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
