@@ -1,5 +1,40 @@
 [
   {
+    "title": "Moon Fall (game jam) [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hilunox.itch.io/moon-fall-game-jam"
+  },
+  {
+    "title": "Dubs Free Lowpoly FactoryWorld [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://renojin-gaming.itch.io/dubs-lowpoly-factoryworld"
+  },
+  {
+    "title": "Pizza Clicker [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://holdycodesonscratch.itch.io/pizza-clicker"
+  },
+  {
+    "title": "Office Cleanup Co. [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://overcookedwalrus.itch.io/office-cleanup-co"
+  },
+  {
+    "title": "GlitchedIn [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://game-worlds-camp.itch.io/glitchedin"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
