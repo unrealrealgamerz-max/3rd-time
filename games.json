@@ -1,5 +1,40 @@
 [
   {
+    "title": "Backpack Blocks [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://borts77.itch.io/backpack-blocks"
+  },
+  {
+    "title": "Theseus Overboard [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goferek5.itch.io/theseus-overboard"
+  },
+  {
+    "title": "Move Together! Demo [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://luozt20.itch.io/move-together-demo"
+  },
+  {
+    "title": "Frogspital [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zleepyyy.itch.io/frogspital"
+  },
+  {
+    "title": "Countdown Hero [Free] [Action] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fengol.itch.io/countdown-hero"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
