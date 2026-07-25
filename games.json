@@ -1,5 +1,40 @@
 [
   {
+    "title": "Algorithm Adventure [$5.99] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charware.itch.io/algorithm-adventure"
+  },
+  {
+    "title": "After Hours at Breezy&#039;s [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://omarion-yt4realz.itch.io/after-hours-at-breezys"
+  },
+  {
+    "title": "Tack&#039;s Evasion [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://21137.itch.io/tacks-evasion"
+  },
+  {
+    "title": "Five Nights At Work [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://skynexus.itch.io/five-nights-at-work"
+  },
+  {
+    "title": "The Last Knight [Free] [Fighting] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://loneretr0.itch.io/the-last-knight"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
