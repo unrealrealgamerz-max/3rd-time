@@ -1,5 +1,40 @@
 [
   {
+    "title": "Count Blastula [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kaedama.itch.io/count-blastula"
+  },
+  {
+    "title": "Life is Alive [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://eletie.itch.io/life-is-alive"
+  },
+  {
+    "title": "Clockroach [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stonespy56321.itch.io/clockroach"
+  },
+  {
+    "title": "Invisible Path [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://corash.itch.io/invisible-path"
+  },
+  {
+    "title": "The Clocksmith [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charlsst.itch.io/the-clocksmith"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
