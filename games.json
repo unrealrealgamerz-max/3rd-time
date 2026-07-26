@@ -1,5 +1,40 @@
 [
   {
+    "title": "Snake Bomb [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wokeraccoon.itch.io/snake-bomb"
+  },
+  {
+    "title": "ChronoBeats [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://6lia.itch.io/chronobeats"
+  },
+  {
+    "title": "Wheelchair Witch [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lucasli.itch.io/wheelchair-witch"
+  },
+  {
+    "title": "Advent Horizon [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://captain-carrot.itch.io/advent-horizon"
+  },
+  {
+    "title": "Late for a Date [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neohz.itch.io/late-for-a-date"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
