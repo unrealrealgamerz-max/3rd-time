@@ -1,5 +1,40 @@
 [
   {
+    "title": "Out of Bounds [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://obsidiman.itch.io/out-of-bounds"
+  },
+  {
+    "title": "StationaryStrangers [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ashennewt.itch.io/stationarystrangers"
+  },
+  {
+    "title": "Low-Score [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ajwcw.itch.io/low-score"
+  },
+  {
+    "title": "FINAL_FINAL_BUILD(1)(2).zip [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://runliangtan.itch.io/final-final-build12zip"
+  },
+  {
+    "title": "Plague Manager [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fokos001.itch.io/plague-manager"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
