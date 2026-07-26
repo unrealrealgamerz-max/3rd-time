@@ -1,5 +1,40 @@
 [
   {
+    "title": "A Few Clicks Left [Free] [Puzzle] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nachogames.itch.io/a-few-clicks-left"
+  },
+  {
+    "title": "Sure Thing, Boss [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ha1fbit.itch.io/sure-thing-boss"
+  },
+  {
+    "title": "Merge Core Defense [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zanygames.itch.io/merge-core-defense"
+  },
+  {
+    "title": "LIFEDROP [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dilloncotter.itch.io/lifedrop"
+  },
+  {
+    "title": "Proctor Protocol [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://voideyegaming.itch.io/proctor-protocol"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
