@@ -1,5 +1,40 @@
 [
   {
+    "title": "Space Countdown [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://le-viathan.itch.io/space-countdown"
+  },
+  {
+    "title": "Jumpin&#039; Onda Beat [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moocow-games.itch.io/jumpin-onda-beat"
+  },
+  {
+    "title": "ねこにんカード [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ushimitsudo.itch.io/nekonin-card"
+  },
+  {
+    "title": "DEEPVEIN-V0.1 [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sethbuening.itch.io/deepvein-v01"
+  },
+  {
+    "title": "Gone Fishing [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://professor-weiner.itch.io/gone-fishing"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
