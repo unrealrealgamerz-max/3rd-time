@@ -1,5 +1,40 @@
 [
   {
+    "title": "Beta [Free] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coolvrtty.itch.io/cafe-tycoon-beta"
+  },
+  {
+    "title": "Обіцянка [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://metelyk.itch.io/promise"
+  },
+  {
+    "title": "Бездарний окультист і Дух, що прагнув свободи [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kenkasuga.itch.io/schoolboyandspirit"
+  },
+  {
+    "title": "Tennis For One [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hjonkwegoos.itch.io/tennis-for-one"
+  },
+  {
+    "title": "Go, go, Hongo! [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://setoncio12.itch.io/go-go-hongo"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
