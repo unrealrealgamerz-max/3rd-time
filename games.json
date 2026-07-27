@@ -1,5 +1,40 @@
 [
   {
+    "title": "Rift driver [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inserta-texto.itch.io/rift-driver"
+  },
+  {
+    "title": "STRIDE GUY [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thewolfeman87.itch.io/stride-guys"
+  },
+  {
+    "title": "Hershel&#039;s Hide and Seek [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://soundole.itch.io/hershels-hide-and-seek"
+  },
+  {
+    "title": "Quack Battles [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://puffypig.itch.io/quack-battles"
+  },
+  {
+    "title": "Stickman Silly [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stickmansillycatz.itch.io/stickman-silly"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
