@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lameguards Playtest [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://avodhel.itch.io/lameguards"
+  },
+  {
+    "title": "Paint Flip [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mthnrt21.itch.io/paint-flip"
+  },
+  {
+    "title": "ByteBite [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dany4240.itch.io/bytebite"
+  },
+  {
+    "title": "ライフライン [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cheebee-lab.itch.io/lifeline"
+  },
+  {
+    "title": "Football Kick 3D [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wojiushirzh.itch.io/football-kick-3d"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
