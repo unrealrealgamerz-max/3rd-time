@@ -1,5 +1,40 @@
 [
   {
+    "title": "SERVICE REQUEST [Free] [Interactive Fiction] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://scurra-studios.itch.io/service-request"
+  },
+  {
+    "title": "PICOBALL [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://caspiangames.itch.io/picoball"
+  },
+  {
+    "title": "Rogue Space Convoy [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vincentiguess.itch.io/rogue-space-convoy"
+  },
+  {
+    "title": "Super Auto  Farm [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://blaizick.itch.io/super-auto-farm"
+  },
+  {
+    "title": "Sun Runners v0.5 [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jon-keevy.itch.io/sun-runners-v05"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
