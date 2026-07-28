@@ -1,5 +1,40 @@
 [
   {
+    "title": "DeathBroker -- Cairn Quest to Revive a Player or NPC [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anevilwizard.itch.io/deathbroker-cairn-quest-to-revive-a-player-or-npc"
+  },
+  {
+    "title": "The Case of The Waterlogged Man [Free] [Interactive Fiction] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://littrar.itch.io/the-case-of-the-waterlogged-man"
+  },
+  {
+    "title": "2D_MP_TEST [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cocchi-games.itch.io/2d-mp-test"
+  },
+  {
+    "title": "Where Heaven Fell [DEMO] [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://micrometer-squared.itch.io/where-heaven-fell-demo"
+  },
+  {
+    "title": "Sprunki Toxiified [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://toxiikkk.itch.io/sprunki-toxiified"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
