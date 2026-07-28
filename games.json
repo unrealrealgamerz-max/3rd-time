@@ -1,5 +1,40 @@
 [
   {
+    "title": "A Bottle&#039;s Story [$2.99] [Platformer] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mintbyte.itch.io/a-bottles-story"
+  },
+  {
+    "title": "Solar System Simulation [Free] [Educational] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tanvirahmedarnab.itch.io/solar-system-simulation"
+  },
+  {
+    "title": "The Arkham Witch Trials (Yubin Niiku - itch.io Port) [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://marmaladium.itch.io/miskatonicslop"
+  },
+  {
+    "title": "Saturday Mystery Puzzle [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crownedduck.itch.io/saturday-mystery-puzzle"
+  },
+  {
+    "title": "Thermal Beam [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://raposa-do-deserto.itch.io/thermal-beam"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
