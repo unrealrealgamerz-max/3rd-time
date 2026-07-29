@@ -1,5 +1,40 @@
 [
   {
+    "title": "What Gophers Go For [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thinkycollective.itch.io/what-gophers-go-for"
+  },
+  {
+    "title": "Galaxy Cover [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aesnas.itch.io/galaxy-cover"
+  },
+  {
+    "title": "flying cloud chase [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orangeracoon.itch.io/flying-cloud-chase"
+  },
+  {
+    "title": "治部の天秤 [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://onkolabo.itch.io/jibu-no-tenbin"
+  },
+  {
+    "title": "Cube Runners [REMODDED WITH FRIDA-GADGET] [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ton613.itch.io/cube-runners-remodded-with-frida-gadget"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
