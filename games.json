@@ -1,5 +1,40 @@
 [
   {
+    "title": "Kirby run [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yahyoosh.itch.io/kirby-run"
+  },
+  {
+    "title": "The Colored Rooms [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://justjonut.itch.io/the-colored-rooms"
+  },
+  {
+    "title": "First Person Flappy Bird [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ethannerd12.itch.io/first-person-flappy-bird"
+  },
+  {
+    "title": "Curse of the Lyre-Wight [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://frosty-xyz.itch.io/curse-of-the-lyre-wight"
+  },
+  {
+    "title": "Switch the Darkness [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://antoneverov.itch.io/switch-the-darkness"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
