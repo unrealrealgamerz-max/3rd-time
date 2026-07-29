@@ -1,5 +1,40 @@
 [
   {
+    "title": "Hulon [Free] [Adventure] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hululula.itch.io/hulon"
+  },
+  {
+    "title": "Pinball Kart [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nahte101.itch.io/pinball-kart"
+  },
+  {
+    "title": "Human Error [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gabriellj.itch.io/human-error"
+  },
+  {
+    "title": "Ice Fishing [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://official-game.itch.io/ice-fishing"
+  },
+  {
+    "title": "Restricted Clearance chapter 1 [Free] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://awsomepickelsscratch.itch.io/restricted-clearance-1"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
