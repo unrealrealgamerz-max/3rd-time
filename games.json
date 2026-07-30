@@ -1,5 +1,40 @@
 [
   {
+    "title": "Nic Cage Chicken Experience [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrsmeowgi.itch.io/nic-cage-chicken-experience"
+  },
+  {
+    "title": "Deadline [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://saura-game-studio.itch.io/deadline"
+  },
+  {
+    "title": "The Glasses / 神奇眼鏡 [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kiwi31415926.itch.io/the-glasses"
+  },
+  {
+    "title": "RadioUnderground [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://den1kx.itch.io/radiounderground"
+  },
+  {
+    "title": "Slime Rivals [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spachoman.itch.io/slime-rivals"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
