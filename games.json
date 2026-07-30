@@ -1,5 +1,40 @@
 [
   {
+    "title": "FirstPlate [Free] [Strategy] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://twinkletoesstudios.itch.io/first-plate"
+  },
+  {
+    "title": "Birds of a Feather [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ardentlyaudrey.itch.io/birds-of-a-feather"
+  },
+  {
+    "title": "The Tower [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://marthew1.itch.io/the-tower"
+  },
+  {
+    "title": "DREAMER - Shallow Tide（Not horro） [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://17han5.itch.io/dreamer-shallow-tide"
+  },
+  {
+    "title": "The cauldron corner [$2.99] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://evilgaufre.itch.io/the-cauldron-corner"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
