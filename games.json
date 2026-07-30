@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tiny Garden Café [$6.00] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tetsuneko.itch.io/tiny-garden-cafe"
+  },
+  {
+    "title": "Matematik Kanak Kanak [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mohdhatim013gmailcom.itch.io/matematik-kanak-kanak"
+  },
+  {
+    "title": "European robin [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://david168.itch.io/european-robin"
+  },
+  {
+    "title": "NeoCyberDash [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://philip6k.itch.io/neo-cyber-dash"
+  },
+  {
+    "title": "FINALLY - Sprint 4!!! [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stuck-in-my-dt-class.itch.io/finally-part-4"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
