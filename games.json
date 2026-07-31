@@ -1,5 +1,40 @@
 [
   {
+    "title": "Heat Debt [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bosniakk.itch.io/heat-debt"
+  },
+  {
+    "title": "Neon vector [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lucianinix.itch.io/neonvector"
+  },
+  {
+    "title": "LoopyTag [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://drredpig.itch.io/loopyt"
+  },
+  {
+    "title": "The Atlas of Aetheria: Interactive Narrative [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sarcollison.itch.io/atlas"
+  },
+  {
+    "title": "NUMBER DROP [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://senyaton.itch.io/number-drop"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
