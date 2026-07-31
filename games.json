@@ -1,5 +1,40 @@
 [
   {
+    "title": "Little Civilizations [$4.99] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://game-boys-studios.itch.io/little-civilizations"
+  },
+  {
+    "title": "Count Down [Free] [Interactive Fiction] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://valkyrie64.itch.io/count-down"
+  },
+  {
+    "title": "The Chronicler [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arcanumrpgs.itch.io/the-chronicler"
+  },
+  {
+    "title": "Pong [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tuna-d.itch.io/pong"
+  },
+  {
+    "title": "Pelot Panic (PC sous Windows) [$2.00] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gg-sofware.itch.io/pelot-panic-pc-sous-windows"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
