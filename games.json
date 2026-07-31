@@ -1,5 +1,40 @@
 [
   {
+    "title": "Moving Island (WIP DEMO) [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://light-a-leo.itch.io/moving-island"
+  },
+  {
+    "title": "EGG THIEF [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kharmachaos.itch.io/egg-thief"
+  },
+  {
+    "title": "tower level up [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://qing933.itch.io/tower-level-up"
+  },
+  {
+    "title": "SandTris [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://at6glitch.itch.io/sandtris"
+  },
+  {
+    "title": "Telonia [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dafant.itch.io/telonia"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
