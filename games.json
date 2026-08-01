@@ -1,5 +1,40 @@
 [
   {
+    "title": "Green Grass [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://therealangle.itch.io/green-grass"
+  },
+  {
+    "title": "lettuce feed the manatee [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cloud-manatee.itch.io/lettuce-feed-the-manatee"
+  },
+  {
+    "title": "Pimplauspeli 2026 [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sirkimble.itch.io/pimplauspeli-2026"
+  },
+  {
+    "title": "ROBOCOP MD [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bocasretrostuff.itch.io/robocop-md"
+  },
+  {
+    "title": "Glaze [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gamefumbled.itch.io/glaze"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
