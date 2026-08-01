@@ -1,5 +1,40 @@
 [
   {
+    "title": "BackStab! [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kagarukin.itch.io/backstab"
+  },
+  {
+    "title": "The Great Adventures of Mr. Hat (made in 2006) [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://m8si.itch.io/the-great-adventures-of-mr-hat"
+  },
+  {
+    "title": "Meccha Hunt [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nstefan.itch.io/meccha-hunt"
+  },
+  {
+    "title": "CRUM! [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://felixleonggames.itch.io/crum"
+  },
+  {
+    "title": "Orbit Rush [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://a0912272829-ship-it.itch.io/orbit-rush"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
