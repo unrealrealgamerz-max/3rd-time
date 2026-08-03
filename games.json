@@ -1,5 +1,40 @@
 [
   {
+    "title": "Candy Jar [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mariotoledo.itch.io/candy-jar"
+  },
+  {
+    "title": "Além da luz [Free] [Adventure] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aislanio.itch.io/alm-da-luz"
+  },
+  {
+    "title": "Fuego en la Sangre [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hel-rua.itch.io/fuego-en-la-sangre"
+  },
+  {
+    "title": "Amor Folclórico [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sucodemassa.itch.io/amor-folclore"
+  },
+  {
+    "title": "Block World [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://unfl4vrd.itch.io/block-world"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
