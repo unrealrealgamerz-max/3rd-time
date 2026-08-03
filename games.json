@@ -1,5 +1,40 @@
 [
   {
+    "title": "VoltCore [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nater123.itch.io/voltcore"
+  },
+  {
+    "title": "RageGameFinal [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://smushparker.itch.io/ragegamefinal"
+  },
+  {
+    "title": "Wizard Tag [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jedimatt.itch.io/wizard-tag"
+  },
+  {
+    "title": "A Place for the Endless: Part 1 [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://edmundton.itch.io/a-place-for-the-endless-part-1"
+  },
+  {
+    "title": "DON&#039;T HIT THE BLOCKS [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://giuseppe-delli-fiori.itch.io/dont-hit-the-blocks"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
