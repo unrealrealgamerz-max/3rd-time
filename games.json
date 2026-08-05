@@ -1,5 +1,40 @@
 [
   {
+    "title": "HordeFall [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://christopher-hermann.itch.io/hordefall"
+  },
+  {
+    "title": "The Manager Online [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://snillddk.itch.io/the-manager-online"
+  },
+  {
+    "title": "Corporate Empire [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shontte.itch.io/orporate-empire"
+  },
+  {
+    "title": "Stone [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vladini.itch.io/stone"
+  },
+  {
+    "title": "Frutiger Land 1.2 - Island Update [Free] [Simulation] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://frutiger-land-official.itch.io/frutiger-land-12-island-update"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
