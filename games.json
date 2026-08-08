@@ -1,5 +1,40 @@
 [
   {
+    "title": "Rei da Arena [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://danilomacb.itch.io/rei-da-arena"
+  },
+  {
+    "title": "Max the Wizard [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inadequacy.itch.io/max-the-wizard"
+  },
+  {
+    "title": "CabinCrew [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oringe194.itch.io/cabincrew"
+  },
+  {
+    "title": "Brick Bruiser Hd [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://leila-n.itch.io/brick-bruiser-hd"
+  },
+  {
+    "title": "Pebbo Has No Time [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tothermist.itch.io/pebbo-has-no-time"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
