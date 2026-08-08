@@ -1,5 +1,40 @@
 [
   {
+    "title": "COMBAT! [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://h20-drunc.itch.io/combat"
+  },
+  {
+    "title": "Mistério do Carimbo [Free] [Visual Novel] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://danggabe.itch.io/misterio-do-carimbo"
+  },
+  {
+    "title": "Arcadia Nova [Free] [Action] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ardatgames.itch.io/arcadia-nova"
+  },
+  {
+    "title": "Boxero [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goldenmaster.itch.io/boxero"
+  },
+  {
+    "title": "Red Affair [Free] [Interactive Fiction] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inedibleedifice.itch.io/red-affair"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
