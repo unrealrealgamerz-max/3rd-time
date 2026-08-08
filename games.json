@@ -1,5 +1,40 @@
 [
   {
+    "title": "ECOBAT [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://caretortta.itch.io/ecobat"
+  },
+  {
+    "title": "O aprendiz de Láquesis [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gui-freire2002.itch.io/o-aprendiz-de-lquesis"
+  },
+  {
+    "title": "Busy Dreamer [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://diamyo.itch.io/busy-dreamer"
+  },
+  {
+    "title": "Trainer For C# - Master C# &amp; .NET [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://softdevelop-ua.itch.io/trainer-for-c-sharp-net"
+  },
+  {
+    "title": "Sprunkdiddles [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roastedlizard.itch.io/sprunkdiddles"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
