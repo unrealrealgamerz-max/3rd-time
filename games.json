@@ -1,5 +1,40 @@
 [
   {
+    "title": "Your Input [Free] [Interactive Fiction] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://solsticehouse.itch.io/your-input"
+  },
+  {
+    "title": "Choices [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://victoneix.itch.io/choices"
+  },
+  {
+    "title": "Warung Gas [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yopitn.itch.io/warung-gas"
+  },
+  {
+    "title": "ai.ai Demo [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thejenkinscomic.itch.io/aiaidemo"
+  },
+  {
+    "title": "Infinite Lunch [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neondada.itch.io/infinitelunch"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
