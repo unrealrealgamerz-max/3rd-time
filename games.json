@@ -1,5 +1,40 @@
 [
   {
+    "title": "Paranoish Sleeplessness [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://triggero.itch.io/paranoish-sleeplessness"
+  },
+  {
+    "title": "TIDEBREAKER [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kevinkim.itch.io/tidebreaker"
+  },
+  {
+    "title": "Going Ghost Hunting [DEMO] [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://morphydorph.itch.io/going-ghost-hunting-demo"
+  },
+  {
+    "title": "Delivery MAYHEM [Free] [Racing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://unmaker.itch.io/deliverymayhem"
+  },
+  {
+    "title": "Le Château [Free] [Visual Novel] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ezo2.itch.io/le-chateau"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
