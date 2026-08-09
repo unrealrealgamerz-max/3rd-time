@@ -1,5 +1,40 @@
 [
   {
+    "title": "Banana Slug [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://langstonian.itch.io/banana-slug"
+  },
+  {
+    "title": "Caribbean Treasure Hunt [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gahogames.itch.io/caribbean-treasure-hunt"
+  },
+  {
+    "title": "free game [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://taberiku.itch.io/free-game"
+  },
+  {
+    "title": "Boxers, Please [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kiranipiebox.itch.io/boxers-please"
+  },
+  {
+    "title": "Temper Runner [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kamindun.itch.io/temper-runner"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
