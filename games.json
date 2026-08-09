@@ -1,5 +1,40 @@
 [
   {
+    "title": "ultrakill 2d w.i.p [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thebearman666.itch.io/ultrakill-2d-wip-ai-version"
+  },
+  {
+    "title": "PlanetEater [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://treho.itch.io/planeteater"
+  },
+  {
+    "title": "Arena Battlelords [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://medelicnacho.itch.io/arena-battlelords"
+  },
+  {
+    "title": "CoreDump [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chiego.itch.io/coredump"
+  },
+  {
+    "title": "Backrooms: The Escape [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mastermindgaming.itch.io/backrooms-the-escape"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
