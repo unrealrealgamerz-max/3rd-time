@@ -1,5 +1,40 @@
 [
   {
+    "title": "apeFriend [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://syntheticape.itch.io/apefriend"
+  },
+  {
+    "title": "Galaxy Shooter [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://banana-bullet.itch.io/galaxy-shooter"
+  },
+  {
+    "title": "Reaction Factory [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bento-velloso.itch.io/reaction-factory"
+  },
+  {
+    "title": "Catulack [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ukerat.itch.io/catulack"
+  },
+  {
+    "title": "VPet Training: Break the Targets! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gummy5798.itch.io/vpet-training-break-the-targets"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
