@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Avocado Grapple Tournament [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://why-avocado-exist.itch.io/avocado-grapple"
+  },
+  {
+    "title": "Void Wanderer [$5.00] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prochad.itch.io/void-wanderer"
+  },
+  {
+    "title": "8 Hours [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://robinheij89.itch.io/8-hours"
+  },
+  {
+    "title": "Space Station Defense Corp [Free] [Platformer] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hurafastudio.itch.io/space-station-defense-corp"
+  },
+  {
+    "title": "SoulKnight PSVita [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xqspx.itch.io/soulknight-psvita"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
