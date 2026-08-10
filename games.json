@@ -1,5 +1,40 @@
 [
   {
+    "title": "Stagick [Free] [Interactive Fiction] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stagick.itch.io/stagick"
+  },
+  {
+    "title": "Stagick DEMO [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stagick.itch.io/stagick-demo"
+  },
+  {
+    "title": "Shleepy [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://heroofflames.itch.io/shleepy"
+  },
+  {
+    "title": "Retrofitted Nights Full Series [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://videoattraction2014.itch.io/retrofitted-nights-full-series"
+  },
+  {
+    "title": "DOODLES &amp; DRAMA [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://poeia.itch.io/doodles-drama"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
