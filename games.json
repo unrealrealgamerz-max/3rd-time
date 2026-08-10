@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Pale [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nocapgames.itch.io/the-pale"
+  },
+  {
+    "title": "Scenic Racing 3D [$1.99] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://adarsha007.itch.io/scenic-racing-3d"
+  },
+  {
+    "title": "Re:Wired Museum Tycoon [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rewired-museum.itch.io/rewired-museum-tycoon"
+  },
+  {
+    "title": "Cosmostalgic [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sirkrys.itch.io/cosmostalgic"
+  },
+  {
+    "title": "Break the apple [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://iipp00.itch.io/break-the-apple"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
