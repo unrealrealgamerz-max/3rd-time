@@ -1,5 +1,40 @@
 [
   {
+    "title": "Vagabond [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://visual-novel-world.itch.io/vagabond"
+  },
+  {
+    "title": "Nanobot [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://glowingdawnmist.itch.io/nanobot"
+  },
+  {
+    "title": "Circuit Breaker [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://simzen.itch.io/circuit-breaker"
+  },
+  {
+    "title": "Bob the Wheelbuilder [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coatline.itch.io/bob-the-wheelbuilder"
+  },
+  {
+    "title": "Quiz Duel [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nefa225.itch.io/quiz-duel"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
