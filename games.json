@@ -1,5 +1,40 @@
 [
   {
+    "title": "a triangle for every jam [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mutmedia.itch.io/a-triangle-for-every-jam"
+  },
+  {
+    "title": "Zenith Stack [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://starward-huaipu.itch.io/zenith-stack"
+  },
+  {
+    "title": "A Tale About Depression [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dannybm.itch.io/a-tale-about-depression"
+  },
+  {
+    "title": "OMORI 2 [Free] [Card Game] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://melonoshilabs.itch.io/omori-2"
+  },
+  {
+    "title": "ScribbleRumble [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://scribblerumble.itch.io/scribblerumble"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
