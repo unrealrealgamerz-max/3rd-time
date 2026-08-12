@@ -1,5 +1,40 @@
 [
   {
+    "title": "Warblade Unity [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vothall.itch.io/warblade-unity"
+  },
+  {
+    "title": "ECHO [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wr1ted.itch.io/echo"
+  },
+  {
+    "title": "Lime Clicker (Alpha) [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ficok1.itch.io/lime-clicker-alpha"
+  },
+  {
+    "title": "Retusch [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://retusch.itch.io/retusch"
+  },
+  {
+    "title": "Black Tide [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pawaranm.itch.io/black-tide"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
