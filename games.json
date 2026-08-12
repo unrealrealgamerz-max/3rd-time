@@ -1,5 +1,40 @@
 [
   {
+    "title": "BLOCK FORGE [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ardatgames.itch.io/block-forge"
+  },
+  {
+    "title": "Garden Grooming [Free] [Puzzle] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://armankara.itch.io/garden-grooming"
+  },
+  {
+    "title": "Night Shift [Free] [Shooter] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spex-studio.itch.io/night-shift"
+  },
+  {
+    "title": "OTHER Kitten cat simulator 3d [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kitten-cat-simulator-3d.itch.io/modern-kitten-cat-simulator-3d"
+  },
+  {
+    "title": "Flappy CEO [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crocodilejohn.itch.io/flappy-ceo"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
