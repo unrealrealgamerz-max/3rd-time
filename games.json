@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Last Draft [$1.00] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dark-eye-studio.itch.io/the-last-draft"
+  },
+  {
+    "title": "PaleoBones [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://itsjustgames.itch.io/paleobones"
+  },
+  {
+    "title": "Rage Target [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rennoorgames.itch.io/rage-target"
+  },
+  {
+    "title": "Azoxeraldi&#039;s Frosthouse [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://carruuuuu.itch.io/azoxeraldis-frosthouse"
+  },
+  {
+    "title": "SL chess [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nagasawayui39gmailcom.itch.io/sl-chess"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
