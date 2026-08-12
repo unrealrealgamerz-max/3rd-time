@@ -1,5 +1,40 @@
 [
   {
+    "title": "GATEWAY [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gsjogames.itch.io/gateway"
+  },
+  {
+    "title": "Occultus [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://futuregames.itch.io/occultus"
+  },
+  {
+    "title": "APPLE [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://threealdi.itch.io/apple"
+  },
+  {
+    "title": "HAZ CONNECTION [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chaingames.itch.io/haz-connection"
+  },
+  {
+    "title": "FirstProject [Free] [Action] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://someonevibing.itch.io/firstproject"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
