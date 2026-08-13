@@ -1,5 +1,40 @@
 [
   {
+    "title": "3D FPIS(First Person Insect Shooter) [Free] [Shooter] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dowellka.itch.io/3d-fpisfirst-person-insect-shooter"
+  },
+  {
+    "title": "Doodle Run! [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://navjeet-29.itch.io/doodle-run"
+  },
+  {
+    "title": "Taurus Mechanicus [Free] [Adventure] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xaneco.itch.io/taurus-mechanicus"
+  },
+  {
+    "title": "DiceBound [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mustardseedgames.itch.io/dicebound"
+  },
+  {
+    "title": "Cart of Ards [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pottumuussi.itch.io/cart-of-ards"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
