@@ -1,5 +1,40 @@
 [
   {
+    "title": "GUTWRENCHER [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://meatbonegames.itch.io/gutwrencher"
+  },
+  {
+    "title": "Minute to Win it [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://agwager.itch.io/minute-to-win-it"
+  },
+  {
+    "title": "LOTO Hidráulico [Free] [Educational] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sesirs-games.itch.io/loto-hidraulico"
+  },
+  {
+    "title": "open word [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shiko-tech.itch.io/open-word"
+  },
+  {
+    "title": "FKR19 [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nal.itch.io/fkr19"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
