@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ca Phe Legacy [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bananatian.itch.io/ca-phe-legacy"
+  },
+  {
+    "title": "STORY MODE [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://granthaffner.itch.io/story-mode"
+  },
+  {
+    "title": "Dark Running [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stevetyson.itch.io/dark-running"
+  },
+  {
+    "title": "Ten Of The Dark [Free] [Role Playing] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://suniwalki.itch.io/ten-of-the-dark"
+  },
+  {
+    "title": "Martian Robots [Free] [Platformer] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://szlavikszabolcs.itch.io/martian-robots"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
