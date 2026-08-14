@@ -1,5 +1,40 @@
 [
   {
+    "title": "HyperAnokaArena [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hyperanoka.itch.io/hyperanokaarena"
+  },
+  {
+    "title": "Sprout Route [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://isaac-mexico.itch.io/sprout-route"
+  },
+  {
+    "title": "DrewSweeper [Free] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://onyx-development.itch.io/drewsweeper"
+  },
+  {
+    "title": "Jinn in pitra [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ethane1.itch.io/jinn-in-pitra"
+  },
+  {
+    "title": "Явь Лихопуста [Free] [Interactive Fiction] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://misterion19.itch.io/likhopust-lucid"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
