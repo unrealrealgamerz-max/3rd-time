@@ -1,5 +1,40 @@
 [
   {
+    "title": "JunSmile [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://comatoasterstrudel.itch.io/junsmile"
+  },
+  {
+    "title": "Opposing Sides [$19.49] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gamache61.itch.io/opposing-sides"
+  },
+  {
+    "title": "Beyond Reason [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://truetenno.itch.io/beyond-reason"
+  },
+  {
+    "title": "Vector Battle (Commodore PET / VIC 20) [$2.00] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://milasoft64.itch.io/vectorbattle-commodore-pet-vic-20"
+  },
+  {
+    "title": "2D-Card Game [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anyingyushi.itch.io/2d-card-game"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
