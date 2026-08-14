@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Final Verdict [$5.99] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cmc333345.itch.io/the-final-verdict"
+  },
+  {
+    "title": "Duelo de Leyendas el despertar de los campeones [5.00€] [Card Game] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elementos20.itch.io/duelo-de-leyendas"
+  },
+  {
+    "title": "Rest Rogue [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sgonzas.itch.io/rest-rogue"
+  },
+  {
+    "title": "Hiderman [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://froltymore.itch.io/hiderman"
+  },
+  {
+    "title": "CleanGrid Micro QA Tracker [$1.00]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cleangrid.itch.io/cleangrid-micro-qa-tracker"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
