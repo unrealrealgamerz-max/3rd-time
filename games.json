@@ -1,5 +1,40 @@
 [
   {
+    "title": "MineTag [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://castyyydev.itch.io/minetag"
+  },
+  {
+    "title": "Goblin TD [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://valelizu.itch.io/goblin-td"
+  },
+  {
+    "title": "SCARLET PRISM [Free] [Action] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thejohnyfeed.itch.io/scarlet-prism"
+  },
+  {
+    "title": "Ant colony Defense [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://epicgamerthatmakesgames.itch.io/ant-colony-defense"
+  },
+  {
+    "title": "Cash pilot [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cashpilot.itch.io/httpsgdgamesinstant-builds2a41fe0d-c140-4f5d-973f-7bed42ba0967"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
