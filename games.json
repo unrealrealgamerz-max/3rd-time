@@ -1,5 +1,40 @@
 [
   {
+    "title": "Opposing Sides [$19.49] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gamache61.itch.io/opposing-sides"
+  },
+  {
+    "title": "Chop Chop [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://omgitsowen.itch.io/chop-chop"
+  },
+  {
+    "title": "Tetris (System E) For the SEGA Master System [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://master-linkuei.itch.io/tetris-system-e"
+  },
+  {
+    "title": "Far From Home [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://noor12321.itch.io/farfromhome"
+  },
+  {
+    "title": "Ball Shot [Free] [Sports] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://navjeet-29.itch.io/ball-shot"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
