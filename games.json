@@ -1,5 +1,40 @@
 [
   {
+    "title": "Godot&#039;s Secret of Mana Tech Demo [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nexusvoid23.itch.io/godots-secret-of-mana"
+  },
+  {
+    "title": "Axirune [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hklabstudio.itch.io/axirune"
+  },
+  {
+    "title": "Chess Pawn [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tomaszgorski.itch.io/chess-pawn"
+  },
+  {
+    "title": "Neon Dash [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://youssefitalia.itch.io/neon-dash"
+  },
+  {
+    "title": "Cute Little... Bacteria?! [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pluiely.itch.io/cute-little-bacteria"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
