@@ -1,5 +1,40 @@
 [
   {
+    "title": "Cliché Quest [$4.99] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://forestlevelgames.itch.io/clichequest"
+  },
+  {
+    "title": "Sprunki: Frutiger Aero [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://binduxd.itch.io/frutiger-aero"
+  },
+  {
+    "title": "Ridiculous Pitching [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://galactical.itch.io/ridiculous-pitching"
+  },
+  {
+    "title": "Gobo Adventure [Free] [Adventure] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://doubll.itch.io/gobo-adventure"
+  },
+  {
+    "title": "Your Legacy - Generations [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://icq-gaming.itch.io/your-legacy-generations"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
