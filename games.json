@@ -1,5 +1,40 @@
 [
   {
+    "title": "ArepaRun [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sealflux.itch.io/areparun"
+  },
+  {
+    "title": "Square Dude Roguelike [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ethannerd12.itch.io/square-dude-roguelike"
+  },
+  {
+    "title": "The Space Between Us [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://naomi-jouan.itch.io/the-space-between-us"
+  },
+  {
+    "title": "Fire Good. Dark Bad. [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://retrobytelabs.itch.io/fire-good-dark-bad"
+  },
+  {
+    "title": "64 bit things [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sibby-idk.itch.io/64bit-things"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
