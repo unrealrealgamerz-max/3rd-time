@@ -1,5 +1,40 @@
 [
   {
+    "title": "backpack_hero [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mantouls.itch.io/backpack-hero"
+  },
+  {
+    "title": "Strella Nebular [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://andme.itch.io/nebulla-stellar"
+  },
+  {
+    "title": "NoonDreamer [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://relatif.itch.io/noondreamer"
+  },
+  {
+    "title": "Mine Rush [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrd3.itch.io/mine-rush"
+  },
+  {
+    "title": "Go! Dot. [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lht-hhh.itch.io/go-dot"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
