@@ -1,5 +1,40 @@
 [
   {
+    "title": "Dino-Carnival [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rareinkstudio.itch.io/dino-carnival"
+  },
+  {
+    "title": "Ice Cream Vs Peppers [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wumbologygames.itch.io/ice-cream-vs-peppers"
+  },
+  {
+    "title": "Apu Journey [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nxxxxty.itch.io/apujourney"
+  },
+  {
+    "title": "SMALL ENOUGH TO SURVIVE [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bosniakk.itch.io/small-enough-to-survive"
+  },
+  {
+    "title": "GEONAUT [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://casey-malessa.itch.io/geonaut"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
