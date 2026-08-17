@@ -1,5 +1,40 @@
 [
   {
+    "title": "neon drift 1 [$1.00]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bevh.itch.io/neon-drift-1"
+  },
+  {
+    "title": "Brawl N Ball [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://blinks32.itch.io/brawl-n-ball"
+  },
+  {
+    "title": "Broke And Out [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://felipebr13pr.itch.io/broke-and-out"
+  },
+  {
+    "title": "¡Habla Bien! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yuyana-studio.itch.io/habla-bien"
+  },
+  {
+    "title": "Annoy Cacho [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://namitof.itch.io/annoy-cacho"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
