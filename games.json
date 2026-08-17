@@ -1,5 +1,40 @@
 [
   {
+    "title": "Feralbloom: Tactics of Nature [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://madsnowman.itch.io/feralbloom"
+  },
+  {
+    "title": "NaviGuntion: Car Royale [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://troublecub-games.itch.io/naviguntion"
+  },
+  {
+    "title": "Gold&amp;Hunger [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://edizombie.itch.io/gold-and-hunger"
+  },
+  {
+    "title": "Asteroids [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jstar69.itch.io/asteroids"
+  },
+  {
+    "title": "Down &amp; Out [Free] [Educational] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pengilu.itch.io/down-out"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
