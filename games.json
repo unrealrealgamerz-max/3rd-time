@@ -1,5 +1,40 @@
 [
   {
+    "title": "Unofficial Fantacode Demo [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://duggansc.itch.io/unofficial-fantacode-demo"
+  },
+  {
+    "title": "Play and Learn: English! [$4.99] [Educational] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://utopia-rc.itch.io/play-and-learn-english"
+  },
+  {
+    "title": "Green Farm 5 [$1.50] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tajik-games.itch.io/green-farm-5"
+  },
+  {
+    "title": "Ashfall City [Free] [Action] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://novagames-official.itch.io/ashfall-city"
+  },
+  {
+    "title": "Max&#039;s Devil Town [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charlequin.itch.io/maxs-devil-town"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
