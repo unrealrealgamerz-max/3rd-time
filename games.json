@@ -1,5 +1,40 @@
 [
   {
+    "title": "Overheat [Free] [Shooter] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://s4g.itch.io/overheat"
+  },
+  {
+    "title": "Arcade Ascension [$2.99] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://deathwish-games.itch.io/arcade-ascension"
+  },
+  {
+    "title": "Dont-Laugh-You-Cant-Beat-Level-6 [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://circlele.itch.io/dont-laugh-you-cant-beat-level-6"
+  },
+  {
+    "title": "Pollywog [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rubochan.itch.io/pollywog"
+  },
+  {
+    "title": "Project Pixel [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrgorilla14.itch.io/project-pixel"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
