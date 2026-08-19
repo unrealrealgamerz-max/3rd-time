@@ -1,5 +1,40 @@
 [
   {
+    "title": "TIME LOCK [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tricky-nikki.itch.io/time-lock"
+  },
+  {
+    "title": "MONARCH PROTOCOL — Awakening of Shadows [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ssdarn.itch.io/monarch-protocol"
+  },
+  {
+    "title": "The Doll Shop - Demo [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ateliersento.itch.io/thedollshop"
+  },
+  {
+    "title": "Usagi to Batsu Game [$3.00] [Card Game] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://and-lamb.itch.io/usagi-to-batsu-game"
+  },
+  {
+    "title": "Dust &amp; Neon [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wasd-games20.itch.io/dust-neon"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
