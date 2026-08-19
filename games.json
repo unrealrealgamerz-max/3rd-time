@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lockpick Game [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coatline.itch.io/lockpick-game"
+  },
+  {
+    "title": "Eternity Pixel Dungeon [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://eternitypixeldungeon.itch.io/game"
+  },
+  {
+    "title": "Under the Azalea [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://caffeinesoda.itch.io/under-the-azalea"
+  },
+  {
+    "title": "山海拾遺 SHANHAI ECHOES [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goody3245.itch.io/shanhai-echoes"
+  },
+  {
+    "title": "ZombieChase [Free] [Role Playing] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://live-by-unix.itch.io/zombiechase"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
