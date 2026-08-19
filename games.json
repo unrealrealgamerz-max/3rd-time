@@ -1,5 +1,40 @@
 [
   {
+    "title": "BOX GAME [Free] [Fighting] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cocoplay.itch.io/just-a-box-game"
+  },
+  {
+    "title": "ICWA [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://grace-mo.itch.io/icwa"
+  },
+  {
+    "title": "School of Dimble Doo [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://villainyeah.itch.io/school-of-dimble-doo"
+  },
+  {
+    "title": "Baku and the Spirit Lantern [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jacoblarisonart.itch.io/baku-and-the-spirit-lantern"
+  },
+  {
+    "title": "Hollowroot: The Last Seed [45% Off] [$4.94] [Action] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kibabustudio.itch.io/hollowroot"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
