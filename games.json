@@ -1,5 +1,40 @@
 [
   {
+    "title": "Cat Stack [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mr-charisma.itch.io/cat-stack"
+  },
+  {
+    "title": "MOUTHFEEL DEMO 0 [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mvinzangelo.itch.io/mouthfeel-demo"
+  },
+  {
+    "title": "ShrimpDash [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hvackkw.itch.io/shrimpdash"
+  },
+  {
+    "title": "Shrimprium: Shrimp Aquarium Simulation [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hvackkw.itch.io/shrimprium"
+  },
+  {
+    "title": "Protocol Unplugged [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://icey4477.itch.io/protocol-unplugged"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
