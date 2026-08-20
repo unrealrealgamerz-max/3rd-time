@@ -1,5 +1,40 @@
 [
   {
+    "title": "Bus Game Prototype [Free] [Action] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://phantomfym.itch.io/bus-game-prototype"
+  },
+  {
+    "title": "Again [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://markery.itch.io/again"
+  },
+  {
+    "title": "Nothing Comes For Free [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kkspears.itch.io/nothing-comes-for-free"
+  },
+  {
+    "title": "Free - 50 Pixel Art Rock and Stone 512x512 [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://layau.itch.io/free-50-pixel-art-rock-and-stone"
+  },
+  {
+    "title": "EzFirgi [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xuhui3831.itch.io/ezfirgi"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
