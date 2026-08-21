@@ -1,5 +1,40 @@
 [
   {
+    "title": "Physics Chain [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://notdaniboy.itch.io/physics-chain"
+  },
+  {
+    "title": "Product Test [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dodoknives.itch.io/product-test"
+  },
+  {
+    "title": "Ludzik &amp; Nero [Free] [Platformer] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fadnmade.itch.io/ludzik-i-nero"
+  },
+  {
+    "title": "Saci Kiosk Madness [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://flamingplayz112.itch.io/saci-kiosk-madness"
+  },
+  {
+    "title": "Pew Pew [Free] [Survival] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mattxtra.itch.io/pew-pew"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
