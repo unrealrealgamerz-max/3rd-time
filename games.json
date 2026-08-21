@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tic Tac Toe Deluxe [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jahir-03.itch.io/tic-tac-toe-deluxe"
+  },
+  {
+    "title": "Bear to Vienne(France) [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crokounours.itch.io/bear-to-viennefrance"
+  },
+  {
+    "title": "ESCAPEAWAY! [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://snowman64.itch.io/escapeaway"
+  },
+  {
+    "title": "The Trenches [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://meesteroocher.itch.io/the-trenches"
+  },
+  {
+    "title": "RotTheCity ปอปมหานคร[BETA] [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://3ammymae.itch.io/rotthecity"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
