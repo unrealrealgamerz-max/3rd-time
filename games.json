@@ -1,5 +1,40 @@
 [
   {
+    "title": "Quiz Star Wars [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://airteuteu.itch.io/quiz-star-wars"
+  },
+  {
+    "title": "Slinkpillar [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://linkychudev.itch.io/slinkpillar"
+  },
+  {
+    "title": "GI Omino Stage Game [Free] [Adventure] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://iacosoft.itch.io/ominostage"
+  },
+  {
+    "title": "Empire Builder – City Tycoon Dice Game [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://2d-creator.itch.io/empire-builder-city-tycoon-dice-game"
+  },
+  {
+    "title": "Pick 13 - General Mix 1 [Free] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bareth87.itch.io/pick-13-general-mix-1"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
