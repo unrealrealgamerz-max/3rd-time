@@ -1,5 +1,40 @@
 [
   {
+    "title": "PetpetGo [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://petpetgo.itch.io/petpetgo"
+  },
+  {
+    "title": "EXCAV [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://heavenlyshuck.itch.io/excav"
+  },
+  {
+    "title": "dvainteractive [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dvainteractive.itch.io/dvainteractive"
+  },
+  {
+    "title": "Crunchy Wings [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elmaster456.itch.io/crunchy-wings"
+  },
+  {
+    "title": "Silent Shortcut [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://srbaya29.itch.io/silent-shortcut"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
