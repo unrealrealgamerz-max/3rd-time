@@ -1,5 +1,40 @@
 [
   {
+    "title": "What The Spell? [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://broken-floppy-studios.itch.io/whatthespell"
+  },
+  {
+    "title": "3042 [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rombik177.itch.io/3042"
+  },
+  {
+    "title": "Count dracula down jam actual ver [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tymixitchio.itch.io/count-dracula-down-jam"
+  },
+  {
+    "title": "DREAMFEAR demo [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ant-games.itch.io/dreamfear-demo-public"
+  },
+  {
+    "title": "TheMysteriousSoup [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://danila279.itch.io/themysterioussoup"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
