@@ -1,5 +1,40 @@
 [
   {
+    "title": "Target Lock: Arcade Challenge [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hedrosgames.itch.io/target-lock"
+  },
+  {
+    "title": "Tyrian for Sega 32X [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://haroldo-ok.itch.io/tyrian-32x"
+  },
+  {
+    "title": "Ron Classic: Tung Tung Tung Sahur Edition [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spritegamedev.itch.io/ron-classic-tung-tung-tung-sahur-edition"
+  },
+  {
+    "title": "Color run [Free] [Action] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://julia1209.itch.io/color-run"
+  },
+  {
+    "title": "Java Interview Trainer - 512 Junior &amp; Middle Q&amp;A [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://softdevelop-ua.itch.io/java-interview-trainer"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
