@@ -1,5 +1,40 @@
 [
   {
+    "title": "Block Shock [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://toastcadet.itch.io/block-shock"
+  },
+  {
+    "title": "Underground Landlord [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zacogaki.itch.io/underground-landlord"
+  },
+  {
+    "title": "Demi Card Demon [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mindart.itch.io/demi-card-demon"
+  },
+  {
+    "title": "High Noon [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://emrecan45.itch.io/high-noon"
+  },
+  {
+    "title": "EIGHT [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://threealdi.itch.io/eight"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
