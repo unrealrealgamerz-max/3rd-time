@@ -1,5 +1,40 @@
 [
   {
+    "title": "test room [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://craftiestumbletin.itch.io/test-room"
+  },
+  {
+    "title": "C.E.T.A.S.  MAD-65 [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://monochrome-productions.itch.io/cetas-mad-65"
+  },
+  {
+    "title": "MusicCreator by Missy [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://missyterry.itch.io/musiccreator-by-missy"
+  },
+  {
+    "title": "Unstable potions [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://colaxi.itch.io/unstable-potions"
+  },
+  {
+    "title": "Graphweaver [Free] [Action] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lukas1313.itch.io/graphweaver"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
