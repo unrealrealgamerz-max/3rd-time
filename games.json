@@ -1,5 +1,40 @@
 [
   {
+    "title": "It Chose You [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://savchello.itch.io/it-chose-you"
+  },
+  {
+    "title": "BasicQuest v1.0 [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://uriellopezpaz.itch.io/basicquest"
+  },
+  {
+    "title": "Arcanomon [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charredfire.itch.io/arcanomon"
+  },
+  {
+    "title": "DON&#039;T PRESS IT! [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nordpixelgames.itch.io/dont-press-it"
+  },
+  {
+    "title": "Fantastic Supermarket [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ofekavidan.itch.io/fantastic-supermarket"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
