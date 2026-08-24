@@ -1,5 +1,40 @@
 [
   {
+    "title": "TinyMiner [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://axelrodd.itch.io/tinyminer"
+  },
+  {
+    "title": "forest rider [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://farmot.itch.io/forest-rider"
+  },
+  {
+    "title": "Squishy World [$49.99] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pitchyzh.itch.io/squishy-world"
+  },
+  {
+    "title": "Camp Cryptid [Free] [Survival] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://delta-haas.itch.io/camp-cryptid"
+  },
+  {
+    "title": "Tower Power: Wall Fall [$5.00] [Card Game] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rouzeee.itch.io/tower-power-wall-fall"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
