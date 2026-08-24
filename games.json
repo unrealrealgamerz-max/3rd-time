@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ultiment Granny Adventure [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zunodev.itch.io/ultimentgrannyadventure"
+  },
+  {
+    "title": "REWIND [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ss-pro444.itch.io/rewind"
+  },
+  {
+    "title": "Block It Out [Free] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://valorzard.itch.io/unstable-game-jam"
+  },
+  {
+    "title": "Kuebiko: Ascensão Divina [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prismagamelab.itch.io/timeeanassir"
+  },
+  {
+    "title": "ZombieShots [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thebadgangstudios.itch.io/zombieshots"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
