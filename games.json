@@ -1,5 +1,40 @@
 [
   {
+    "title": "SnowFall Void DEMO [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spr0ze.itch.io/snowfall-void-demo"
+  },
+  {
+    "title": "DimenSnake [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://waxyao.itch.io/dimensnake"
+  },
+  {
+    "title": "Bumya Play Or Dead [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://surag.itch.io/bumya-play-or-dead"
+  },
+  {
+    "title": "Pac-Man [Free] [Action] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sylvaincode.itch.io/pacman-42"
+  },
+  {
+    "title": "Granny X [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://slight-tea.itch.io/granny-x"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
