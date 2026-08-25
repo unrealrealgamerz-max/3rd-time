@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pouic and Watch [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://squale.itch.io/pouic-and-watch"
+  },
+  {
+    "title": "The Bad Duck [Free] [Strategy] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alex-2-1.itch.io/the-bad-duck"
+  },
+  {
+    "title": "11 - Minute Hero [Beta][Bullet Heaven] [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://combosmooth.itch.io/x-minute-hero"
+  },
+  {
+    "title": "WINDPOST [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mooring.itch.io/windpost"
+  },
+  {
+    "title": "Sister Bday [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chalerik.itch.io/minas-bday"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
