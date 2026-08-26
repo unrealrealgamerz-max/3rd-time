@@ -1,5 +1,40 @@
 [
   {
+    "title": "QUIZ Game--NEW [$2.99] [Educational] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://like-mindz.itch.io/quiz-game-new"
+  },
+  {
+    "title": "Go Deep [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vintao1.itch.io/go-deep"
+  },
+  {
+    "title": "Methodox Voxel Sandbox [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://methodox.itch.io/voxel-sandbox"
+  },
+  {
+    "title": "Skeleton Mob Club [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://geddqt.itch.io/skeleton-mob-club"
+  },
+  {
+    "title": "Flappy bird CP 1 2b [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lauraandsomethin.itch.io/flappy-bird-cp-1-2b"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
