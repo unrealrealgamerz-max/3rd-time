@@ -1,5 +1,40 @@
 [
   {
+    "title": "Glorpy Bar [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hewzi.itch.io/glorpy-bar"
+  },
+  {
+    "title": "Tower Defense - Tin Malčić [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hu-iz-vi.itch.io/tower-defense-tin-malcic"
+  },
+  {
+    "title": "Parafactory [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fefeefeefe.itch.io/parafactory"
+  },
+  {
+    "title": "Icemoon Miners [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://robbenwald-studio.itch.io/icemoon-miners"
+  },
+  {
+    "title": "Magnet [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sanros4312.itch.io/magnet-2d-neon"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
