@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pocket Salaryman [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://smokingjacket.itch.io/pocket-salaryman"
+  },
+  {
+    "title": "SUMMER CRUSH [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://granthaffner.itch.io/summer-crush"
+  },
+  {
+    "title": "Rhythm Shooter Combat Prototype [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zackleblack.itch.io/rhythm-shooter-combat-prototype"
+  },
+  {
+    "title": "SLICER STRIKE [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://legocrok.itch.io/slicer-strike"
+  },
+  {
+    "title": "Void Miner [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kampfdackel.itch.io/void-miner"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
