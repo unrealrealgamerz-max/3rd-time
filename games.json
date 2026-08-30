@@ -1,5 +1,40 @@
 [
   {
+    "title": "Burger Belle [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bidarvfx.itch.io/burger-belle"
+  },
+  {
+    "title": "夏のあと、紬は。 [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yuuen-no-mori.itch.io/natsu-no-ato-tsumugi-wa"
+  },
+  {
+    "title": "Mutant Survivor [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://slowkiln.itch.io/mutant-survivor"
+  },
+  {
+    "title": "Ants [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://klaudia4.itch.io/ants"
+  },
+  {
+    "title": "Just Until the Rain Stops [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ko-tetz.itch.io/just-until-the-rain-stops"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
