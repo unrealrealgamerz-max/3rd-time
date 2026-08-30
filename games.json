@@ -1,5 +1,40 @@
 [
   {
+    "title": "Shotgun Shepherd (cj) [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://picklejarpotatoes.itch.io/shotgun-shepherd"
+  },
+  {
+    "title": "Pawn Scum [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moonbreadgames.itch.io/pawn-scum"
+  },
+  {
+    "title": "Cafe Critters [Free] [Visual Novel] [Windows] [macOS] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://eclipsed241.itch.io/cafe-critters"
+  },
+  {
+    "title": "Alien Attack [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://impulseresponse.itch.io/alien-attack"
+  },
+  {
+    "title": "A Short End to a Long Journey [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nyrro.itch.io/a-short-end-to-a-long-journey"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
