@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pyrotron [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wd-master123.itch.io/pyrotron"
+  },
+  {
+    "title": "Orbit Tax [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://denmarkmikael.itch.io/orbit-tax"
+  },
+  {
+    "title": "Jimothy Sim-othy [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://playfellowstudio.itch.io/jimothy-sim"
+  },
+  {
+    "title": "Tough Luck [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goldghost.itch.io/tough-luck"
+  },
+  {
+    "title": "Tank Battle [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://throwbananana.itch.io/tank-battle"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
