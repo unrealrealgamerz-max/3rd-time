@@ -1,5 +1,40 @@
 [
   {
+    "title": "CONSTELLATION [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sdsgames.itch.io/constellation"
+  },
+  {
+    "title": "Legado das Marés [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://davisos.itch.io/legado-das-mars"
+  },
+  {
+    "title": "Money Taggers [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nulldaman.itch.io/money-taggers"
+  },
+  {
+    "title": "HayStack! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arozm.itch.io/haystack"
+  },
+  {
+    "title": "Antes que ele volte [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aislanio.itch.io/antes-que-ele-volte"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
