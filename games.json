@@ -1,5 +1,40 @@
 [
   {
+    "title": "Blade Zero: Iron Sharpens Iron [$9.99] [Fighting] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://akirasekai.itch.io/blade-zero"
+  },
+  {
+    "title": "Wartune bihor [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dj-flo.itch.io/wartune-bihorzip"
+  },
+  {
+    "title": "MiniTroll [Free] [Simulation] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://trolleybus-games-studio.itch.io/minitroll"
+  },
+  {
+    "title": "Time-Table [Free] [Other] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dandfggv.itch.io/time-table"
+  },
+  {
+    "title": "Hordebreaker [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rhined.itch.io/hordebreaker"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
