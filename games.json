@@ -1,75 +1,5 @@
 [
   {
-    "title": "Yugioh DOTR - Fan Game [Free] [Card Game] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://czeak6464.itch.io/dotr"
-  },
-  {
-    "title": "Blost The Gosm - Demo [Free] [Platformer] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://pedra-studios.itch.io/blost-the-gosm-demo"
-  },
-  {
-    "title": "7 Wood Dragon Skills [$2.99] [Role Playing]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://layau.itch.io/7-wood-dragon-skills"
-  },
-  {
-    "title": "Glyph Drop DX [Free] [Puzzle]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://devgb.itch.io/gddx"
-  },
-  {
-    "title": "Synapse Mainframe  Endless Operations [$2.99] [Linux]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://brianzen007.itch.io/synapse-mainframe-endless-operations"
-  },
-  {
-    "title": "Blade Zero: Iron Sharpens Iron [$9.99] [Fighting] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://akirasekai.itch.io/blade-zero"
-  },
-  {
-    "title": "Wartune bihor [Free]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://dj-flo.itch.io/wartune-bihorzip"
-  },
-  {
-    "title": "MiniTroll [Free] [Simulation] [Windows] [Android]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://trolleybus-games-studio.itch.io/minitroll"
-  },
-  {
-    "title": "Time-Table [Free] [Other] [Android]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://dandfggv.itch.io/time-table"
-  },
-  {
-    "title": "Hordebreaker [Free] [Action] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://rhined.itch.io/hordebreaker"
-  },
-  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
@@ -89,29 +19,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/bimbim/",
-    "scraped_at": "2026-09-02T16:22:04.671462Z"
-  },
-  {
-    "id": "fansly",
-    "title": "Fansly",
-    "version": "Unknown",
-    "developer": "Unknown",
-    "engine": "Unity",
-    "censorship": "Uncensored",
-    "status": "Ongoing",
-    "release_date": "2 September, 2026",
-    "file_size": "",
-    "views": "0",
-    "rating": 0,
-    "votes": 0,
-    "cover": "https://pornmaniak.com/wp-content/uploads/2024/04/fansly-review.jpg",
-    "screenshots": [],
-    "tags": [],
-    "description": "",
-    "changelog": "",
-    "download_links": [],
-    "source_url": "https://pornmaniak.com/fansly/",
-    "scraped_at": "2026-09-02T16:22:01.622512Z"
+    "scraped_at": "2026-09-02T22:29:58.831211Z"
   },
   {
     "id": "fancentro",
@@ -133,7 +41,29 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/fancentro/",
-    "scraped_at": "2026-09-02T16:21:58.383622Z"
+    "scraped_at": "2026-09-02T22:29:56.051432Z"
+  },
+  {
+    "id": "fansly",
+    "title": "Fansly",
+    "version": "Unknown",
+    "developer": "Unknown",
+    "engine": "Unity",
+    "censorship": "Uncensored",
+    "status": "Ongoing",
+    "release_date": "2 September, 2026",
+    "file_size": "",
+    "views": "0",
+    "rating": 0,
+    "votes": 0,
+    "cover": "https://pornmaniak.com/wp-content/uploads/2024/04/fansly-review.jpg",
+    "screenshots": [],
+    "tags": [],
+    "description": "",
+    "changelog": "",
+    "download_links": [],
+    "source_url": "https://pornmaniak.com/fansly/",
+    "scraped_at": "2026-09-02T22:29:53.172728Z"
   },
   {
     "id": "ismygirl",
@@ -155,7 +85,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/ismygirl-review/",
-    "scraped_at": "2026-09-02T16:21:55.395271Z"
+    "scraped_at": "2026-09-02T22:29:50.245255Z"
   },
   {
     "id": "manyvids",
@@ -177,7 +107,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/manyvids/",
-    "scraped_at": "2026-09-02T16:21:52.267675Z"
+    "scraped_at": "2026-09-02T22:29:47.344480Z"
   },
   {
     "id": "onlyfans",
@@ -199,7 +129,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/onlyfans/",
-    "scraped_at": "2026-09-02T16:21:49.145117Z"
+    "scraped_at": "2026-09-02T22:29:44.432863Z"
   },
   {
     "id": "xfanshub",
@@ -221,7 +151,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/xfanshub/",
-    "scraped_at": "2026-09-02T16:21:45.987328Z"
+    "scraped_at": "2026-09-02T22:29:41.552642Z"
   },
   {
     "id": "mymfans",
@@ -243,6 +173,6 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/mym-fans/",
-    "scraped_at": "2026-09-02T16:21:42.879406Z"
+    "scraped_at": "2026-09-02T22:29:38.637301Z"
   }
 ]
