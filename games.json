@@ -1,5 +1,40 @@
 [
   {
+    "title": "Unsightly Citizens [$15.00] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lantern-and-lever.itch.io/unsightly-citizens"
+  },
+  {
+    "title": "Vampire Heist [$18.00] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lantern-and-lever.itch.io/vampire-heist"
+  },
+  {
+    "title": "The Brideweald [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dragoleaf.itch.io/the-brideweald"
+  },
+  {
+    "title": "Watchfires [$15.00] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lantern-and-lever.itch.io/watchfires"
+  },
+  {
+    "title": "Ludzik 3 I Nero [Free] [Platformer] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fadnmade.itch.io/ludzik-3-i-nero"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
