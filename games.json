@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sticky Fingers Playtest [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cuervostudios.itch.io/sticky-fingers-playtest"
+  },
+  {
+    "title": "Green Friends [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://enotofil.itch.io/green-friends"
+  },
+  {
+    "title": "Ava Protocol [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ava324.itch.io/ava-protocol"
+  },
+  {
+    "title": "ToxicTower [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ctrlfreaks.itch.io/toxictower"
+  },
+  {
+    "title": "Fingers of Fate (2024 Re-Uploaded) [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jakerdevs.itch.io/fingers-of-fate-2024-re-uploaded"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
