@@ -1,5 +1,40 @@
 [
   {
+    "title": "CAVERN STALKER atari 800 [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ready64.itch.io/cavern-stalker-atari-800"
+  },
+  {
+    "title": "CAVERN STALKER amstrad 464 [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ready64.itch.io/cavern-stalker-amstrad-464"
+  },
+  {
+    "title": "CAVERN STALKER amstrad 128 [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ready64.itch.io/cavern-stalker-amstrad-128"
+  },
+  {
+    "title": "CAVERN STALKER msx computers [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ready64.itch.io/cavern-stalker-msx-computers"
+  },
+  {
+    "title": "CAVERN STALKER spectrum zx [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ready64.itch.io/cavern-stalker-spectrum-zx"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
