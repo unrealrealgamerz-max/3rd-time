@@ -1,5 +1,40 @@
 [
   {
+    "title": "Rescue Wings [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://matiasseo.itch.io/rescue-wings"
+  },
+  {
+    "title": "ShadeWardens [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://affegames.itch.io/shadewardens"
+  },
+  {
+    "title": "Kai IV [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anderpatch-studios.itch.io/kai-iv"
+  },
+  {
+    "title": "A Reflection of You (Launch Build) [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lockewood.itch.io/a-reflection-of-you"
+  },
+  {
+    "title": "Last Monkey Standing [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jhxu.itch.io/last-monkey-standing"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
