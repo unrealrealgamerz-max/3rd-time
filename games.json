@@ -1,5 +1,40 @@
 [
   {
+    "title": "Still Alive [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ruby-game-dev.itch.io/still-alive"
+  },
+  {
+    "title": "Optimal Tubers [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://evancacc.itch.io/optimal-tubers"
+  },
+  {
+    "title": "die [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bluefrog94.itch.io/die"
+  },
+  {
+    "title": "Void Courier [20% Off] [$2.39] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://leo-shawn.itch.io/void-courier"
+  },
+  {
+    "title": "Chaotic Pets [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nearq.itch.io/chaotic-pets"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
