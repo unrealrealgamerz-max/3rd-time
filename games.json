@@ -1,5 +1,40 @@
 [
   {
+    "title": "Furry Rain [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lilyhollis.itch.io/furry-rain"
+  },
+  {
+    "title": "Battle Loop [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://midnight-aurora.itch.io/battle-loop"
+  },
+  {
+    "title": "Woman in Red [Free] [Interactive Fiction] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://activedaydreamer.itch.io/woman-in-red"
+  },
+  {
+    "title": "Jere&#039;s Jelly Roll [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jere.itch.io/jeres-jelly-roll"
+  },
+  {
+    "title": "Dragon Quest: Lovers of Scum [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://plinycapybara94.itch.io/dragon-quest-lovers-of-scum"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
