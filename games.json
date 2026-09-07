@@ -1,5 +1,40 @@
 [
   {
+    "title": "Shield [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zazike.itch.io/shield"
+  },
+  {
+    "title": "Godot 2D Top-Down Template - Demo [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stesproject.itch.io/godot-2d-top-down-template-demo"
+  },
+  {
+    "title": "[BETA TEST] Lunar Tag V1 [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://develliotx.itch.io/beta-test-lunar-tag-v1"
+  },
+  {
+    "title": "My Glub Farm Expedition [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joinerk.itch.io/my-glub-farm-expedition"
+  },
+  {
+    "title": "Catapins [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://biscuitfactorygames.itch.io/catapins"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
