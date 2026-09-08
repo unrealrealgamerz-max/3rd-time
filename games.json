@@ -1,5 +1,40 @@
 [
   {
+    "title": "Snëk! [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mischievouscats.itch.io/snk"
+  },
+  {
+    "title": "3h35am [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gabriel-apolinario.itch.io/3h35am"
+  },
+  {
+    "title": "سيارة [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://youse14.itch.io/cars"
+  },
+  {
+    "title": "Jordan&#039;s LSAT World [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jmuhsin.itch.io/jordans-lsat-world"
+  },
+  {
+    "title": "test_shader fi [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dilumo.itch.io/test-shader-fi"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
