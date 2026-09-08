@@ -1,5 +1,40 @@
 [
   {
+    "title": "Fot Fish. [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gi204-229b-gim-iti-bu.itch.io/fot-fish"
+  },
+  {
+    "title": "Annoying Clicker [Beta 1.0] [Free] [Other] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thethomas124216.itch.io/annoying-clicker"
+  },
+  {
+    "title": "Pixel Metropolis Demo [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jeffg67.itch.io/pixel-metropolis"
+  },
+  {
+    "title": "Silt And Tide [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://davesoft.itch.io/silt-and-tide"
+  },
+  {
+    "title": "Gattara: The Cat Magnet [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://disometric.itch.io/gattara-the-cat-magnet"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
