@@ -1,5 +1,40 @@
 [
   {
+    "title": "Last Lift — Local Co-op Playtest [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mungnamu.itch.io/last-lift"
+  },
+  {
+    "title": "Emberstead [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://darkbasilisk.itch.io/emberstead"
+  },
+  {
+    "title": "frunki pahse 3 old [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dynt3l.itch.io/frunki-pahse-3-old"
+  },
+  {
+    "title": "Abyss Angler [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gegx.itch.io/abyss-angler"
+  },
+  {
+    "title": "Buenos Aires Fury [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bombastic17.itch.io/bafury"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
