@@ -1,5 +1,40 @@
 [
   {
+    "title": "Star Pairs [$1.00] [Puzzle] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://second-wind-games.itch.io/star-pairs"
+  },
+  {
+    "title": "Beat Saber - clone. [Free] [Rhythm] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://solitar.itch.io/beat-saber-clone"
+  },
+  {
+    "title": "Kiln Surprise · 开窑 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mlokai.itch.io/kiln-surprise"
+  },
+  {
+    "title": "Sprunki Phase 4: Gore Galore Remastered [Free] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oren1848.itch.io/sprunki-phase-4-gore-galore-remastered"
+  },
+  {
+    "title": "Lavender&#039;s Brewing Company [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://salemthedev.itch.io/lavenders-brewing-company"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
