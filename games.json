@@ -1,5 +1,40 @@
 [
   {
+    "title": "Blight [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://newrare.itch.io/blight"
+  },
+  {
+    "title": "Bouncetry [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://newrare.itch.io/bouncetry"
+  },
+  {
+    "title": "Chainring [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://newrare.itch.io/chainring"
+  },
+  {
+    "title": "3Quaters [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://estampes.itch.io/3quaters"
+  },
+  {
+    "title": "Spinshock [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://newrare.itch.io/spinshock"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
