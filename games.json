@@ -1,5 +1,40 @@
 [
   {
+    "title": "World State Weaver — Offline State Transition Tool [$3.00]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lilambdcrossing.itch.io/world-state-weaver"
+  },
+  {
+    "title": "Just Fly [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dexterslog.itch.io/just-fly"
+  },
+  {
+    "title": "Lumberjack Tycoon [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://salrekoi.itch.io/lumberjack-tycoon"
+  },
+  {
+    "title": "Spoiled Yogurt [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pluto13x.itch.io/spoiled-yogurt"
+  },
+  {
+    "title": "SPINOKO [Free] [Fighting] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hillhillhill.itch.io/spinoko"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
