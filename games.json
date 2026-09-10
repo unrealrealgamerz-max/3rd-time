@@ -1,5 +1,40 @@
 [
   {
+    "title": "Penguin Kart Racer [$5.00] [Racing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://penguin-night.itch.io/penguin-kart-racer"
+  },
+  {
+    "title": "MenuTrace V.1 [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://door11sudio.itch.io/menutrace-v1"
+  },
+  {
+    "title": "drape2 CS 417 MP1a [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://drape2.itch.io/drape2-cs-417-mp1a"
+  },
+  {
+    "title": "Bobgar&#039;s 3D Game - QBasic Edition [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bobgar.itch.io/bobgars-3d-game-qbasic-edition"
+  },
+  {
+    "title": "Grassyplanet [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://os76.itch.io/grassyplanet"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
