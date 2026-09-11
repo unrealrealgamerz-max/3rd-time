@@ -1,5 +1,40 @@
 [
   {
+    "title": "Academon [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://creavideojuegosinventores.itch.io/academon"
+  },
+  {
+    "title": "Animal Adventure (Demo) [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vgfvt.itch.io/animal-adventure-demo"
+  },
+  {
+    "title": "StegMeros Defender Game [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anninz.itch.io/stegmeros-defender"
+  },
+  {
+    "title": "Salvage Run [$1.00] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://smitty1484.itch.io/salvage-run"
+  },
+  {
+    "title": "IRIS: I&#039;m Reflecting In the Silence (Early Alpha) [Only RU] [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://garven20002.itch.io/iris-im-reflecting-in-the-silence"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
