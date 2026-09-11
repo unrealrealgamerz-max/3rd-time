@@ -1,5 +1,40 @@
 [
   {
+    "title": "ICE MAKER [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://achille-g.itch.io/ice-maker"
+  },
+  {
+    "title": "Degumi Tower [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chisaki-k.itch.io/degumi-tower"
+  },
+  {
+    "title": "Jane Doe&#039;s Kill [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roku-ta.itch.io/jane-does-kill"
+  },
+  {
+    "title": "hl2b stufs [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gorhaznew.itch.io/hl2b-stufs"
+  },
+  {
+    "title": "Sphere of Life and Death [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jeromexu.itch.io/sphere-of-life-and-death"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
