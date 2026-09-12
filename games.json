@@ -1,5 +1,40 @@
 [
   {
+    "title": "thingie [Free] [Visual Novel] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lmao1509.itch.io/thingie"
+  },
+  {
+    "title": "Realms of Arcadia [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charlequin.itch.io/realms"
+  },
+  {
+    "title": "ocean cleanup [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nyxline-interactive.itch.io/ocean-cleanup"
+  },
+  {
+    "title": "Tower Horde [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://braincellgames.itch.io/tower-horde"
+  },
+  {
+    "title": "Orbital Zero: An Aim Trainer [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://numantikun-gamedev.itch.io/orbital-zero-an-aim-trainer"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
