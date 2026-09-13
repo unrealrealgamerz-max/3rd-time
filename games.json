@@ -1,5 +1,40 @@
 [
   {
+    "title": "weeping [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://detafi.itch.io/weeping"
+  },
+  {
+    "title": "Castle Defense [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kostra.itch.io/castle-defense"
+  },
+  {
+    "title": "one-line-tactics [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://octtofrog.itch.io/one-line-tactics"
+  },
+  {
+    "title": "Butcher&#039;s Bill [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://monomestudio.itch.io/butchers-bill"
+  },
+  {
+    "title": "The Leap [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://brynleif.itch.io/the-leap"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
