@@ -1,5 +1,40 @@
 [
   {
+    "title": "路地裏マサラ - ROJIURA MASALA [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sukimastock.itch.io/rojiura-masala"
+  },
+  {
+    "title": "WayBuilder [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrnibo.itch.io/waybuilder"
+  },
+  {
+    "title": "eCommerce &#039;99 [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://runfastergames.itch.io/ecommerce-99"
+  },
+  {
+    "title": "untitled pet game [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://abyss-presence.itch.io/pet-game"
+  },
+  {
+    "title": "Hikkan [Free] [Other] [Windows] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yniviar.itch.io/hikkan"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
