@@ -1,5 +1,40 @@
 [
   {
+    "title": "Let&#039;s go Fishing [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dawndays07.itch.io/lets-go-fishing"
+  },
+  {
+    "title": "GoingHome [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goodmedicine.itch.io/goinghome"
+  },
+  {
+    "title": "super teletubbies x jojo mobile [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dummy1333.itch.io/super-teletubbies-x-jojo-mobile"
+  },
+  {
+    "title": "Fight like a dog [Free] [Fighting] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://brugetsu.itch.io/fight-like-a-dog"
+  },
+  {
+    "title": "Carbon [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ambient-games.itch.io/carbon"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
