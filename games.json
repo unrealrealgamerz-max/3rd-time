@@ -1,5 +1,40 @@
 [
   {
+    "title": "Fossilis Expedition [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yosoymitxel.itch.io/fossilis-expedition"
+  },
+  {
+    "title": "Sierra Burnout [$1.00] [Simulation] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://virusetnia.itch.io/sierra-burnout"
+  },
+  {
+    "title": "Make10 [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stevehiggins.itch.io/make10"
+  },
+  {
+    "title": "GTA 5 THE VIA VERSION [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rudufz.itch.io/gta-5-the-via-version"
+  },
+  {
+    "title": "Patient Paralysis [DEMO] [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://casualking.itch.io/patient-paralysis"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
