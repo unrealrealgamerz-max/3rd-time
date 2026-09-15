@@ -1,5 +1,40 @@
 [
   {
+    "title": "Galaxy Strike [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://devviktoria.itch.io/galaxy-strike"
+  },
+  {
+    "title": "Singularity_GS [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rmprod.itch.io/singularity-gs"
+  },
+  {
+    "title": "Neon Flight [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://leyeroo.itch.io/neon-flight"
+  },
+  {
+    "title": "Embervale [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://legolas444.itch.io/embervale"
+  },
+  {
+    "title": "EcoBeasts: Island Manager [$1.99] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mariocardiel2.itch.io/ecobeasts-island-manager"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
