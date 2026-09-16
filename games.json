@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sanguine Dungeon | Unity Browser Demo [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sanguine-nite.itch.io/sanguine-dungeon-unity"
+  },
+  {
+    "title": "Lobo Malandro [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://integral-pixels.itch.io/lobo-malandro"
+  },
+  {
+    "title": "Top Cat Taggers [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://top-cat-taggers-dev.itch.io/top-cat-taggers-2026"
+  },
+  {
+    "title": "KNIGHTSTEAL [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://knightstealgames.itch.io/knightsteal"
+  },
+  {
+    "title": "Abstract Dots and Lines [Free] [Strategy] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://towerillusionii.itch.io/abstract-dots-and-lines"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
