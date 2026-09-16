@@ -1,5 +1,40 @@
 [
   {
+    "title": "Silent Grove [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://andy-chirea.itch.io/silent-grove"
+  },
+  {
+    "title": "IronApple: Deck Builder [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pigeondev-studios.itch.io/ironapple-deck-builder"
+  },
+  {
+    "title": "Sydney Opera House [Free] [Survival] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jacobyyt.itch.io/sydney-opera-house"
+  },
+  {
+    "title": "Tower Crew [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ducksandcookies.itch.io/tower-crew"
+  },
+  {
+    "title": "DreamHounter [$1.00] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ducksandcookies.itch.io/dreamhounter"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
