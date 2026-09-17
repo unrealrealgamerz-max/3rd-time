@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sky Arcade [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vickymarti.itch.io/sky-arcade"
+  },
+  {
+    "title": "Sopa Perfecta (WIP) [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thabacko.itch.io/sopa-perfecta"
+  },
+  {
+    "title": "Voidfall [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nooxax.itch.io/voidfall"
+  },
+  {
+    "title": "Byron vs. Tails [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arugulaz.itch.io/byron-vs-tails"
+  },
+  {
+    "title": "When Pigs Fly [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ken-buajttihotmailcom.itch.io/when-pigs-fly"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
