@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Turning Year [$9.99] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://csaf.itch.io/the-turning-year"
+  },
+  {
+    "title": "The Ugly Duckling [Free] [Visual Novel] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aurorazora.itch.io/the-ugly-duckling"
+  },
+  {
+    "title": "Let Me Die [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://devhermit.itch.io/let-me-die"
+  },
+  {
+    "title": "SpurTrail [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vidundergames.itch.io/spurtrail"
+  },
+  {
+    "title": "Petal Mews [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://petalmewsgame.itch.io/petal-mews"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
