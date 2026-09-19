@@ -1,5 +1,40 @@
 [
   {
+    "title": "GameBuster [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pebuba.itch.io/gamebuster"
+  },
+  {
+    "title": "Cozy Card Game [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://koplay.itch.io/cozy-card-game"
+  },
+  {
+    "title": "Book Empire Incremental [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://white-rabbit-games.itch.io/book-empire-incremental"
+  },
+  {
+    "title": "むしカート [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://oz-ai.itch.io/mushi-kart"
+  },
+  {
+    "title": "Stack The Rent [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://edulazaro.itch.io/stack-the-rent"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
