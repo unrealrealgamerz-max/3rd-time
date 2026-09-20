@@ -1,5 +1,40 @@
 [
   {
+    "title": "Shrimp Fried Bouncaway [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://utinj.itch.io/shrimp-fried-bouncaway"
+  },
+  {
+    "title": "Arnio [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rats-nest-corp.itch.io/arnio"
+  },
+  {
+    "title": "The Last Thread - Early Builds [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mech-mind-games.itch.io/the-last-thread-playtest"
+  },
+  {
+    "title": "retroOids [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ophidic.itch.io/retrooids"
+  },
+  {
+    "title": "EMBODY [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spidilian.itch.io/embody"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
