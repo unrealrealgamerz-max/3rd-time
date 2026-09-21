@@ -1,5 +1,40 @@
 [
   {
+    "title": "WarCars [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sm337youtube.itch.io/warcars"
+  },
+  {
+    "title": "Return of The Twin Peaks [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anderson3x11.itch.io/return-of-the-twin-peaks"
+  },
+  {
+    "title": "Rainy Times! [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://simpleren.itch.io/rainy-times"
+  },
+  {
+    "title": "Alien Vs Ghost [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://theorangedude.itch.io/alien-vs-ghost"
+  },
+  {
+    "title": "Spronklins (Postponed Build) [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jairjam.itch.io/spronklins-postponed-build"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
