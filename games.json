@@ -1,5 +1,40 @@
 [
   {
+    "title": "Bounty hunted [$3.00] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cyk0studio.itch.io/bounty-hunted"
+  },
+  {
+    "title": "Tricky Tetris - Commodore 64 [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zstarczali.itch.io/tricy-tetris"
+  },
+  {
+    "title": "Survive Ze Things (Original) [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://charlie-the-randomer.itch.io/survive-ze-things"
+  },
+  {
+    "title": "Mutacraft [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://facundotupac.itch.io/mutacraft"
+  },
+  {
+    "title": "Clinical Connection [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hotburn.itch.io/clinical-connection"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
