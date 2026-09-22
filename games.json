@@ -1,5 +1,40 @@
 [
   {
+    "title": "Freddy´s al ataque [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://system-cats.itch.io/freddys-al-ataque"
+  },
+  {
+    "title": "Mutagen [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gamesbymike.itch.io/mutagen"
+  },
+  {
+    "title": "ICE BREAK! [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ready64.itch.io/ice-break"
+  },
+  {
+    "title": "Gravelight [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://raxeris.itch.io/gravelight"
+  },
+  {
+    "title": "Would You Like To Make Your Season A Little More Spicier? [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://seanybozo.itch.io/would-you-like-to-make-your-season-a-little-more-spicier"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
