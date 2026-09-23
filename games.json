@@ -1,5 +1,40 @@
 [
   {
+    "title": "Woodland [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aisleofaide.itch.io/woodland"
+  },
+  {
+    "title": "CORRUPTION PROTOCOL [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://uzaylul.itch.io/corruption-protocol"
+  },
+  {
+    "title": "VESPER ARRAY [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://syawqy.itch.io/vesper-array"
+  },
+  {
+    "title": "Speranza Lighthouse [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://eduspode.itch.io/speranza-lighthouse"
+  },
+  {
+    "title": "BUN &amp; CO. [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://trefun.itch.io/bunandco"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
