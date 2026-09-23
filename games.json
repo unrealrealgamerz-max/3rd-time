@@ -1,5 +1,40 @@
 [
   {
+    "title": "Neo Geo Retro Vault [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://belkatech.itch.io/neo-geo-retro-vault"
+  },
+  {
+    "title": "Out of Bounds [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aereotalpa.itch.io/out-of-bounds"
+  },
+  {
+    "title": "Moonlit Mahjong: Lantern Wishes [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://syawqy.itch.io/moonlit-mahjong"
+  },
+  {
+    "title": "Porkise: Speck13 [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://weeangusmcdread.itch.io/porkise-speck13"
+  },
+  {
+    "title": "Miwa no Utsuroi [Free] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hinatai.itch.io/miwa-no-utsuroi"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
