@@ -1,5 +1,40 @@
 [
   {
+    "title": "Below The Surface [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://optimal126.itch.io/below-the-surface"
+  },
+  {
+    "title": "Tez Rider [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orbyte.itch.io/tezrider"
+  },
+  {
+    "title": "Broken Kingdom 3 [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://michaelpiema.itch.io/broken-kingdom-3"
+  },
+  {
+    "title": "NATIPÊ - Plante. Cuide. Transforme. [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vivijapiassu.itch.io/natipe"
+  },
+  {
+    "title": "Evorin [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coa-100.itch.io/evorin"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
