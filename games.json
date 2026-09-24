@@ -1,5 +1,40 @@
 [
   {
+    "title": "MTZombie [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://argiegames.itch.io/mtzombie"
+  },
+  {
+    "title": "Ourobit - Playdate [$5.00] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://add-soul.itch.io/ourobit-playdate"
+  },
+  {
+    "title": "Masters of the Grail [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arkantoskira.itch.io/masters-of-the-grail"
+  },
+  {
+    "title": "台北漫游 · Taipei Roam [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arminere.itch.io/taipei-roam"
+  },
+  {
+    "title": "No confíes en mí [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://livzu1234.itch.io/no-confes-en-m"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
