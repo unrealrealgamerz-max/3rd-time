@@ -1,5 +1,40 @@
 [
   {
+    "title": "Movement Lab [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hudsonkeller.itch.io/movement-lab"
+  },
+  {
+    "title": "Slithering Orchydée [Free] [Adventure] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://greyskies-of-the-dead.itch.io/slythering-orchydee"
+  },
+  {
+    "title": "Chiclimino [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://playmedusa.itch.io/chiclimino"
+  },
+  {
+    "title": "Marvyr [Free] [Simulation] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://marvyr.itch.io/marvyr"
+  },
+  {
+    "title": "mp1b - Chicago CTA Simulator [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ryqshaw.itch.io/mp1b-chicago-cta-simulator"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
