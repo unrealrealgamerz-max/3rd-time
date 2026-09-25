@@ -1,5 +1,40 @@
 [
   {
+    "title": "Momentum — Parkour Movement Playtest [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://quinnkuslich.itch.io/momentum-playtest"
+  },
+  {
+    "title": "The Eternal Light [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://beef-corp.itch.io/the-eternal-light"
+  },
+  {
+    "title": "Ice Cream [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://avartegames.itch.io/ice-cream"
+  },
+  {
+    "title": "Lesson20 Magical Ver. [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://donkysoft.itch.io/l20mag"
+  },
+  {
+    "title": "All The Birbs [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aspion.itch.io/all-the-birbs"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
