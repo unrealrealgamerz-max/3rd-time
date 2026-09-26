@@ -1,5 +1,40 @@
 [
   {
+    "title": "Astrella - Star Battle [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xalandorx.itch.io/astrella"
+  },
+  {
+    "title": "Rod Land Megadrive [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://format-c.itch.io/rod-land-megadrive"
+  },
+  {
+    "title": "The Codswallop Files (Demo) [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thisadamguy.itch.io/the-codswallop-files-demo"
+  },
+  {
+    "title": "Free Candy [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://noobanyte.itch.io/free-candy"
+  },
+  {
+    "title": "Listen Closely [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lovision.itch.io/listen-closely"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
