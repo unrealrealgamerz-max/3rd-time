@@ -1,5 +1,40 @@
 [
   {
+    "title": "Game 0.10 [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://davigamer01.itch.io/game-010"
+  },
+  {
+    "title": "Get Scrambled On! [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coltronaut.itch.io/get-scrambled-on"
+  },
+  {
+    "title": "Alien Run [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kevinlivora.itch.io/alien-run"
+  },
+  {
+    "title": "Burocalypsis [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://luxorgrey.itch.io/burocalypsis"
+  },
+  {
+    "title": "No Easy Way [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lliah.itch.io/no-easy-way"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
