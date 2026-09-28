@@ -1,5 +1,40 @@
 [
   {
+    "title": "mini game parade [Free] [Action] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://the-humanoid.itch.io/mini-game-parade"
+  },
+  {
+    "title": "Paralitical [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spoiledm1lk.itch.io/paralitical"
+  },
+  {
+    "title": "cupcakerush [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tmupp.itch.io/cupcakerush"
+  },
+  {
+    "title": "Pocket Quest [Free] [Platformer] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://godotjulez.itch.io/pocket-quest"
+  },
+  {
+    "title": "Project Vex Tag V2.8 [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://top-cat-taggers-dev.itch.io/project-vex-tag-v28"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
