@@ -1,5 +1,40 @@
 [
   {
+    "title": "Clicker Story [$9.99] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://naturegame1.itch.io/clicker-story"
+  },
+  {
+    "title": "this won&#039;t hurt [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://minjutin.itch.io/this-wont-hurt"
+  },
+  {
+    "title": "Esperanza y El Salvador Ángel [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://araceli-tisocco.itch.io/esperanza-y-el-salvador-ngel"
+  },
+  {
+    "title": "Yawar Wawqi (Hermano de Sangre) [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://davidquicast.itch.io/yawar-wawqui"
+  },
+  {
+    "title": "pr moon [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dillon643543.itch.io/pr-moon"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
