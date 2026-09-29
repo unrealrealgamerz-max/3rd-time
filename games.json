@@ -1,5 +1,40 @@
 [
   {
+    "title": "ShyHumanGames - SideScrollerSamurai [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shyhumangames.itch.io/shyhumangames"
+  },
+  {
+    "title": "Bubble Floaty McGee 2D V2 [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ashritive.itch.io/bubble-floaty-mcgee-2d-v2"
+  },
+  {
+    "title": "Flappy Angry Birds [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://guhdev.itch.io/flappy-angry-birds"
+  },
+  {
+    "title": "The Aggregation of Sol [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://retrogames10000.itch.io/the-aggregation-of-sol"
+  },
+  {
+    "title": "Yami&#039;s FolkTales I: Red Riding Hood [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thiago-avidos.itch.io/yamis-folk-tales-red-riding-hood"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
