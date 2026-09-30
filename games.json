@@ -1,5 +1,40 @@
 [
   {
+    "title": "SnekQuest [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://idmgindie.itch.io/snekquest"
+  },
+  {
+    "title": "Slimeventura [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://malealas.itch.io/slimeventure"
+  },
+  {
+    "title": "SPIN LEAGUE [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kingrain777.itch.io/spin-league"
+  },
+  {
+    "title": "FROM DUST [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shahwani.itch.io/from-dust"
+  },
+  {
+    "title": "Firefly: Deep Forest [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mooncartridge.itch.io/firefly-deep-forest"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
