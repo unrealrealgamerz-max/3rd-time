@@ -1,5 +1,40 @@
 [
   {
+    "title": "SUMMIT [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://red-rainboww.itch.io/summit"
+  },
+  {
+    "title": "Room Of Stories [Free] [Visual Novel] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ceruleangames.itch.io/roomofstories"
+  },
+  {
+    "title": "Weeping in the void [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sanrin-games.itch.io/weeping-in-the-void"
+  },
+  {
+    "title": "Hazard Crew [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://chanchangames.itch.io/hazard-crew"
+  },
+  {
+    "title": "Trollface Quest (Vineria Edition) [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://samerysio.itch.io/trollface-quest-vineria-edition"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
