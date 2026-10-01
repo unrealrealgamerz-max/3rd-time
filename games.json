@@ -1,5 +1,40 @@
 [
   {
+    "title": "Confetto Run [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gianx19.itch.io/confetto-run"
+  },
+  {
+    "title": "Snake Low Quality Edition (C) [Free] [Other] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mytros-the-tiktaalik.itch.io/snake-low-quality-edition"
+  },
+  {
+    "title": "Old Thunder [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joystickventures.itch.io/old-thunder"
+  },
+  {
+    "title": "丑蛋大冒险 [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hal3000-t2025.itch.io/chou-dan-da-mao-xian"
+  },
+  {
+    "title": "CAR COMBACT [$1.00] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://akrobot.itch.io/car-combat"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
