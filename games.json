@@ -1,5 +1,40 @@
 [
   {
+    "title": "Little Legion [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cat1415.itch.io/littlelegion"
+  },
+  {
+    "title": "Sidescroller [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kittnwhiskrs.itch.io/sidescroller"
+  },
+  {
+    "title": "Wind Chime Techno [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://retrogames10000.itch.io/wind-chime-techno"
+  },
+  {
+    "title": "Celestial Peak [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nashorstudios.itch.io/celestialpeak"
+  },
+  {
+    "title": "Talking Jevin [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aqua-gaming.itch.io/talking-jevin"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
