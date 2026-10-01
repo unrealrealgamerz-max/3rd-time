@@ -1,75 +1,5 @@
 [
   {
-    "title": "Halloween smells like dead butterflies [Free] [Visual Novel]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://stock-onion.itch.io/halloween-smells-like-dead-butterflies"
-  },
-  {
-    "title": "Jumpstart [Free]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://araad-rahman.itch.io/jumpstart"
-  },
-  {
-    "title": "Umamusume Character Sorter [Free]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://anobscureword.itch.io/horse"
-  },
-  {
-    "title": "Project Flick Taggers [Free] [Adventure]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://sklxgames2.itch.io/project-flick-taggers"
-  },
-  {
-    "title": "Taca Taca: Foosball Game [Free] [Sports]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://tacatacaapp.itch.io/taca-taca"
-  },
-  {
-    "title": "SUMMIT [Free] [Visual Novel]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://red-rainboww.itch.io/summit"
-  },
-  {
-    "title": "Room Of Stories [Free] [Visual Novel] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://ceruleangames.itch.io/roomofstories"
-  },
-  {
-    "title": "Weeping in the void [Free] [Visual Novel]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://sanrin-games.itch.io/weeping-in-the-void"
-  },
-  {
-    "title": "Hazard Crew [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://chanchangames.itch.io/hazard-crew"
-  },
-  {
-    "title": "Trollface Quest (Vineria Edition) [Free] [Puzzle]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://samerysio.itch.io/trollface-quest-vineria-edition"
-  },
-  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
@@ -77,7 +7,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Completed",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -89,29 +19,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/bimbim/",
-    "scraped_at": "2026-09-30T20:41:20.867258Z"
-  },
-  {
-    "id": "fancentro",
-    "title": "FanCentro",
-    "version": "Unknown",
-    "developer": "Unknown",
-    "engine": "Unity",
-    "censorship": "Uncensored",
-    "status": "Ongoing",
-    "release_date": "30 September, 2026",
-    "file_size": "",
-    "views": "0",
-    "rating": 0,
-    "votes": 0,
-    "cover": "https://pornmaniak.com/wp-content/uploads/2024/04/FanCentro-1024x484.png",
-    "screenshots": [],
-    "tags": [],
-    "description": "",
-    "changelog": "",
-    "download_links": [],
-    "source_url": "https://pornmaniak.com/fancentro/",
-    "scraped_at": "2026-09-30T20:41:18.494629Z"
+    "scraped_at": "2026-10-01T05:18:03.460253Z"
   },
   {
     "id": "fansly",
@@ -121,7 +29,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -133,7 +41,29 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/fansly/",
-    "scraped_at": "2026-09-30T20:41:15.807658Z"
+    "scraped_at": "2026-10-01T05:18:01.071192Z"
+  },
+  {
+    "id": "fancentro",
+    "title": "FanCentro",
+    "version": "Unknown",
+    "developer": "Unknown",
+    "engine": "Unity",
+    "censorship": "Uncensored",
+    "status": "Ongoing",
+    "release_date": "1 October, 2026",
+    "file_size": "",
+    "views": "0",
+    "rating": 0,
+    "votes": 0,
+    "cover": "https://pornmaniak.com/wp-content/uploads/2024/04/FanCentro-1024x484.png",
+    "screenshots": [],
+    "tags": [],
+    "description": "",
+    "changelog": "",
+    "download_links": [],
+    "source_url": "https://pornmaniak.com/fancentro/",
+    "scraped_at": "2026-10-01T05:17:58.708587Z"
   },
   {
     "id": "ismygirl",
@@ -143,7 +73,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Completed",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -155,7 +85,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/ismygirl-review/",
-    "scraped_at": "2026-09-30T20:41:13.425535Z"
+    "scraped_at": "2026-10-01T05:17:56.347480Z"
   },
   {
     "id": "manyvids",
@@ -165,7 +95,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -177,7 +107,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/manyvids/",
-    "scraped_at": "2026-09-30T20:41:11.039782Z"
+    "scraped_at": "2026-10-01T05:17:53.983593Z"
   },
   {
     "id": "onlyfans",
@@ -187,7 +117,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -199,7 +129,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/onlyfans/",
-    "scraped_at": "2026-09-30T20:41:08.661299Z"
+    "scraped_at": "2026-10-01T05:17:51.618706Z"
   },
   {
     "id": "xfanshub",
@@ -209,7 +139,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -221,7 +151,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/xfanshub/",
-    "scraped_at": "2026-09-30T20:41:06.286454Z"
+    "scraped_at": "2026-10-01T05:17:49.260952Z"
   },
   {
     "id": "mymfans",
@@ -231,7 +161,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 September, 2026",
+    "release_date": "1 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -243,6 +173,6 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://pornmaniak.com/mym-fans/",
-    "scraped_at": "2026-09-30T20:41:03.841064Z"
+    "scraped_at": "2026-10-01T05:17:46.911132Z"
   }
 ]
