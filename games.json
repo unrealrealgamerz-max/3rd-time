@@ -1,5 +1,40 @@
 [
   {
+    "title": "Change [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://benkyd.itch.io/change"
+  },
+  {
+    "title": "3D Racing Game [Free] [Racing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://philip-hh.itch.io/3d-racing-game"
+  },
+  {
+    "title": "TroubleLater [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://psycho-ward-studio.itch.io/troublelater"
+  },
+  {
+    "title": "Filing Good: Tidy Up (demo) [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inglobrio.itch.io/filing-good-tidy-up-demo"
+  },
+  {
+    "title": "The Underworld [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shreyanshoffline.itch.io/the-underworld"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
