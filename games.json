@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lambdawn [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kemoniagames.itch.io/lambdawn"
+  },
+  {
+    "title": "Nudge Out — Three-Puzzle Sampler [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nudgeout.itch.io/nudge-out-sampler"
+  },
+  {
+    "title": "Platform 08 - Prototype [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://limegamz.itch.io/platform08-unfinished"
+  },
+  {
+    "title": "Outlet Solitaire [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://grychnel.itch.io/outlet-solitaire"
+  },
+  {
+    "title": "RED VOID [Free] [Shooter] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://atsuty-man.itch.io/red-void"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
