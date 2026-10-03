@@ -1,5 +1,40 @@
 [
   {
+    "title": "Donjon des Braises [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://darshogunmikail.itch.io/donjon-des-braises"
+  },
+  {
+    "title": "Titan Legends [Free] [Action] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aruvez.itch.io/titan-legends"
+  },
+  {
+    "title": "Fairy Glade [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vansin93.itch.io/fairy-glade"
+  },
+  {
+    "title": "NUMBRIS [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://numbris.itch.io/numbris"
+  },
+  {
+    "title": "ScamHunters — Paris [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://frankywara.itch.io/scamhunters"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
