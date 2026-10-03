@@ -1,5 +1,40 @@
 [
   {
+    "title": "My Journey — A Memory Sandbox [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fpmatrix.itch.io/my-journey-memory-sandbox"
+  },
+  {
+    "title": "Ping_pong [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://luisemb.itch.io/pong-pong"
+  },
+  {
+    "title": "Slime Clicker - An Elemental Idle [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sushidevourer.itch.io/a-slimes-idle"
+  },
+  {
+    "title": "Not Yet King! [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://batuhane.itch.io/not-yet-king"
+  },
+  {
+    "title": "Androteus [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mlk-dev.itch.io/androteus"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
