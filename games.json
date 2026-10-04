@@ -1,5 +1,40 @@
 [
   {
+    "title": "So you want to be a Rainbow Technologist [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ranarh.itch.io/rainbow-technologist"
+  },
+  {
+    "title": "The Radicals [Free] [Educational] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gantoine.itch.io/the-radicals"
+  },
+  {
+    "title": "After the Bloom [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arnav16.itch.io/after-the-bloom"
+  },
+  {
+    "title": "A Drawer of Unpaired Hands [$5.00]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goldenicedev.itch.io/a-drawer-of-unpaired-hands"
+  },
+  {
+    "title": "DICETINY [Free] [Puzzle] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://luca-coder07.itch.io/dicetiny"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
