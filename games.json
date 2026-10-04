@@ -1,5 +1,40 @@
 [
   {
+    "title": "Shadow Sweep [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://c2h5oh-game-lab.itch.io/shadow-sweep"
+  },
+  {
+    "title": "PannaPie (demo) [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pannapie.itch.io/pannapie"
+  },
+  {
+    "title": "Cosmic Couch Clash [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tiddybubs.itch.io/cosmic-couch-clash"
+  },
+  {
+    "title": "SUCQ Association [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://simonyung007.itch.io/sucq-association"
+  },
+  {
+    "title": "Quillon [Free] [Fighting] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://2xstudios.itch.io/quillion"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
