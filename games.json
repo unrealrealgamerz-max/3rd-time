@@ -1,5 +1,40 @@
 [
   {
+    "title": "A´Maze Yourself [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aleksei-kirov.itch.io/amaze-yourself"
+  },
+  {
+    "title": "Sticky Situation Prototype [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wonky-toad.itch.io/sticky-situation-prototype"
+  },
+  {
+    "title": "Entropy Janitor [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aishidajt9.itch.io/entropy-janitor"
+  },
+  {
+    "title": "Girl Shaped Hole [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://spencerj.itch.io/girl-shaped-hole"
+  },
+  {
+    "title": "Sprunki Phase... Remastered [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://graytreeandred.itch.io/sprunki-phase-remastered"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
