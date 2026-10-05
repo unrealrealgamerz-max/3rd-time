@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Child in The Well [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://indie-game-studio.itch.io/the-child-in-the-well"
+  },
+  {
+    "title": "Aftercore [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://daryanthedev.itch.io/aftercore"
+  },
+  {
+    "title": "GOOD SPOT [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pedrolopez666.itch.io/good-spot"
+  },
+  {
+    "title": "Diamond Idle [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://diamondidle.itch.io/diamond-idle"
+  },
+  {
+    "title": "MyLittleCat - Interactive Desktop Pet [$1.00] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alexc2.itch.io/mylittlecat"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
