@@ -1,5 +1,40 @@
 [
   {
+    "title": "Eclipse - demo - [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mutedfroggo.itch.io/eclipse-murder-mystery-demo"
+  },
+  {
+    "title": "Ce faci ba Puya [Free] [Platformer] [Windows] [macOS] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://david-panaite.itch.io/ce-faci-ba-puya"
+  },
+  {
+    "title": "Mossy woss os [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://socks109.itch.io/mossywossos"
+  },
+  {
+    "title": "Llanos Vivos [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sen-car.itch.io/llanos-vivos"
+  },
+  {
+    "title": "Infinite Corridor Game [$1.00] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tzickyt.itch.io/infinite-corridor-game"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
