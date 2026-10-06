@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tic-Tac-Toe 4x4x4 [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gregdwood.itch.io/tic-tac-toe-4x4x4"
+  },
+  {
+    "title": "Boombeat Casuals [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://boombeatgames.itch.io/casuals"
+  },
+  {
+    "title": "Size Auto Battler [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://baldhar.itch.io/size-auto-battler"
+  },
+  {
+    "title": "Yonder Online [Free] [Role Playing] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tonyooo.itch.io/yonder-online"
+  },
+  {
+    "title": "Necrospire (Demo) [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nextframe.itch.io/necrospire-demo"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
