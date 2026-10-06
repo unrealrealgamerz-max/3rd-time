@@ -1,5 +1,40 @@
 [
   {
+    "title": "Otto&#039;s First Day [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wavescript.itch.io/ottos-first-day"
+  },
+  {
+    "title": "Watchstation - Cold War Radar Game [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gsingh0317.itch.io/watchstation"
+  },
+  {
+    "title": "Adventure [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dominoclub.itch.io/adventure"
+  },
+  {
+    "title": "The BombMarkt [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mgdreamstuido.itch.io/the-bombmarkt"
+  },
+  {
+    "title": "Cuiye Street Love Story [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://deimosly.itch.io/tinychoice"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
