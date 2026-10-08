@@ -1,5 +1,40 @@
 [
   {
+    "title": "Corn Maze of Terror [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://snoryn.itch.io/corn-maze-of-terror"
+  },
+  {
+    "title": "RING RUSH [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://doglasexperiment.itch.io/ring-rush"
+  },
+  {
+    "title": "OPERA [Free] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://johnweakii.itch.io/opera"
+  },
+  {
+    "title": "NITRATE: The Mill [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://matb-control.itch.io/nitrate-the-mill"
+  },
+  {
+    "title": "Gem Alert - test [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cathulu-1103.itch.io/gem-alert"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
