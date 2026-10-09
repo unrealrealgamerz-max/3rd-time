@@ -1,5 +1,40 @@
 [
   {
+    "title": "Moonlight [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yundadada.itch.io/moonlight"
+  },
+  {
+    "title": "Llama Roguelike (work in progress) [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aovks23.itch.io/llama-roguelike-work-in-progress"
+  },
+  {
+    "title": "Robot Outbreak! [Free] [Strategy] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrsctat.itch.io/robot-outbreak"
+  },
+  {
+    "title": "Prison - Colony Simulator Game [$4.10] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://loxotron.itch.io/prison"
+  },
+  {
+    "title": "Traffic Congestion-INDIE HALLOWEN HORROR GAME [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mubeflexin08.itch.io/the-traffic-congestion-indie-hallowen-horror-game"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
