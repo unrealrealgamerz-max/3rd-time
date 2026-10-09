@@ -1,5 +1,40 @@
 [
   {
+    "title": "RomaniaStone [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cocstel.itch.io/romaniastone"
+  },
+  {
+    "title": "escape from vitt [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cioccolatavr.itch.io/escape-from-vitt"
+  },
+  {
+    "title": "animal hospital sprunki phase 3 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wojtek-s.itch.io/animal-hospital-sprunki-phase-3"
+  },
+  {
+    "title": "Frontier Strata [$5.00] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://r-enclave.itch.io/frontier-strata"
+  },
+  {
+    "title": "Metro Sofia [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://vmvelev.itch.io/metro-sofia"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
