@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tiny Logic [$9.99] [Simulation] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://whoismuzzy.itch.io/tinylogic"
+  },
+  {
+    "title": "don&#039;t rock the boat [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elliotdegrassi.itch.io/dont-rock-the-boat"
+  },
+  {
+    "title": "People Watching [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mikdog.itch.io/people-watching"
+  },
+  {
+    "title": "Neon_Core_Link__v4.0.2 [£7.99] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://illumegames.itch.io/neon-core-link-v402"
+  },
+  {
+    "title": "Golf Diving [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://euan-mitchell.itch.io/golf-diving"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
