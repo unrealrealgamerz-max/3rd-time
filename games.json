@@ -1,5 +1,40 @@
 [
   {
+    "title": "Night Shift: Hospital Sim [$3.99] [Simulation] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crystllabs.itch.io/nightshift"
+  },
+  {
+    "title": "WipeOut [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://betasdu.itch.io/wipeout"
+  },
+  {
+    "title": "Turnabout Diminished (Demo) [Free] [Visual Novel] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yagich.itch.io/turnabout-diminished-demo"
+  },
+  {
+    "title": "MoodFrog: Frog Jam [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://moodfrog.itch.io/moodfrog-frog-jam"
+  },
+  {
+    "title": "Sky Hop [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://playskyhop.itch.io/sky-hop"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
