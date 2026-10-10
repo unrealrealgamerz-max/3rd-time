@@ -1,5 +1,40 @@
 [
   {
+    "title": "Aventuras de Mirax [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://avatar-anng.itch.io/pedro-aventura"
+  },
+  {
+    "title": "A Cube Game [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://raphdude75.itch.io/a-cube-game"
+  },
+  {
+    "title": "Clayborn [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gambo7592.itch.io/clayborn"
+  },
+  {
+    "title": "Sonic Brawl [Free] [Action] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://refrosted-productions.itch.io/sonic-brawl"
+  },
+  {
+    "title": "Alphabet Trampoline [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alphabettrampoline.itch.io/alphabet-trampoline"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
