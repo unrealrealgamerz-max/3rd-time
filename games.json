@@ -1,5 +1,40 @@
 [
   {
+    "title": "ZONA ZERO [Free] [Action] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://drowii.itch.io/zona-zero"
+  },
+  {
+    "title": "THE TOTALLY NORMAL PARKOUR TEST [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gabriel-mitroi.itch.io/the-totally-normal-parkour-test"
+  },
+  {
+    "title": "WHEELCHAIR CHASE [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://magentarat.itch.io/wheelchair-chase"
+  },
+  {
+    "title": "My Dungeon Experience [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://turtledod12.itch.io/my-dungeon-experience"
+  },
+  {
+    "title": "Cattoms! [Free] [Simulation] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joe789.itch.io/cattoms"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
