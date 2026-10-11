@@ -1,5 +1,40 @@
 [
   {
+    "title": "Wild west game [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nobark2.itch.io/wild-west-game"
+  },
+  {
+    "title": "Lab 2 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nlogan277.itch.io/lab-2"
+  },
+  {
+    "title": "DespairQuartet [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://swb0111.itch.io/despairquartet"
+  },
+  {
+    "title": "摸鱼 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tantan1028.itch.io/feedfish"
+  },
+  {
+    "title": "Seven Seas: Cannon &amp; Coin [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://inertia-games.itch.io/seven-seas-cannon-coin"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
