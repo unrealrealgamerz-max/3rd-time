@@ -1,5 +1,40 @@
 [
   {
+    "title": "Dungeon Lantern [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://showgames-fujii.itch.io/dungeon-lantern"
+  },
+  {
+    "title": "Ödsmålskurvan [Free] [Racing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jonis4.itch.io/odsmalskurvan"
+  },
+  {
+    "title": "Arsenal Reforged [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shadermask.itch.io/arsenal-reforged"
+  },
+  {
+    "title": "The Quiet Between Stars [$2.00] [Simulation] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lguidolin.itch.io/the-quiet-between-stars"
+  },
+  {
+    "title": "Chrome Circuit [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://smarproc-games.itch.io/chrome-circuit"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
