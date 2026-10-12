@@ -1,5 +1,40 @@
 [
   {
+    "title": "Gift Gather / サンタの忘れもの [$2.00] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mukimuki-games.itch.io/giftgather"
+  },
+  {
+    "title": "Carpet Rescue Demo [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prok-studios.itch.io/carpet-rescue-demo"
+  },
+  {
+    "title": "SmartCraps [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tal-se.itch.io/smartcraps"
+  },
+  {
+    "title": "NeuroPunk6060 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xxspudi.itch.io/neuropunk6060"
+  },
+  {
+    "title": "Trooper Trouble [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stiganden.itch.io/trooper-trouble"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
