@@ -1,5 +1,40 @@
 [
   {
+    "title": "AIRCOURT [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crypticdreams.itch.io/aircourt"
+  },
+  {
+    "title": "Mutant Meows [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://etmov.itch.io/mutant-meows"
+  },
+  {
+    "title": "Capy-pult: The Great Escape [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://evandromarini.itch.io/capy-pult"
+  },
+  {
+    "title": "Accept the consequences of life... [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://walthervoncrade.itch.io/accept-the-consequences-of-life"
+  },
+  {
+    "title": "Muni Muni [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kaybix.itch.io/muni-muni"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
