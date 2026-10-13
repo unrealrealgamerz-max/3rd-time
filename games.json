@@ -1,5 +1,40 @@
 [
   {
+    "title": "ParryPierce [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neverb0re.itch.io/parry-pierce"
+  },
+  {
+    "title": "Momo&#039;s Cleaning Service [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://icerained.itch.io/momos-cleaning-service"
+  },
+  {
+    "title": "The Light Must Never Go Out [$4.99]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://big-idea-forge.itch.io/the-light-must-never-go-out"
+  },
+  {
+    "title": "Times of Ocarina [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dogseye-studio.itch.io/times-of-ocarina"
+  },
+  {
+    "title": "V.R. Playdate [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://el-goe.itch.io/vr-playdate"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
