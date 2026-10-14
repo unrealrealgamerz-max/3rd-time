@@ -1,5 +1,40 @@
 [
   {
+    "title": "Neon Break [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://coa-art.itch.io/neon-break"
+  },
+  {
+    "title": "GF Pizza Tycoon [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://certifiedgfpapi.itch.io/gf-pizza-tycoon"
+  },
+  {
+    "title": "Solar Voyage [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rn-play-studio.itch.io/solar-voyage"
+  },
+  {
+    "title": "Please, Don’t Touch Anything [Free] [Puzzle] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://danncd.itch.io/please-dont-touch-anything"
+  },
+  {
+    "title": "Super Password Machine [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://runzhih.itch.io/super-password-machine"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
