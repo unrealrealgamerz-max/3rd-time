@@ -1,5 +1,40 @@
 [
   {
+    "title": "SpaceShip [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://goldencobra.itch.io/spaceship"
+  },
+  {
+    "title": "Ink Koi [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hadarov.itch.io/ink-koi"
+  },
+  {
+    "title": "Kerbside [Free] [Simulation] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kfplay.itch.io/kerbside"
+  },
+  {
+    "title": "Flappy LadyBug [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://annart-oc.itch.io/flappy-ladybug"
+  },
+  {
+    "title": "CodeShift Alpha [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hauntedecho-studio.itch.io/codeshift"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
