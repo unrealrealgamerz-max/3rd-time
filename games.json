@@ -1,5 +1,40 @@
 [
   {
+    "title": "Human Metronome [Free] [Rhythm] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://buugames.itch.io/humanmetronome"
+  },
+  {
+    "title": "BrawlChess [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mocoonstudio.itch.io/brawlchess"
+  },
+  {
+    "title": "FlingFish [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://blueknightgd.itch.io/flingfish"
+  },
+  {
+    "title": "Sazón: Cook the Song [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://avrdevstudio.itch.io/sazon"
+  },
+  {
+    "title": "HexNGone [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://weaverswonders.itch.io/hexngone"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
