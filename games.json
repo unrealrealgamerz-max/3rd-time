@@ -1,5 +1,40 @@
 [
   {
+    "title": "Flappy Bird [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shivam-singh-bisht.itch.io/flappy-bird"
+  },
+  {
+    "title": "Global Parity [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://insightbasewood.itch.io/global-parity"
+  },
+  {
+    "title": "Snowball Smash [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xhoeleshehaj18.itch.io/snowball-smash"
+  },
+  {
+    "title": "Vortex Vac [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xhoeleshehaj18.itch.io/vortex-vac"
+  },
+  {
+    "title": "RUMBLORB [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gyuforge.itch.io/rumblorb"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
