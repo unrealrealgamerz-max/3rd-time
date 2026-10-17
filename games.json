@@ -1,5 +1,40 @@
 [
   {
+    "title": "Coloring [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jana-dev26.itch.io/coloring"
+  },
+  {
+    "title": "Off-Season [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shariana-postcards.itch.io/off-season-one-page-one-shot"
+  },
+  {
+    "title": "Belladonna Bots [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kalanoka.itch.io/belladonna-bots-process-letter"
+  },
+  {
+    "title": "NEON ROADSTER: VOID RUNNER [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tansel.itch.io/neon-roadster-void-runner"
+  },
+  {
+    "title": "FlashProtocol [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://illavisockij.itch.io/flashprotocol"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
