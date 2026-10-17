@@ -1,5 +1,40 @@
 [
   {
+    "title": "CAR SIM PRO [Free] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dragonstudiooffical.itch.io/car-sim-pro"
+  },
+  {
+    "title": "Beyond the Slime [Free] [Strategy] [Windows] [macOS] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://feanor21.itch.io/beyond-the-slime"
+  },
+  {
+    "title": "The Last Line [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://newwayofgames.itch.io/the-last-line"
+  },
+  {
+    "title": "Quimera Sandbox [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rcandrerc.itch.io/quimera-sandbox"
+  },
+  {
+    "title": "NOVA WORLD [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://brightnwaokoru9.itch.io/nova-world"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
