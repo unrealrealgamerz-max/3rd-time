@@ -1,5 +1,40 @@
 [
   {
+    "title": "Fragmented [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mplatte-star.itch.io/fragmented"
+  },
+  {
+    "title": "WE_THE_SWARMS [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://giuthebot.itch.io/we-the-swarms"
+  },
+  {
+    "title": "Endless Siege [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://1djamesjohnstongmailcom.itch.io/endless-siege"
+  },
+  {
+    "title": "Spider Simulator [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zubi-dev.itch.io/spider-simulator"
+  },
+  {
+    "title": "Corolla [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://crazetex.itch.io/corolla"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
