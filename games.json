@@ -1,5 +1,40 @@
 [
   {
+    "title": "Wordle [Free] [Puzzle] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://manoj31565.itch.io/wordle"
+  },
+  {
+    "title": "3D space explore [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nabin-bajagai.itch.io/3d-space-explore"
+  },
+  {
+    "title": "CaseNova [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kulinov.itch.io/casenova"
+  },
+  {
+    "title": "Litterbug [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://barkhallastudios.itch.io/litterbug"
+  },
+  {
+    "title": "GridLock Garage [Free] [Racing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://burhanofficials.itch.io/gridlock-garage"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
