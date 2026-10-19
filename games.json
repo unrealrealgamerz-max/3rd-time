@@ -1,5 +1,40 @@
 [
   {
+    "title": "Screw Sort [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://piyushkalra.itch.io/screw-sort"
+  },
+  {
+    "title": "The Deep [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prestonroberts.itch.io/the-deep"
+  },
+  {
+    "title": "YUXI [Free] [Strategy] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://joshdagosh.itch.io/yuxi"
+  },
+  {
+    "title": "The Deep 2 [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prestonroberts.itch.io/the-deep-2"
+  },
+  {
+    "title": "Screen Dasher [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shlolo.itch.io/screen-dasher"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
