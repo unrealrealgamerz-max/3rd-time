@@ -1,5 +1,40 @@
 [
   {
+    "title": "Dust Dash [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roguecore.itch.io/dust-dash"
+  },
+  {
+    "title": "Number Rush [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roguecore.itch.io/number-rush"
+  },
+  {
+    "title": "Tile Trio [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roguecore.itch.io/tile-trio"
+  },
+  {
+    "title": "Crazy Drone and the Vegetables [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://draezen76.itch.io/crazy-drone-and-the-vegetables"
+  },
+  {
+    "title": "Lane Dash [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://roguecore.itch.io/lane-dash"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
