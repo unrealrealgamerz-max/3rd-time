@@ -1,5 +1,40 @@
 [
   {
+    "title": "blind mans ditch [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rnggaming.itch.io/blind-mans-ditch"
+  },
+  {
+    "title": "Five Nights At Turtle&#039;s: Ultimate Custom Night [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bluez62.itch.io/fnat-ultimate-custom-night"
+  },
+  {
+    "title": "Jefferson&#039;s Adventures [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jf1shh.itch.io/jefferson-adventures"
+  },
+  {
+    "title": "Hallomaze [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://d-kaffeinated.itch.io/hallomaze-alpha"
+  },
+  {
+    "title": "STICKMAN FIGTER [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://frogi-gmdv.itch.io/stickman-figter"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
