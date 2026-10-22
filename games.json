@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "Sandwich Rush [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neuroquasar.itch.io/sandwich-rush"
+  },
+  {
+    "title": "Chamfushion [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dio-mauldiin.itch.io/chamfushion"
+  },
+  {
+    "title": "Tiltblock: Color Block Puzzle [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rottstudio.itch.io/tiltblock-color-block-puzzle"
+  },
+  {
+    "title": "Realm Breaker [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://leonorakliesen.itch.io/realm-breaker"
+  },
+  {
+    "title": "Flee Fighter [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fleeskiii.itch.io/flee-fighter"
+  }
+]
