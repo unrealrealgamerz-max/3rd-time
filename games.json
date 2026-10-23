@@ -1,5 +1,40 @@
 [
   {
+    "title": "COMMAND: BLACKSITE [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gioduude.itch.io/command-blacksite"
+  },
+  {
+    "title": "Ghostal Runners [Free] [Adventure] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ghostalfrfr.itch.io/ghostal-runners"
+  },
+  {
+    "title": "Crazy Harvest: Bounty Valley [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://darkbozca.itch.io/crazy-harvest-bounty-valley"
+  },
+  {
+    "title": "Cosmic Explorer: Orbit Rocket [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://darkbozca.itch.io/cosmic-explorer-orbit-rocket"
+  },
+  {
+    "title": "ECHOBOUND: O Mundo que Escuta [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gamesnew-pro.itch.io/echobound-o-mundo-que-escuta"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
