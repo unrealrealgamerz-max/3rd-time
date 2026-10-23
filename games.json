@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "Mini games [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nacerct.itch.io/mini-games"
+  },
+  {
+    "title": "Arcane Foundry - Magic Idle Factory [$1.99] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://willosuna.itch.io/arcane-foundry"
+  },
+  {
+    "title": "7Posts [$1.00] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://btkcodedev.itch.io/7posts"
+  },
+  {
+    "title": "Echoes Of Light [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ramazan-shodorov.itch.io/echoes-of-light"
+  },
+  {
+    "title": "Grumpy Geometry [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shifty-shapes.itch.io/grumpy-geometry"
+  }
+]
