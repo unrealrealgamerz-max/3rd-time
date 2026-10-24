@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tok-N-Snatch [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://angrcoin.itch.io/tok-n-snatch"
+  },
+  {
+    "title": "НЕ ПРИСЛОНЯТЬСЯ [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://slonizmo.itch.io/neprislonyatsa"
+  },
+  {
+    "title": "Froxi aventura saludable [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elizabeth25284.itch.io/froxy"
+  },
+  {
+    "title": "BLOODRUST [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://orx-hara.itch.io/bloodrust"
+  },
+  {
+    "title": "Jack Shooter [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://voyager-ii.itch.io/jack-shooter"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
