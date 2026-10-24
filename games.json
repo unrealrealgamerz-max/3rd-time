@@ -1,5 +1,40 @@
 [
   {
+    "title": "TUKKY GUARDIAN [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tukky.itch.io/tukky-guardian"
+  },
+  {
+    "title": "ballgame [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hamza-ammar202.itch.io/ballgame"
+  },
+  {
+    "title": "Slender Man : Mile Zero [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dark-v4lley-games.itch.io/slender-man-mile"
+  },
+  {
+    "title": "5-Second Café! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://scratch-ct.itch.io/5-second-caf3"
+  },
+  {
+    "title": "Punkman [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://usipetic.itch.io/punkman"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
