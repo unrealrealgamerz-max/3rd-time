@@ -1,5 +1,40 @@
 [
   {
+    "title": "trick or pumpkin [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://icy-coffee.itch.io/trick-or-pumpkin"
+  },
+  {
+    "title": "rpgrapterss [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://razeu.itch.io/rpgrapterss"
+  },
+  {
+    "title": "霊、足しときました。 / Rei, Tashitokimashita. [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shintoworks.itch.io/rei-tashitokimashita"
+  },
+  {
+    "title": "first game [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wakiyu.itch.io/first-game"
+  },
+  {
+    "title": "Little Viking [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://victor-groendahl.itch.io/little-viking"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
