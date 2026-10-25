@@ -1,5 +1,40 @@
 [
   {
+    "title": "jeudeaxel [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://axl-7z.itch.io/fisherman"
+  },
+  {
+    "title": "BACON OBBY.EXE [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lalomax.itch.io/bacon-obbyexe"
+  },
+  {
+    "title": "Secrets of the Forest [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sadtomatoes13.itch.io/secrets-of-the-forest"
+  },
+  {
+    "title": "THE LAST SHIFT [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nightwatch-games.itch.io/the-last-shift"
+  },
+  {
+    "title": "Invasion: Alien Descend [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://air-tornado-studios.itch.io/invasion-alien-descend"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
