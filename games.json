@@ -1,5 +1,40 @@
 [
   {
+    "title": "PolyPlay500 [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rmjoejoe.itch.io/polyplay500"
+  },
+  {
+    "title": "Jupiter Shines On You [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fikou.itch.io/jupiter-shines-on-you"
+  },
+  {
+    "title": "Our Little Cinema Demo [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://eternalbunnystudios.itch.io/our-little-cinema"
+  },
+  {
+    "title": "Lavinia Plants [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arborlune.itch.io/ag01laviniaplants"
+  },
+  {
+    "title": "Lost in Direction [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://diogoandrade.itch.io/lost-in-direction"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
