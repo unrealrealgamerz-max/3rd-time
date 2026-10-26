@@ -1,5 +1,40 @@
 [
   {
+    "title": "Test 1 Artal [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://therealartal.itch.io/test-1-artal"
+  },
+  {
+    "title": "Mestre da Mesa [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jotaveebr.itch.io/mestre-da-mesa"
+  },
+  {
+    "title": "Vida de Gal [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stockbr.itch.io/vida-de-gal"
+  },
+  {
+    "title": "Kite Fight [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alwaystiger.itch.io/kite-fight"
+  },
+  {
+    "title": "With a Little Help from my Bot Friend [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://martadev.itch.io/with-a-little-help-from-my-bot-friend"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
