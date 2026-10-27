@@ -1,5 +1,40 @@
 [
   {
+    "title": "willevlab&#039;s SDL3 Sokoban [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://willevlab.itch.io/willevlabs-sdl3-sokoban"
+  },
+  {
+    "title": "The Airsoft Game [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pjechen.itch.io/gravel-pit-airsoft"
+  },
+  {
+    "title": "Guachiman 9 [Free] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://samuelcarmona83.itch.io/guachiman-9"
+  },
+  {
+    "title": "Murder at the Rosemere - Printable Valentine&#039;s Murder Mystery for Two (1962) [$9.99]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nyanchulabo.itch.io/murder-at-the-rosemere-printable-valentines-murder-mystery-for-two-1962"
+  },
+  {
+    "title": "Torch Acorn: Into the Dark Burrow [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dotorium.itch.io/torch-acorn"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
