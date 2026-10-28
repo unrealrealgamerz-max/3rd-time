@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pulse Weave [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://woooller.itch.io/pulse-weave"
+  },
+  {
+    "title": "Orbit Hop [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://woooller.itch.io/orbit-hop"
+  },
+  {
+    "title": "HAUNTWARE (free demo) [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kqmigqkqri.itch.io/hauntware-demo"
+  },
+  {
+    "title": "Wattle &amp; Brick (Public Alpha Demo) [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://l0v31yc0rn.itch.io/wattle-and-brick"
+  },
+  {
+    "title": "Cozy Café Simulator [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://emmynn.itch.io/cozy-caf-simulator"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
