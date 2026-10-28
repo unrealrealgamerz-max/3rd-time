@@ -1,5 +1,40 @@
 [
   {
+    "title": "sonic xtreme [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://apphero88.itch.io/sonic-xtreme"
+  },
+  {
+    "title": "Melee Manager [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gamedevjuggle.itch.io/melee-manager"
+  },
+  {
+    "title": "Tailout [Free] [Racing] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://daddio-retro.itch.io/tailout"
+  },
+  {
+    "title": "super mario odyssey engine 1.3 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://apphero88.itch.io/super-mario-oddyesey"
+  },
+  {
+    "title": "Desert Rider [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://deimos2306.itch.io/desert-rider"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
