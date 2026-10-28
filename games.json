@@ -1,5 +1,40 @@
 [
   {
+    "title": "Jumpscore [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tomazellagames.itch.io/jump-score"
+  },
+  {
+    "title": "Fun runners [Free] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jadyn1234.itch.io/fun-runnersv1"
+  },
+  {
+    "title": "Paws &amp; Tusks [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://seventhanvilgames.itch.io/paws-and-tusks"
+  },
+  {
+    "title": "Necromancer´s Ruins - ShipGraveyard PLAYTEST 01 [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tacuabegames.itch.io/shipgraveyard-playtest-01"
+  },
+  {
+    "title": "DiscoSim [Free] [Simulation] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jdteo.itch.io/discosim"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
