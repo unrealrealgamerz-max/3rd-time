@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pedro&#039;s Spooky Gambit [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://louiseburt.itch.io/pedros"
+  },
+  {
+    "title": "No Touch! [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kubesitodev.itch.io/no-touch"
+  },
+  {
+    "title": "Horde Carnage Demo [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dandavd.itch.io/horde-carnage-demo"
+  },
+  {
+    "title": "Alma&#039;s Star Gathering [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://almastudiobynoah.itch.io/alma-star-gathering"
+  },
+  {
+    "title": "Donut Chain [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://dizzyghoststudios.itch.io/donut-chain"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
