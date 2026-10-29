@@ -1,5 +1,40 @@
 [
   {
+    "title": "Стрелочник | Switchyard: Tiny Rails [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://schteine.itch.io/switchyard-tiny-rails"
+  },
+  {
+    "title": "Aria-sandbox (RETAKE) [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yambutter01.itch.io/aria-sandbox-retake"
+  },
+  {
+    "title": "Wind Archery · 바람을 붙잡아 [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bbooinge-collab.itch.io/wind-archery-sua"
+  },
+  {
+    "title": "Sky Rope Friends · 폴짝! 구름 줄넘기 [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bbooinge-collab.itch.io/sky-rope-friends-sua"
+  },
+  {
+    "title": "Connected Worlds [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mrcanard.itch.io/connected-worlds"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
