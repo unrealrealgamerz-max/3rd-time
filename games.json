@@ -1,5 +1,40 @@
 [
   {
+    "title": "Quiet Rooms [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aristideexe.itch.io/quiet-rooms"
+  },
+  {
+    "title": "Debra [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zacmax.itch.io/debra"
+  },
+  {
+    "title": "F.A.T. Schnitzel [Free] [Interactive Fiction] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jacedxxm.itch.io/fat-schnitzel"
+  },
+  {
+    "title": "ODDSTEP [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://denfinn.itch.io/oddstep"
+  },
+  {
+    "title": "River Stream [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mikeshin0822.itch.io/riverbloom"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
