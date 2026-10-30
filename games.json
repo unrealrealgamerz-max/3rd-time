@@ -1,5 +1,40 @@
 [
   {
+    "title": "Paseo por el museo [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://macgd.itch.io/paseo-por-el-museo"
+  },
+  {
+    "title": "Under the Needle [$4.99] [Simulation] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lguidolin.itch.io/under-the-needle"
+  },
+  {
+    "title": "Underglow (Demo) [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://klikbate.itch.io/underglow"
+  },
+  {
+    "title": "Compound 7: Dead Night [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aoe26.itch.io/compound-7-dead-night"
+  },
+  {
+    "title": "Incremental Evolution Game [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shishinda.itch.io/incremental-evolution-game"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
