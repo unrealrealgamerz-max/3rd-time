@@ -1,75 +1,5 @@
 [
   {
-    "title": "NeonInvaders [Free] [Shooter] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://jesgame.itch.io/neoninvaders"
-  },
-  {
-    "title": "Macis [$2.00] [Action] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://eitajogos.itch.io/macis"
-  },
-  {
-    "title": "EL PARKE [Free] [Platformer]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://alex-terror.itch.io/elparke"
-  },
-  {
-    "title": "UNAWEKE [$2.99] [Other] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://play-at-work.itch.io/unaweke"
-  },
-  {
-    "title": "Solaris [Free] [Strategy]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://ok-jones.itch.io/solaris"
-  },
-  {
-    "title": "Quiet Rooms [Free] [Puzzle]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://aristideexe.itch.io/quiet-rooms"
-  },
-  {
-    "title": "Debra [Free]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://zacmax.itch.io/debra"
-  },
-  {
-    "title": "F.A.T. Schnitzel [Free] [Interactive Fiction] [Windows]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://jacedxxm.itch.io/fat-schnitzel"
-  },
-  {
-    "title": "ODDSTEP [Free] [Rhythm]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://denfinn.itch.io/oddstep"
-  },
-  {
-    "title": "River Stream [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://mikeshin0822.itch.io/riverbloom"
-  },
-  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
@@ -77,7 +7,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Completed",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -89,29 +19,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/bimbim/",
-    "scraped_at": "2026-10-30T20:37:04.795282Z"
-  },
-  {
-    "id": "fansly",
-    "title": "Fansly",
-    "version": "Unknown",
-    "developer": "Unknown",
-    "engine": "Unity",
-    "censorship": "Uncensored",
-    "status": "Ongoing",
-    "release_date": "30 October, 2026",
-    "file_size": "",
-    "views": "0",
-    "rating": 0,
-    "votes": 0,
-    "cover": "https://www.pornmaniak.com/wp-content/uploads/2024/04/fansly-review.jpg",
-    "screenshots": [],
-    "tags": [],
-    "description": "",
-    "changelog": "",
-    "download_links": [],
-    "source_url": "https://www.pornmaniak.com/fansly/",
-    "scraped_at": "2026-10-30T20:37:02.099677Z"
+    "scraped_at": "2026-10-31T04:59:57.459716Z"
   },
   {
     "id": "fancentro",
@@ -121,7 +29,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -133,7 +41,29 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/fancentro/",
-    "scraped_at": "2026-10-30T20:36:59.226599Z"
+    "scraped_at": "2026-10-31T04:59:54.768270Z"
+  },
+  {
+    "id": "fansly",
+    "title": "Fansly",
+    "version": "Unknown",
+    "developer": "Unknown",
+    "engine": "Unity",
+    "censorship": "Uncensored",
+    "status": "Ongoing",
+    "release_date": "31 October, 2026",
+    "file_size": "",
+    "views": "0",
+    "rating": 0,
+    "votes": 0,
+    "cover": "https://www.pornmaniak.com/wp-content/uploads/2024/04/fansly-review.jpg",
+    "screenshots": [],
+    "tags": [],
+    "description": "",
+    "changelog": "",
+    "download_links": [],
+    "source_url": "https://www.pornmaniak.com/fansly/",
+    "scraped_at": "2026-10-31T04:59:52.054988Z"
   },
   {
     "id": "ismygirl",
@@ -143,7 +73,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Completed",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -155,7 +85,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/ismygirl-review/",
-    "scraped_at": "2026-10-30T20:36:56.220562Z"
+    "scraped_at": "2026-10-31T04:59:49.230781Z"
   },
   {
     "id": "manyvids",
@@ -165,7 +95,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -177,7 +107,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/manyvids/",
-    "scraped_at": "2026-10-30T20:36:53.423602Z"
+    "scraped_at": "2026-10-31T04:59:46.385853Z"
   },
   {
     "id": "onlyfans",
@@ -187,7 +117,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -199,7 +129,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/onlyfans/",
-    "scraped_at": "2026-10-30T20:36:50.713947Z"
+    "scraped_at": "2026-10-31T04:59:43.660465Z"
   },
   {
     "id": "xfanshub",
@@ -209,7 +139,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -221,7 +151,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/xfanshub/",
-    "scraped_at": "2026-10-30T20:36:48.002185Z"
+    "scraped_at": "2026-10-31T04:59:40.930635Z"
   },
   {
     "id": "mymfans",
@@ -231,7 +161,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "30 October, 2026",
+    "release_date": "31 October, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -243,6 +173,6 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/mym-fans/",
-    "scraped_at": "2026-10-30T20:36:45.308186Z"
+    "scraped_at": "2026-10-31T04:59:38.111646Z"
   }
 ]
