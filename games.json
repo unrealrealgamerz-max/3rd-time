@@ -1,5 +1,40 @@
 [
   {
+    "title": "DEADFALL [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://grotnes.itch.io/deadfall"
+  },
+  {
+    "title": "Rental Shootout [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://elevenmeteors.itch.io/rental-shootout"
+  },
+  {
+    "title": "Operation Kabir [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://piratewebx.itch.io/operationkabir"
+  },
+  {
+    "title": "Starfall Hearts [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://forkedpush.itch.io/starfall-hearts"
+  },
+  {
+    "title": "PARANOID: WHY I QUIT PIZZA DELIVERY 2 [Free] [Other] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jinkswasnttaken.itch.io/paranoid-why-i-quit-pizza-delivery-2"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
