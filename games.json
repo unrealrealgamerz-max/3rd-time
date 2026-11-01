@@ -1,5 +1,40 @@
 [
   {
+    "title": "WORLDBREAKER [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://anemoia-games-studio.itch.io/worldbraker"
+  },
+  {
+    "title": "Babel [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://arowx.itch.io/babel"
+  },
+  {
+    "title": "Ashen City [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rutpt1.itch.io/ashen-city"
+  },
+  {
+    "title": "MONKEY MISCHIEF pc edicion [Free] [Role Playing] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bananinha-dev.itch.io/monkey-mischief-pc-edicion"
+  },
+  {
+    "title": "a cool grey treatment reskin mod [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sunset-plus.itch.io/oh-no-evil-grey"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
