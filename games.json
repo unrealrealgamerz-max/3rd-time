@@ -1,5 +1,40 @@
 [
   {
+    "title": "MY FIRST GAME! [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://capoff.itch.io/my-first-game"
+  },
+  {
+    "title": "gugu [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://not-drii.itch.io/gugu"
+  },
+  {
+    "title": "Night Ward [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://limes730.itch.io/night-ward"
+  },
+  {
+    "title": "【demo】Life Course-Out: World Tour [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tadanoyuan.itch.io/life-course-out-demo"
+  },
+  {
+    "title": "Ostracize [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rrecasmar.itch.io/ostracize"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
