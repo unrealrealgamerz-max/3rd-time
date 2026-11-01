@@ -1,5 +1,40 @@
 [
   {
+    "title": "I AM FRANK! [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sufixmenchik.itch.io/i-am-frank"
+  },
+  {
+    "title": "Spot the Bug [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shaharyaramjad.itch.io/spot-the-bug"
+  },
+  {
+    "title": "Haunted Ritual [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hienadev.itch.io/haunted-ritual"
+  },
+  {
+    "title": "Worming up! [Free] [Shooter] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://breadpack.itch.io/worming-up"
+  },
+  {
+    "title": "Legends of Gachimuchi [Free] [Strategy] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ghostframe.itch.io/legends-of-gachimuchi"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
