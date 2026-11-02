@@ -1,5 +1,40 @@
 [
   {
+    "title": "Aftrganga [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ollej.itch.io/aftrganga"
+  },
+  {
+    "title": "VAN HELSING (C64) [$4.99] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://psytronik.itch.io/vanhelsing"
+  },
+  {
+    "title": "Indiana Jones and the temple of doom - Unofficial [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bbgames-it.itch.io/indiana-jones-and-the-temple-of-doom-unofficial"
+  },
+  {
+    "title": "Pumpcatstrophe [Free] [Puzzle] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://office-serval.itch.io/pumpcatstrophe"
+  },
+  {
+    "title": "Sleigh the Spire 🎄🎁 [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://featurekreep.itch.io/sleigh-the-spire"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
