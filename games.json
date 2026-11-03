@@ -1,5 +1,40 @@
 [
   {
+    "title": "Wild Glide [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://placevera.itch.io/wild-glide"
+  },
+  {
+    "title": "Ashbreaker [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lateafcoffee.itch.io/ashbreaker"
+  },
+  {
+    "title": "wh0 [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xf5games.itch.io/wh0"
+  },
+  {
+    "title": "Gilded Hambone [$3.00] [Role Playing] [Windows] [macOS] [Linux] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ez-ice.itch.io/gilded-hambone-game"
+  },
+  {
+    "title": "The Backrooms Rescue Team [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://esoteric-edge-games.itch.io/backrooms-rescue-team"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
