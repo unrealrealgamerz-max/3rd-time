@@ -1,5 +1,40 @@
 [
   {
+    "title": "Avventure Utopiche [Free] [Interactive Fiction]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://giorgio-banana.itch.io/avventure-utopiche"
+  },
+  {
+    "title": "Core Drain PlayTest v1.2 [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://semihe29.itch.io/core-drain-test"
+  },
+  {
+    "title": "20//OVER [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tedins.itch.io/20over"
+  },
+  {
+    "title": "ASMR Game [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lemoncat323.itch.io/asmr"
+  },
+  {
+    "title": "Moulin Rouge (playdate) [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://adjam.itch.io/moulin-rouge"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
