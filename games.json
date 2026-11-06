@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sheep [Free] [Rhythm]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://partyon.itch.io/sheep"
+  },
+  {
+    "title": "Building Better [Free] [Simulation] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://buildingbettergame.itch.io/building-better"
+  },
+  {
+    "title": "Descension - Layer 1 (Playtest/Demo) [Free] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rairbgames.itch.io/descension-playtest"
+  },
+  {
+    "title": "hellfront [Free] [Shooter] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://prasce.itch.io/hellfront"
+  },
+  {
+    "title": "Selling Phone Tycoon [Free] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://playerxd2089.itch.io/selling-phone-tycoon"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
