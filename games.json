@@ -1,5 +1,40 @@
 [
   {
+    "title": "Mach 1 Postal [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ethanroche26.itch.io/mach-1-postal"
+  },
+  {
+    "title": "Snowball Run [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tankweeb.itch.io/snowball-run"
+  },
+  {
+    "title": "The Last Fire [Free] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://stariyzxc.itch.io/the-last-fire"
+  },
+  {
+    "title": "Keepsake County [$24.99] [Shooter] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://forwardinstinct.itch.io/keepsake-county"
+  },
+  {
+    "title": "WIN CODE: לומדים לתכנת דרך משחק [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://winworldgame.itch.io/win-code"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
