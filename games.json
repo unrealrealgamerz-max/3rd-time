@@ -1,5 +1,40 @@
 [
   {
+    "title": "LIQUEN [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://alberto-chacon9.itch.io/liquen"
+  },
+  {
+    "title": "Egg&#039;s Gambit [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gvugames.itch.io/eggs-gambit"
+  },
+  {
+    "title": "Beetle Be💎Dazzler [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://samaritan-burden.itch.io/beetle-bedazzler"
+  },
+  {
+    "title": "nuclearFX [Free] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://the-frog24.itch.io/nuclearfx"
+  },
+  {
+    "title": "Top Floor Override [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://seeinsideme.itch.io/top-floor-override"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
