@@ -1,5 +1,40 @@
 [
   {
+    "title": "Steelwake Demo [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lumiolab.itch.io/steelwake"
+  },
+  {
+    "title": "Guess the number [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://devnoggy944.itch.io/gtn-made-in-perl"
+  },
+  {
+    "title": "King Platformer [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://slayerarman.itch.io/king-platformer"
+  },
+  {
+    "title": "NGẠI (1930) — Chuyện Làng Đồng Ngại [Siêu Early Access] [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://theday08.itch.io/ngai-1930"
+  },
+  {
+    "title": "犬いっぱいいんだ～よ [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://studio-liebe.itch.io/dog-memory"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
