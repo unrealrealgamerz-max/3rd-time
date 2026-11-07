@@ -1,5 +1,40 @@
 [
   {
+    "title": "FIELD スマホ機器チェック [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sotasakamoto.itch.io/field-device-check"
+  },
+  {
+    "title": "Hired Yet? | Early Access [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hrishi-sarma.itch.io/hired-yet"
+  },
+  {
+    "title": "Cut to Escape [Free] [Puzzle] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aouinzouayoub.itch.io/cut-to-escape"
+  },
+  {
+    "title": "miss you [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://leon-mi.itch.io/miss-you"
+  },
+  {
+    "title": "RPG Survivors (Demo) [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://juanfmurrieta.itch.io/rpg-survivors"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
