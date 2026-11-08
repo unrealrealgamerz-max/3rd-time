@@ -1,5 +1,40 @@
 [
   {
+    "title": "Light Trails [$5.00] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://loopiko.itch.io/light-trails"
+  },
+  {
+    "title": "Magnet Panic [$5.00] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://loopiko.itch.io/magnet-panic"
+  },
+  {
+    "title": "Sling Chaos [$5.00] [Puzzle] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://loopiko.itch.io/sling-chaos"
+  },
+  {
+    "title": "memory-pairs [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://patrickmck.itch.io/memory-pairs"
+  },
+  {
+    "title": "Shift Happens [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zoraj.itch.io/shift-happens"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
