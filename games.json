@@ -1,5 +1,40 @@
 [
   {
+    "title": "SQIJ (arcade) [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sokurah.itch.io/sqij-arcade"
+  },
+  {
+    "title": "Trash The Trojan [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zodiqq.itch.io/trash-the-trojan"
+  },
+  {
+    "title": "Pokemon SoulSilver česky [$1.00] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bbbattle.itch.io/pokemon-soulsilver-esky"
+  },
+  {
+    "title": "Akluce Orbit [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://akluce.itch.io/akluce-orbit"
+  },
+  {
+    "title": "ADJACENCY [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://redvelviecake.itch.io/adjacency"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
