@@ -1,5 +1,40 @@
 [
   {
+    "title": "Seed Intern [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jberek.itch.io/seed-intern"
+  },
+  {
+    "title": "Zombolito [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aguaragames.itch.io/zombolito"
+  },
+  {
+    "title": "Floor 13 [$9.99] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://karasangames.itch.io/floor-13"
+  },
+  {
+    "title": "Les adieux ont goût de soleil [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://saemi033.itch.io/soleil"
+  },
+  {
+    "title": "Louvren ryöstö [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pek-pelit.itch.io/louvren-ryosto"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
