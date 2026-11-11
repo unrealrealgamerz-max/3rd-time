@@ -1,5 +1,40 @@
 [
   {
+    "title": "Fora do Ar [Free] [Educational] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://melissaalves-stack.itch.io/foradoar"
+  },
+  {
+    "title": "Mission Apophis [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pur0ky.itch.io/mission-apophis"
+  },
+  {
+    "title": "Luck Is No Master [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mike-avrius.itch.io/luck-is-no-master"
+  },
+  {
+    "title": "Mahjong: One Reserve [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://intercrusstars.itch.io/mahjong-one-reserve"
+  },
+  {
+    "title": "TheAdams Brain Adventure [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://husseinchehade.itch.io/theadams-brain-adventure"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
