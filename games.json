@@ -1,5 +1,40 @@
 [
   {
+    "title": "RbotShift [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pantoygames.itch.io/rbotshift"
+  },
+  {
+    "title": "Plankout [$1.99] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://hudagame.itch.io/plankout"
+  },
+  {
+    "title": "Chai Tycoon [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mygameseleven.itch.io/chai-tycoon"
+  },
+  {
+    "title": "Hearth &amp; Heirs (Alpha Demo) [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ynotved.itch.io/hearth-heirs"
+  },
+  {
+    "title": "CPE Party [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wackywahoopizza.itch.io/cpe-party"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
