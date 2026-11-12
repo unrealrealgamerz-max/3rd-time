@@ -1,5 +1,40 @@
 [
   {
+    "title": "Glam Run [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lincex16.itch.io/glam-run"
+  },
+  {
+    "title": "Name Correction [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://detrear.itch.io/name-correction"
+  },
+  {
+    "title": "Protocol Twelve [$2.50] [Simulation] [Windows] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://keyac.itch.io/protocol-twelve"
+  },
+  {
+    "title": "Dice is Rolling [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nand-gate.itch.io/dice-is-rolling"
+  },
+  {
+    "title": "BrokenHope [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zzy4516.itch.io/brokenhope"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
