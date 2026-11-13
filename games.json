@@ -1,5 +1,40 @@
 [
   {
+    "title": "ドパ・牡蠣 [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bun-agais.itch.io/dopa-gaki"
+  },
+  {
+    "title": "Juggernaut [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://smoggy75.itch.io/juggernaut"
+  },
+  {
+    "title": "Void Ashes [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://riopt.itch.io/void-ashes"
+  },
+  {
+    "title": "Crazy 2046 [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kofiharmony.itch.io/crazy-2046"
+  },
+  {
+    "title": "Lastik Dükkanı: Tire Shop Simulator (Demo) [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ozvok.itch.io/tire-shop-simulator"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
