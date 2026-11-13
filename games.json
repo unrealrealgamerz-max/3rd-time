@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ribblix [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ribbitzio.itch.io/ribblix"
+  },
+  {
+    "title": "Futsal Elite 2026 [9.90€] [Sports] [Windows] [macOS]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://futsal-elite.itch.io/futsal-elite-2026"
+  },
+  {
+    "title": "Warlock Arena [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://night7ucker.itch.io/warlock-arena"
+  },
+  {
+    "title": "Alfinia [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://studioalfi.itch.io/alfinia"
+  },
+  {
+    "title": "Overparked Inc [$8.00] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lesuf.itch.io/overparked-inc"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
