@@ -1,5 +1,40 @@
 [
   {
+    "title": "Bounce Up [Free] [Platformer] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://powerblock2000.itch.io/bounce-up"
+  },
+  {
+    "title": "Dance, David, Dance! [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sc0l10.itch.io/dance-david-dance"
+  },
+  {
+    "title": "MickeyBounce [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thesigmas67.itch.io/mickeybounce"
+  },
+  {
+    "title": "Bouncy Bois [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://yonyll-html.itch.io/bouncy-bois"
+  },
+  {
+    "title": "Ebb &amp; Flock [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://good-on-paper.itch.io/ebb-and-flock"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
