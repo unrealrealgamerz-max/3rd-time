@@ -1,5 +1,40 @@
 [
   {
+    "title": "HACKER LIFE [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://iismax1.itch.io/hacker-life"
+  },
+  {
+    "title": "Lost Egg Valley [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lillefot92.itch.io/lost-egg-valley"
+  },
+  {
+    "title": "Starlamp Traveler [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lunarcapgames.itch.io/starlamp-traveler"
+  },
+  {
+    "title": "Forge(777) [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://po2zn.itch.io/forge777"
+  },
+  {
+    "title": "Emberfall [$1.99] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://giogiodev.itch.io/emberfall"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
