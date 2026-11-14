@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pogo-No-Go [Free] [Educational]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nulkai.itch.io/pogo-no-go"
+  },
+  {
+    "title": "《话有点挤》Inner Struggle [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gegeyutong.itch.io/inner-struggle"
+  },
+  {
+    "title": "Lost Space [Free] [Role Playing]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nytryll.itch.io/lost-space"
+  },
+  {
+    "title": "Recyclinghof (Recycling Yard) [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://xetcraft.itch.io/recyclinghof"
+  },
+  {
+    "title": "NIGHTBREACH [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tenji-games.itch.io/nightbreach"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
