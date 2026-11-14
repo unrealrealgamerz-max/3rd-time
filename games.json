@@ -1,5 +1,40 @@
 [
   {
+    "title": "cold tomato [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://melonport.itch.io/cold-tomato"
+  },
+  {
+    "title": "GRACE II [Free] [Survival]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aguy1g.itch.io/grace-ii"
+  },
+  {
+    "title": "Lucky Bolt [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ezkatme.itch.io/lucky-bolt"
+  },
+  {
+    "title": "Fireteam Strike [Free] [Shooter]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://salut-games.itch.io/fireteam-strike"
+  },
+  {
+    "title": "The Lucky Hotel [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sersk.itch.io/the-lucky-hotel"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
