@@ -1,5 +1,40 @@
 [
   {
+    "title": "Patelin [Free] [Card Game]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tonpatelin.itch.io/patelin"
+  },
+  {
+    "title": "Rigged to Fail [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://riuthamus.itch.io/rigged-to-fail"
+  },
+  {
+    "title": "W1ser Mechs [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://w1ser-games.itch.io/w1ser-mechs"
+  },
+  {
+    "title": "Various Devices: Episode 2 [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://krisekrise.itch.io/various-devices-episode-2"
+  },
+  {
+    "title": "Rest &amp; Vest [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://overcapacity-studios.itch.io/rest-and-vest"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
