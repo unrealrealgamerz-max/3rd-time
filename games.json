@@ -1,5 +1,40 @@
 [
   {
+    "title": "Memoir [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kadenissilly.itch.io/memoir"
+  },
+  {
+    "title": "Lucidity [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://wregal-wren.itch.io/lucidity"
+  },
+  {
+    "title": "AquaSort Puzzle [Free] [Puzzle] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jevinsprunki13.itch.io/aquasort-puzzle"
+  },
+  {
+    "title": "I dont know whats happening. [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tieto.itch.io/i-dont-know-whats-happening"
+  },
+  {
+    "title": "Sneaky Donkey [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kosmoexe.itch.io/sneaky-donkey"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
