@@ -1,5 +1,40 @@
 [
   {
+    "title": "Tebang [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://rap404.itch.io/tebang"
+  },
+  {
+    "title": "Prism Hero [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://reshvitagames.itch.io/prismhero"
+  },
+  {
+    "title": "Unpacking Myself [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nema-pintuair.itch.io/unpacking-myself"
+  },
+  {
+    "title": "supertest [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://willtowin00.itch.io/supertest"
+  },
+  {
+    "title": "As Aventuras de um Jogador - Copa da Caneta [Free] [Sports] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://immoonchild.itch.io/as-aventuras-de-um-jogador"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
