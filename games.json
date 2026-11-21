@@ -1,40 +1,5 @@
 [
   {
-    "title": "The Primary [Free] [Strategy]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://campaign-margins.itch.io/the-primary"
-  },
-  {
-    "title": "BloodBath 0.5.0 [Free] [Simulation] [Android]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://steamtower1.itch.io/bloodbath-050"
-  },
-  {
-    "title": "The World in a Suitcase [Free] [Puzzle]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://algorys1.itch.io/the-world-in-a-suitcase"
-  },
-  {
-    "title": "BLUE CITY RP OPEN WORLD [Free] [Android]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://faizan87-a11369.itch.io/httpsblue-city-rp-formaistudio"
-  },
-  {
-    "title": "Emberwood Fantasy Props [$3.00] [Adventure]",
-    "version": "v1.0 New",
-    "category": "Arcade",
-    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
-    "download_url": "https://badhareclub.itch.io/emberwood-fantasy-props"
-  },
-  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
@@ -42,7 +7,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Completed",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -54,29 +19,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/bimbim/",
-    "scraped_at": "2026-11-20T16:52:23.128761Z"
-  },
-  {
-    "id": "fancentro",
-    "title": "FanCentro",
-    "version": "Unknown",
-    "developer": "Unknown",
-    "engine": "Unity",
-    "censorship": "Uncensored",
-    "status": "Ongoing",
-    "release_date": "20 November, 2026",
-    "file_size": "",
-    "views": "0",
-    "rating": 0,
-    "votes": 0,
-    "cover": "https://www.pornmaniak.com/wp-content/uploads/2024/04/FanCentro-1024x484.png",
-    "screenshots": [],
-    "tags": [],
-    "description": "",
-    "changelog": "",
-    "download_links": [],
-    "source_url": "https://www.pornmaniak.com/fancentro/",
-    "scraped_at": "2026-11-20T16:52:20.013887Z"
+    "scraped_at": "2026-11-21T01:15:42.733691Z"
   },
   {
     "id": "fansly",
@@ -86,7 +29,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -98,7 +41,29 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/fansly/",
-    "scraped_at": "2026-11-20T16:52:16.825799Z"
+    "scraped_at": "2026-11-21T01:15:39.770740Z"
+  },
+  {
+    "id": "fancentro",
+    "title": "FanCentro",
+    "version": "Unknown",
+    "developer": "Unknown",
+    "engine": "Unity",
+    "censorship": "Uncensored",
+    "status": "Ongoing",
+    "release_date": "21 November, 2026",
+    "file_size": "",
+    "views": "0",
+    "rating": 0,
+    "votes": 0,
+    "cover": "https://www.pornmaniak.com/wp-content/uploads/2024/04/FanCentro-1024x484.png",
+    "screenshots": [],
+    "tags": [],
+    "description": "",
+    "changelog": "",
+    "download_links": [],
+    "source_url": "https://www.pornmaniak.com/fancentro/",
+    "scraped_at": "2026-11-21T01:15:36.671373Z"
   },
   {
     "id": "ismygirl",
@@ -108,7 +73,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Completed",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -120,7 +85,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/ismygirl-review/",
-    "scraped_at": "2026-11-20T16:52:13.577027Z"
+    "scraped_at": "2026-11-21T01:15:33.586122Z"
   },
   {
     "id": "manyvids",
@@ -130,7 +95,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -142,7 +107,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/manyvids/",
-    "scraped_at": "2026-11-20T16:52:10.461248Z"
+    "scraped_at": "2026-11-21T01:15:30.500415Z"
   },
   {
     "id": "onlyfans",
@@ -152,7 +117,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -164,7 +129,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/onlyfans/",
-    "scraped_at": "2026-11-20T16:52:07.173370Z"
+    "scraped_at": "2026-11-21T01:15:27.427279Z"
   },
   {
     "id": "xfanshub",
@@ -174,7 +139,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -186,7 +151,7 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/xfanshub/",
-    "scraped_at": "2026-11-20T16:52:04.063898Z"
+    "scraped_at": "2026-11-21T01:15:24.401140Z"
   },
   {
     "id": "mymfans",
@@ -196,7 +161,7 @@
     "engine": "Unity",
     "censorship": "Uncensored",
     "status": "Ongoing",
-    "release_date": "20 November, 2026",
+    "release_date": "21 November, 2026",
     "file_size": "",
     "views": "0",
     "rating": 0,
@@ -208,6 +173,6 @@
     "changelog": "",
     "download_links": [],
     "source_url": "https://www.pornmaniak.com/mym-fans/",
-    "scraped_at": "2026-11-20T16:52:01.049970Z"
+    "scraped_at": "2026-11-21T01:15:21.414594Z"
   }
 ]
