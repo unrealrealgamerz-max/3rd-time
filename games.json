@@ -1,5 +1,40 @@
 [
   {
+    "title": "Liquid Cats [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://gianttreegames.itch.io/liquid-cats"
+  },
+  {
+    "title": "Porch Slingshot: Can Toss [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ezviet.itch.io/porch-slingshot-can-toss"
+  },
+  {
+    "title": "Dead Orbit [Free] [Survival] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://nightfallentertainment.itch.io/dead-orbit"
+  },
+  {
+    "title": "Seize Siege [Free] [Card Game] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pepetromdev.itch.io/seize-siege"
+  },
+  {
+    "title": "Pinball Construction Set 2026 [Free] [Simulation] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://thes-soner-of-fun-games.itch.io/pinball-construction-set-2026"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
