@@ -1,5 +1,40 @@
 [
   {
+    "title": "ConnectMe [Free] [Puzzle] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://faaraan72.itch.io/connectme"
+  },
+  {
+    "title": "MR. LONG LEG - Construct 3 template [$10.00] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://construct-3.itch.io/mr-long-leg"
+  },
+  {
+    "title": "Darkline: Echoes Below [Free] [Strategy] [Android]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://abgepixelt.itch.io/darkline-echoes-below"
+  },
+  {
+    "title": "Magic Fusion [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pudim-creator.itch.io/magic-fusion"
+  },
+  {
+    "title": "TopDownWorld [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://idk-sadw12.itch.io/topdownworld"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
