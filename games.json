@@ -1,5 +1,40 @@
 [
   {
+    "title": "Space Runner [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bitzack.itch.io/space-runner"
+  },
+  {
+    "title": "(frogs.) BETA FOR DA BOIS ONLY [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://lucidvrstudios.itch.io/frogs-beta-for-da-bois-only"
+  },
+  {
+    "title": "GRÍMNIR [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://berxiv.itch.io/grmnir"
+  },
+  {
+    "title": "僕らの大気圏突破 第3話「ロボットの夏休み」 [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://miorock.itch.io/bokura-episode-03"
+  },
+  {
+    "title": "Reversi Rivals [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://infinityrunes.itch.io/reversi-rivals"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
