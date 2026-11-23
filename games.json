@@ -1,5 +1,40 @@
 [
   {
+    "title": "Hollow Garden [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://eg-game.itch.io/hollow-garden"
+  },
+  {
+    "title": "One Batch More [Free] [Other]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cmbtz.itch.io/one-batch-more"
+  },
+  {
+    "title": "Mental Damage [Free] [Other] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://emir-zenith.itch.io/mental-damage"
+  },
+  {
+    "title": "Periscope depth [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://federicoaglietti.itch.io/periscope-depth"
+  },
+  {
+    "title": "sp3ctr 0 sc0pe [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://mamamamajelly.itch.io/sp3ctr-0-sc0pe"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
