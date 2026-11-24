@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Last Space Shepherd [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zmarm11.itch.io/the-last-space-shepherd"
+  },
+  {
+    "title": "Aether Weaver [$3.99] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://aiman-zahoor.itch.io/aether-weaver"
+  },
+  {
+    "title": "REDLINE 50 [DEMO] [Free] [Adventure] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://fredor.itch.io/redlihe-50-demo"
+  },
+  {
+    "title": "Colon3 [Free] [Action] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://beekow.itch.io/colon3"
+  },
+  {
+    "title": "Lanternroad [Free] [Strategy] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://pineapple1855.itch.io/lanternroad"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
