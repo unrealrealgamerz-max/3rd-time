@@ -1,5 +1,40 @@
 [
   {
+    "title": "Hush Moths: Night Lantern Puzzle [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://tommygun069842.itch.io/lantern-moth-hush"
+  },
+  {
+    "title": "Pizzeria Diarrhea [Free] [Other] [Windows] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://twilight-arcade.itch.io/pizz"
+  },
+  {
+    "title": "Last Light (Demo) [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://shouvik12.itch.io/last-light-demo"
+  },
+  {
+    "title": "2048: CHAOS [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://bernardyow-933.itch.io/2048-chaos"
+  },
+  {
+    "title": "Sat Launch Enterprises [Free] [Simulation] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kielbasapierogi.itch.io/sat-launch-enterprises"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
