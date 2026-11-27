@@ -1,5 +1,40 @@
 [
   {
+    "title": "multijugador [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://doperpixel.itch.io/multijugador"
+  },
+  {
+    "title": "Flappy Space Runner [Free] [Action] [Windows]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://abedev1.itch.io/flappy-space-runner"
+  },
+  {
+    "title": "Happy Birthday Raven !!! [Free] [Windows] [macOS] [Linux]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://kyfayvel.itch.io/hbdr"
+  },
+  {
+    "title": "outpost-zero [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://opung-suka-roti.itch.io/outpost-zero"
+  },
+  {
+    "title": "K-120 Ski Jump [Free] [Sports]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://myminigamesbar.itch.io/k-120-ski-jump"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
