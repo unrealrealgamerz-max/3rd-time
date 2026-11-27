@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Borrowed Tide [Free] [Adventure]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://sflynn1812.itch.io/the-borrowed-tide"
+  },
+  {
+    "title": "Gemini Generated Games [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://levitalksalot.itch.io/gemini-generated-games"
+  },
+  {
+    "title": "Concrete Nightmares Presents: TAXI [Free] [Strategy]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://indovalid.itch.io/concrete-nightmares-presents-taxi"
+  },
+  {
+    "title": "The Space Toad [Free] [Simulation]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://neargut.itch.io/the-space-toad"
+  },
+  {
+    "title": "Cozy Meadow: A Room of Our Own [Free]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://claudeovernight.itch.io/cozy-meadow-a-room-of-our-own"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
