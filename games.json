@@ -1,5 +1,40 @@
 [
   {
+    "title": "Dice Arena [Free] [Action]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://jnethery.itch.io/dice-arena"
+  },
+  {
+    "title": "Synergy [Free] [Visual Novel]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://ohrats01.itch.io/synergy"
+  },
+  {
+    "title": "Toxic Fighters [Free] [Fighting]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://zayid92.itch.io/toxic-fighters"
+  },
+  {
+    "title": "Bone Merge [Free] [Puzzle]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://cecelah-studio.itch.io/bone-merge"
+  },
+  {
+    "title": "Recoil Ridge [Free] [Platformer]",
+    "version": "v1.0 New",
+    "category": "Arcade",
+    "image_url": "https://via.placeholder.com/300x400?text=No+Preview",
+    "download_url": "https://henrydagoat.itch.io/recoil-ridge"
+  },
+  {
     "id": "bimbim",
     "title": "BimBim",
     "version": "vis",
